@@ -1,6 +1,36 @@
+name: FPL Snapshot
 
 on:
   schedule:
     - cron: "0 8 * * *"
     - cron: "0 18 * * *"
-  workflow_dispatch
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Take snapshot
+        run: |
+          python scripts/snapshot.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/snapshots
+          git commit -m "Add FPL snapshot" || echo "No changes"
+          git push
