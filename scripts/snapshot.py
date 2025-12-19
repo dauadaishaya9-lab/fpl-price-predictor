@@ -1,26 +1,74 @@
-import requests
-import json
 from pathlib import Path
-from datetime import datetime
+import requests
+import pandas as pd
+import datetime
+import sys
 
-SNAPSHOT_DIR = Path("data/snapshots")
+# =========================
+# CONFIG
+# =========================
+FPL_BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
+
+SNAPSHOT_DIR = Path("data") / "snapshots"
+
+# =========================
+# ENSURE DIRECTORY IS VALID
+# =========================
+if SNAPSHOT_DIR.exists() and not SNAPSHOT_DIR.is_dir():
+    raise RuntimeError("data/snapshots exists but is not a directory")
+
 SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
 
-URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
-
-def main():
-    response = requests.get(URL, timeout=30)
+# =========================
+# FETCH DATA
+# =========================
+try:
+    response = requests.get(FPL_BOOTSTRAP_URL, timeout=30)
     response.raise_for_status()
-    data = response.json()
+except Exception as e:
+    print(f"❌ Failed to fetch FPL data: {e}")
+    sys.exit(1)
 
-    now = datetime.utcnow()
-    suffix = "AM" if now.hour < 12 else "PM"
-    filename = SNAPSHOT_DIR / f"{now.date()}_{suffix}.json"
+data = response.json()
 
-    with open(filename, "w") as f:
-        json.dump(data, f)
+players = data.get("elements", [])
+teams = {t["id"]: t["name"] for t in data.get("teams", [])}
 
-    print(f"✅ Snapshot saved to {filename.resolve()}")
+if not players:
+    print("❌ No player data returned")
+    sys.exit(1)
 
-if __name__ == "__main__":
-    main()
+# =========================
+# BUILD SNAPSHOT TABLE
+# =========================
+rows = []
+
+for p in players:
+    rows.append({
+        "player_id": p["id"],
+        "web_name": p["web_name"],
+        "first_name": p["first_name"],
+        "second_name": p["second_name"],
+        "team": teams.get(p["team"], "Unknown"),
+        "now_cost": p["now_cost"] / 10,  # convert to £
+        "selected_by_percent": float(p["selected_by_percent"]),
+        "transfers_in_event": p["transfers_in_event"],
+        "transfers_out_event": p["transfers_out_event"],
+        "total_points": p["total_points"],
+        "form": float(p["form"]) if p["form"] else 0.0,
+        "minutes": p["minutes"],
+        "status": p["status"],
+    })
+
+df = pd.DataFrame(rows)
+
+# =========================
+# SAVE SNAPSHOT
+# =========================
+timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
+snapshot_path = SNAPSHOT_DIR / f"snapshot_{timestamp}.csv"
+
+df.to_csv(snapshot_path, index=False)
+
+print(f"✅ Snapshot saved: {snapshot_path}")
+print(f"📊 Players captured: {len(df)}")
