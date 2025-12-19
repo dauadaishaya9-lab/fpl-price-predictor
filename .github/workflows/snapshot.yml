@@ -1,4 +1,4 @@
-name: FPL Snapshot
+name: FPL Snapshot & Alerts
 
 on:
   schedule:
@@ -34,7 +34,20 @@ jobs:
       - name: Compute trends
         run: python scripts/compute_trends.py
 
+      # ✅ FORCE Telegram secrets into runtime
       - name: Send Telegram alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_alerts.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data
+          git commit -m "Update FPL snapshots, deltas, trends, and alerts" || echo "No changes to commit"
+          git push      - name: Send Telegram alerts
         run: python scripts/send_alerts.py
 
       - name: Commit data
