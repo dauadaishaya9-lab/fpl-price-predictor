@@ -28,7 +28,8 @@ def send_telegram(message: str):
     except Exception as e:
         print(f"⚠️ Telegram send failed: {e}")
 
-
+print("DEBUG: BOT TOKEN FOUND =", bool(TELEGRAM_TOKEN))
+print("DEBUG: CHAT ID FOUND =", bool(TELEGRAM_CHAT_ID))
 def main():
     # ✅ ALWAYS SEND TEST PING (CONFIRMS BOT IS ALIVE)
     send_telegram("🧪 *FPL Bot Test*\nTelegram connection is active.")
