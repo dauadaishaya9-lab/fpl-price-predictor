@@ -73,7 +73,7 @@ def main():
         name = row["name"]
         price = row.get("price", "?")
         trend = float(row.get("trend_score", 0))
-        ownership = float(row.get("selected_by_percent", 0))
+        ownership = float(row.get("ownership", 0))
         price_change = float(row.get("price_change", 0))
 
         threshold = adaptive_threshold(ownership)
