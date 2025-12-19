@@ -30,7 +30,8 @@ jobs:
 
       - name: Compute deltas
         run: python scripts/compute_deltas.py
-
+- name: Compute velocity
+  run: python scripts/compute_velocity.py
       - name: Compute trends
         run: python scripts/compute_trends.py
 
