@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -22,22 +22,16 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies (debug)
-        run: |
-          echo "=== Repo contents ==="
-          ls -la
-          echo "=== requirements.txt ==="
-          cat requirements.txt
-          pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: Take snapshot
-        run: |
-          python scripts/snapshot.py
+      - name: Take FPL snapshot
+        run: python scripts/snapshot.py
 
       - name: Commit snapshot
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/snapshots
-          git commit -m "Add FPL snapshot" || echo "No changes"
+          git commit -m "Add FPL snapshot" || echo "No changes to commit"
           git push
