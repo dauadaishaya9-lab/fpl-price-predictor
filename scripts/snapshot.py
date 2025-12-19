@@ -4,24 +4,16 @@ import pandas as pd
 import datetime
 import sys
 
-# =========================
-# CONFIG
-# =========================
 FPL_BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
-
 SNAPSHOT_DIR = Path("data") / "snapshots"
 
-# =========================
-# ENSURE DIRECTORY IS VALID
-# =========================
+# Ensure snapshots path is a directory
 if SNAPSHOT_DIR.exists() and not SNAPSHOT_DIR.is_dir():
     raise RuntimeError("data/snapshots exists but is not a directory")
 
 SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
 
-# =========================
-# FETCH DATA
-# =========================
+# Fetch FPL data
 try:
     response = requests.get(FPL_BOOTSTRAP_URL, timeout=30)
     response.raise_for_status()
@@ -34,15 +26,7 @@ data = response.json()
 players = data.get("elements", [])
 teams = {t["id"]: t["name"] for t in data.get("teams", [])}
 
-if not players:
-    print("❌ No player data returned")
-    sys.exit(1)
-
-# =========================
-# BUILD SNAPSHOT TABLE
-# =========================
 rows = []
-
 for p in players:
     rows.append({
         "player_id": p["id"],
@@ -50,7 +34,7 @@ for p in players:
         "first_name": p["first_name"],
         "second_name": p["second_name"],
         "team": teams.get(p["team"], "Unknown"),
-        "now_cost": p["now_cost"] / 10,  # convert to £
+        "now_cost": p["now_cost"] / 10,
         "selected_by_percent": float(p["selected_by_percent"]),
         "transfers_in_event": p["transfers_in_event"],
         "transfers_out_event": p["transfers_out_event"],
@@ -62,9 +46,6 @@ for p in players:
 
 df = pd.DataFrame(rows)
 
-# =========================
-# SAVE SNAPSHOT
-# =========================
 timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
 snapshot_path = SNAPSHOT_DIR / f"snapshot_{timestamp}.csv"
 
