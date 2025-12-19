@@ -7,10 +7,6 @@ OUTPUT_PATH = Path("data/latest.csv")
 
 
 def load_latest_snapshots():
-    """
-    Load the two most recent snapshot CSV files.
-    Returns (previous_path, current_path) or (None, None) if not enough data.
-    """
     if not SNAPSHOT_DIR.exists():
         print("ℹ️ No snapshots directory yet — skipping deltas")
         return None, None
@@ -25,19 +21,15 @@ def load_latest_snapshots():
 
 
 def compute_deltas(prev_path: Path, curr_path: Path) -> pd.DataFrame:
-    """
-    Compute player-level deltas between two snapshots.
-    """
     prev = pd.read_csv(prev_path)
     curr = pd.read_csv(curr_path)
 
-    # Ensure required columns exist
     required_cols = {
-        "id",
+        "player_id",
         "web_name",
         "now_cost",
-        "total_transfers_in",
-        "total_transfers_out",
+        "transfers_in_event",
+        "transfers_out_event",
     }
 
     if not required_cols.issubset(prev.columns) or not required_cols.issubset(
@@ -47,7 +39,7 @@ def compute_deltas(prev_path: Path, curr_path: Path) -> pd.DataFrame:
 
     merged = curr.merge(
         prev,
-        on="id",
+        on="player_id",
         suffixes=("_curr", "_prev"),
         how="inner",
     )
@@ -57,13 +49,13 @@ def compute_deltas(prev_path: Path, curr_path: Path) -> pd.DataFrame:
     ) / 10.0
 
     merged["transfers_in_delta"] = (
-        merged["total_transfers_in_curr"]
-        - merged["total_transfers_in_prev"]
+        merged["transfers_in_event_curr"]
+        - merged["transfers_in_event_prev"]
     )
 
     merged["transfers_out_delta"] = (
-        merged["total_transfers_out_curr"]
-        - merged["total_transfers_out_prev"]
+        merged["transfers_out_event_curr"]
+        - merged["transfers_out_event_prev"]
     )
 
     merged["net_transfers_delta"] = (
@@ -72,18 +64,27 @@ def compute_deltas(prev_path: Path, curr_path: Path) -> pd.DataFrame:
 
     result = merged[
         [
-            "id",
+            "player_id",
             "web_name_curr",
             "now_cost_curr",
             "price_change",
             "transfers_in_delta",
             "transfers_out_delta",
             "net_transfers_delta",
+            "selected_by_percent_curr",
+            "form_curr",
+            "minutes_curr",
+            "status_curr",
         ]
     ].rename(
         columns={
+            "player_id": "id",
             "web_name_curr": "name",
             "now_cost_curr": "price",
+            "selected_by_percent_curr": "ownership",
+            "form_curr": "form",
+            "minutes_curr": "minutes",
+            "status_curr": "status",
         }
     )
 
