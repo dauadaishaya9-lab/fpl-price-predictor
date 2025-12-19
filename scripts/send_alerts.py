@@ -22,11 +22,14 @@ def send_telegram(message: str):
         "parse_mode": "Markdown",
     }
 
-    requests.post(url, json=payload, timeout=10).raise_for_status()
-    print("📨 Telegram alert sent")
+    try:
+        requests.post(url, json=payload, timeout=10).raise_for_status()
+        print("📨 Telegram alert sent")
+    except Exception as e:
+        print(f"⚠️ Telegram send failed: {e}")
 
 
-def adaptive_threshold(ownership: float):
+def adaptive_threshold(ownership: float) -> float:
     if ownership >= 20:
         return 0.85
     elif ownership >= 5:
@@ -36,15 +39,28 @@ def adaptive_threshold(ownership: float):
 
 
 def main():
+    # Required files check
     for path in [LATEST_PATH, WATCHLIST_PATH]:
         if not os.path.exists(path):
+            print(f"ℹ️ Missing {path} — skipping alerts")
             return
 
     latest = pd.read_csv(LATEST_PATH)
     watchlist = pd.read_csv(WATCHLIST_PATH)
 
-    latest = latest[latest["name"].isin(watchlist["name"])]
+    if "name" not in watchlist.columns:
+        print("⚠️ watchlist.csv must contain a 'name' column")
+        return
 
+    # Filter to watchlist players only
+    watch_names = set(watchlist["name"].astype(str))
+    latest = latest[latest["name"].isin(watch_names)]
+
+    if latest.empty:
+        print("ℹ️ No watchlist players found")
+        return
+
+    # Load trends if available
     if os.path.exists(TRENDS_PATH):
         trends = pd.read_csv(TRENDS_PATH)
         latest = latest.merge(trends, on="name", how="left")
@@ -55,13 +71,14 @@ def main():
 
     for _, row in latest.iterrows():
         name = row["name"]
-        price = row["price"]
-        trend = row.get("trend_score", 0)
+        price = row.get("price", "?")
+        trend = float(row.get("trend_score", 0))
         ownership = float(row.get("selected_by_percent", 0))
-        price_change = row.get("price_change", 0)
+        price_change = float(row.get("price_change", 0))
 
         threshold = adaptive_threshold(ownership)
 
+        # 📈 Imminent rise
         if trend >= threshold and price_change == 0:
             alerts.append(
                 f"📈 *Imminent Riser*\n"
@@ -70,6 +87,16 @@ def main():
                 f"Trend: {trend:.2f} / {threshold}"
             )
 
+        # ⚠️ Warming up (rise)
+        elif trend >= threshold * 0.6 and price_change == 0:
+            alerts.append(
+                f"⚠️ *Warming Up*\n"
+                f"{name} (£{price})\n"
+                f"Ownership: {ownership:.1f}%\n"
+                f"Trend building: {trend:.2f} / {threshold}"
+            )
+
+        # 📉 Imminent fall
         elif trend <= -threshold and price_change == 0:
             alerts.append(
                 f"📉 *Imminent Faller*\n"
@@ -78,8 +105,20 @@ def main():
                 f"Trend: {trend:.2f} / {threshold}"
             )
 
-    if alerts:
-        send_telegram("🚨 *FPL Price Watch*\n\n" + "\n\n".join(alerts))
+        # ⚠️ Warming up (fall)
+        elif trend <= -threshold * 0.6 and price_change == 0:
+            alerts.append(
+                f"⚠️ *Fall Risk Building*\n"
+                f"{name} (£{price})\n"
+                f"Ownership: {ownership:.1f}%\n"
+                f"Trend weakening: {trend:.2f} / {threshold}"
+            )
+
+    if not alerts:
+        print("ℹ️ No alert-worthy watchlist players")
+        return
+
+    send_telegram("🚨 *FPL Price Watch*\n\n" + "\n\n".join(alerts))
 
 
 if __name__ == "__main__":
