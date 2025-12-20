@@ -1,87 +1,46 @@
 from pathlib import Path
 import pandas as pd
-import numpy as np
 
+VELOCITY_PATH = Path("data/velocity.csv")
+TRENDS_PATH = Path("data/trends.csv")
 
-INPUT_PATH = Path("data/latest.csv")
-OUTPUT_PATH = Path("data/trends.csv")
+ROLLING_WINDOW = 4  # 4 snapshots ≈ 1 day if run every 6h
 
 
 def main():
-    if not INPUT_PATH.exists():
-        print("ℹ️ No latest.csv found — skipping trends")
+    if not VELOCITY_PATH.exists():
+        print("ℹ️ velocity.csv not found — skipping trends")
         return
 
-    df = pd.read_csv(INPUT_PATH)
+    df = pd.read_csv(VELOCITY_PATH)
 
-    required_cols = {
-        "id",
-        "name",
-        "price",
-        "net_transfers_delta",
-        "ownership",
-        "minutes",
-        "status",
-    }
+    if df.empty or "velocity" not in df.columns:
+        print("ℹ️ velocity data invalid — skipping trends")
+        return
 
-    if not required_cols.issubset(df.columns):
-        raise RuntimeError("latest.csv missing required columns")
+    # Ensure correct types
+    df["velocity"] = pd.to_numeric(df["velocity"], errors="coerce").fillna(0)
 
-    # --- Direction ---
-    df["direction"] = np.where(
-        df["net_transfers_delta"] > 0,
-        "up",
-        np.where(df["net_transfers_delta"] < 0, "down", "flat"),
+    # Compute rolling trend per player
+    df = df.sort_values(["player_id", "timestamp"])
+
+    df["trend_score"] = (
+        df.groupby("player_id")["velocity"]
+        .rolling(ROLLING_WINDOW, min_periods=1)
+        .mean()
+        .reset_index(level=0, drop=True)
     )
 
-    # --- Momentum score ---
-    # Normalize by ownership to avoid bias
-    df["ownership"] = df["ownership"].replace(0, np.nan)
-
-    df["momentum"] = (
-        df["net_transfers_delta"] / df["ownership"]
-    ).replace([np.inf, -np.inf], 0).fillna(0)
-
-    # --- Strength buckets ---
-    df["strength"] = pd.cut(
-        df["momentum"],
-        bins=[-1e9, -200, -50, 50, 200, 1e9],
-        labels=["strong_down", "weak_down", "neutral", "weak_up", "strong_up"],
+    # Save only latest trend per player
+    latest_trends = (
+        df.groupby("player_id")
+        .tail(1)[["player_id", "trend_score"]]
     )
 
-    # --- Rule-based flags ---
-    df["rise_flag"] = (
-        (df["direction"] == "up")
-        & (df["momentum"] > 100)
-        & (df["minutes"] > 0)
-        & (df["status"] == "a")
-    )
+    TRENDS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    latest_trends.to_csv(TRENDS_PATH, index=False)
 
-    df["fall_flag"] = (
-        (df["direction"] == "down")
-        & (df["momentum"] < -50)
-        & (df["minutes"] < 60)
-    )
-
-    output_cols = [
-        "id",
-        "name",
-        "price",
-        "net_transfers_delta",
-        "direction",
-        "momentum",
-        "strength",
-        "rise_flag",
-        "fall_flag",
-    ]
-
-    df[output_cols].sort_values(
-        by="momentum", ascending=False
-    ).to_csv(OUTPUT_PATH, index=False)
-
-    print(f"✅ Trends file created: {OUTPUT_PATH}")
-    print(f"📈 Rise candidates: {df['rise_flag'].sum()}")
-    print(f"📉 Fall candidates: {df['fall_flag'].sum()}")
+    print(f"📈 Trend scores computed for {len(latest_trends)} players")
 
 
 if __name__ == "__main__":
