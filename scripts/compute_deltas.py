@@ -1,52 +1,47 @@
 from pathlib import Path
+from datetime import datetime
 import pandas as pd
 
-
-SNAPSHOT_DIR = Path("data/snapshots")
-OUTPUT_PATH = Path("data/latest.csv")
-
-
-def load_latest_snapshots():
-    if not SNAPSHOT_DIR.exists():
-        print("ℹ️ No snapshots directory yet — skipping deltas")
-        return None, None
-
-    snapshots = sorted(SNAPSHOT_DIR.glob("*.csv"))
-
-    if len(snapshots) < 2:
-        print("ℹ️ Only one snapshot available — skipping delta computation")
-        return None, None
-
-    return snapshots[-2], snapshots[-1]
+LATEST_PATH = Path("data/latest.csv")
+SNAPSHOTS_DIR = Path("data/snapshots")
+DELTAS_DIR = Path("data/deltas")
 
 
-def compute_deltas(prev_path: Path, curr_path: Path) -> pd.DataFrame:
-    prev = pd.read_csv(prev_path)
-    curr = pd.read_csv(curr_path)
+def main():
+    # Ensure required files/folders exist
+    if not LATEST_PATH.exists():
+        print("ℹ️ data/latest.csv not found — skipping deltas")
+        return
 
-    required_cols = {
-        "player_id",
-        "web_name",
-        "now_cost",
-        "transfers_in_event",
-        "transfers_out_event",
-    }
+    SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
+    DELTAS_DIR.mkdir(parents=True, exist_ok=True)
 
-    if not required_cols.issubset(prev.columns) or not required_cols.issubset(
-        curr.columns
-    ):
-        raise RuntimeError("Snapshot files missing required columns")
+    # Timestamp for files
+    today = datetime.utcnow().strftime("%Y-%m-%d")
 
-    merged = curr.merge(
+    snapshot_path = SNAPSHOTS_DIR / f"{today}.csv"
+    delta_path = DELTAS_DIR / f"{today}.csv"
+
+    latest = pd.read_csv(LATEST_PATH)
+
+    # First run: save snapshot only
+    if not any(SNAPSHOTS_DIR.glob("*.csv")):
+        latest.to_csv(snapshot_path, index=False)
+        print(f"📸 First snapshot saved: {snapshot_path}")
+        return
+
+    # Get previous snapshot
+    snapshot_files = sorted(SNAPSHOTS_DIR.glob("*.csv"))
+    prev_snapshot_path = snapshot_files[-1]
+    prev = pd.read_csv(prev_snapshot_path)
+
+    # Compute deltas
+    merged = latest.merge(
         prev,
-        on="player_id",
+        on="name",
         suffixes=("_curr", "_prev"),
         how="inner",
     )
-
-    merged["price_change"] = (
-        merged["now_cost_curr"] - merged["now_cost_prev"]
-    ) / 10.0
 
     merged["transfers_in_delta"] = (
         merged["transfers_in_event_curr"]
@@ -59,52 +54,25 @@ def compute_deltas(prev_path: Path, curr_path: Path) -> pd.DataFrame:
     )
 
     merged["net_transfers_delta"] = (
-        merged["transfers_in_delta"] - merged["transfers_out_delta"]
+        merged["transfers_in_delta"]
+        - merged["transfers_out_delta"]
     )
 
-    result = merged[
+    deltas = merged[
         [
-            "player_id",
-            "web_name_curr",
-            "now_cost_curr",
-            "price_change",
+            "name",
             "transfers_in_delta",
             "transfers_out_delta",
             "net_transfers_delta",
-            "selected_by_percent_curr",
-            "form_curr",
-            "minutes_curr",
-            "status_curr",
         ]
-    ].rename(
-        columns={
-            "player_id": "id",
-            "web_name_curr": "name",
-            "now_cost_curr": "price",
-            "selected_by_percent_curr": "ownership",
-            "form_curr": "form",
-            "minutes_curr": "minutes",
-            "status_curr": "status",
-        }
-    )
+    ]
 
-    return result.sort_values(
-        by="net_transfers_delta", ascending=False
-    ).reset_index(drop=True)
+    # Save outputs
+    deltas.to_csv(delta_path, index=False)
+    latest.to_csv(snapshot_path, index=False)
 
-
-def main():
-    prev_path, curr_path = load_latest_snapshots()
-
-    if prev_path is None or curr_path is None:
-        return
-
-    deltas = compute_deltas(prev_path, curr_path)
-
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    deltas.to_csv(OUTPUT_PATH, index=False)
-
-    print(f"✅ Delta file created: {OUTPUT_PATH}")
+    print(f"✅ Delta file created: {delta_path}")
+    print(f"📸 Snapshot updated: {snapshot_path}")
     print(f"📊 Players processed: {len(deltas)}")
 
 
