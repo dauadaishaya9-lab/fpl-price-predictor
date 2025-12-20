@@ -1,55 +1,56 @@
 from pathlib import Path
 import requests
 import pandas as pd
-import datetime
+from datetime import datetime
 import sys
 
-FPL_BOOTSTRAP_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
-SNAPSHOT_DIR = Path("data") / "snapshots"
+FPL_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
 
-# Ensure snapshots path is a directory
-if SNAPSHOT_DIR.exists() and not SNAPSHOT_DIR.is_dir():
-    raise RuntimeError("data/snapshots exists but is not a directory")
+DATA_DIR = Path("data")
+SNAPSHOT_DIR = DATA_DIR / "snapshots"
+LATEST_PATH = DATA_DIR / "latest.csv"
 
 SNAPSHOT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Fetch FPL data
-try:
-    response = requests.get(FPL_BOOTSTRAP_URL, timeout=30)
-    response.raise_for_status()
-except Exception as e:
-    print(f"❌ Failed to fetch FPL data: {e}")
-    sys.exit(1)
 
-data = response.json()
+def main():
+    try:
+        r = requests.get(FPL_URL, timeout=30)
+        r.raise_for_status()
+    except Exception as e:
+        print(f"❌ FPL fetch failed: {e}")
+        sys.exit(1)
 
-players = data.get("elements", [])
-teams = {t["id"]: t["name"] for t in data.get("teams", [])}
+    data = r.json()
+    teams = {t["id"]: t["name"] for t in data["teams"]}
 
-rows = []
-for p in players:
-    rows.append({
-        "player_id": p["id"],
-        "web_name": p["web_name"],
-        "first_name": p["first_name"],
-        "second_name": p["second_name"],
-        "team": teams.get(p["team"], "Unknown"),
-        "now_cost": p["now_cost"] / 10,
-        "selected_by_percent": float(p["selected_by_percent"]),
-        "transfers_in_event": p["transfers_in_event"],
-        "transfers_out_event": p["transfers_out_event"],
-        "total_points": p["total_points"],
-        "form": float(p["form"]) if p["form"] else 0.0,
-        "minutes": p["minutes"],
-        "status": p["status"],
-    })
+    rows = []
+    for p in data["elements"]:
+        rows.append({
+            "player_id": p["id"],
+            "name": f'{p["first_name"]} {p["second_name"]}',
+            "web_name": p["web_name"],
+            "team": teams.get(p["team"], ""),
+            "price": p["now_cost"] / 10,
+            "ownership": float(p["selected_by_percent"]),
+            "transfers_in_event": p["transfers_in_event"],
+            "transfers_out_event": p["transfers_out_event"],
+            "form": float(p["form"]) if p["form"] else 0.0,
+            "minutes": p["minutes"],
+            "status": p["status"],
+        })
 
-df = pd.DataFrame(rows)
+    df = pd.DataFrame(rows)
 
-timestamp = datetime.datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
-snapshot_path = SNAPSHOT_DIR / f"snapshot_{timestamp}.csv"
+    ts = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
+    snapshot_path = SNAPSHOT_DIR / f"snapshot_{ts}.csv"
 
-df.to_csv(snapshot_path, index=False)
+    df.to_csv(snapshot_path, index=False)
+    df.to_csv(LATEST_PATH, index=False)
 
-print(f"✅ Snapshot saved: {snapshot_path}")
-print(f"📊 Players captured: {len(df)}")
+    print(f"📸 Snapshot saved: {snapshot_path}")
+    print(f"🆕 latest.csv updated ({len(df)} players)")
+
+
+if __name__ == "__main__":
+    main()
