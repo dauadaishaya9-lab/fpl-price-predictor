@@ -26,15 +26,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()    result = merged[
-        [
-            "name",
-            "net_transfers_delta_curr",
-            "net_transfers_delta_prev",
-            "velocity",
-        ]
-    ].rename(
-        columns={
+    main()        columns={
             "net_transfers_delta_curr": "net_now",
             "net_transfers_delta_prev": "net_prev",
         }
