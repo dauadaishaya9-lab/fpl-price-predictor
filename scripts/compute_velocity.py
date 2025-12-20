@@ -1,40 +1,32 @@
 from pathlib import Path
 import pandas as pd
 
-DELTAS_DIR = Path("data/deltas")
-OUTPUT_PATH = Path("data/velocity.csv")
+DELTA_DIR = Path("data/deltas")
+OUTPUT = Path("data/velocity.csv")
 
 
 def main():
-    if not DELTAS_DIR.exists():
-        print("ℹ️ data/deltas not found")
+    files = sorted(DELTA_DIR.glob("delta_*.csv"))
+
+    if len(files) < 2:
+        print("ℹ️ Not enough delta files for velocity")
         return
 
-    delta_files = sorted(DELTAS_DIR.glob("*.csv"))
+    prev = pd.read_csv(files[-2])
+    curr = pd.read_csv(files[-1])
 
-    if len(delta_files) < 2:
-        print("ℹ️ Not enough delta files to compute velocity")
-        return
-
-    prev_path = delta_files[-2]
-    curr_path = delta_files[-1]
-
-    prev = pd.read_csv(prev_path)
-    curr = pd.read_csv(curr_path)
-
-    merged = curr.merge(
-        prev,
-        on="name",
-        suffixes=("_curr", "_prev"),
-        how="inner",
-    )
-
+    merged = curr.merge(prev, on="player_id", suffixes=("_curr", "_prev"))
     merged["velocity"] = (
         merged["net_transfers_delta_curr"]
         - merged["net_transfers_delta_prev"]
     )
 
-    result = merged[
+    merged[["player_id", "velocity"]].to_csv(OUTPUT, index=False)
+    print("📈 Velocity updated")
+
+
+if __name__ == "__main__":
+    main()    result = merged[
         [
             "name",
             "net_transfers_delta_curr",
