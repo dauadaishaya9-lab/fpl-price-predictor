@@ -1,0 +1,18 @@
+{
+  "low": {
+    "rise": { "imminent": 0.60, "warming": 0.35 },
+    "fall": { "imminent": 0.70, "warming": 0.45 }
+  },
+  "mid_low": {
+    "rise": { "imminent": 0.65, "warming": 0.40 },
+    "fall": { "imminent": 0.72, "warming": 0.48 }
+  },
+  "mid_high": {
+    "rise": { "imminent": 0.70, "warming": 0.45 },
+    "fall": { "imminent": 0.75, "warming": 0.50 }
+  },
+  "high": {
+    "rise": { "imminent": 0.78, "warming": 0.55 },
+    "fall": { "imminent": 0.80, "warming": 0.60 }
+  }
+}
