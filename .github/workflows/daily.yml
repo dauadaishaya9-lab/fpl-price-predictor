@@ -1,0 +1,58 @@
+name: FPL Daily Pipeline
+
+on:
+  schedule:
+    # Runs daily AFTER FPL price changes
+    - cron: "15 3 * * *"   # 03:15 UTC
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Snapshot
+        run: python scripts/snapshot.py
+
+      - name: Compute deltas
+        run: python scripts/compute_deltas.py
+
+      - name: Compute velocity
+        run: python scripts/compute_velocity.py
+
+      - name: Compute trends
+        run: python scripts/compute_trends.py
+
+      - name: Compute predictions
+        run: python scripts/compute_prediction.py
+
+      - name: Store predictions (MEMORY STARTS HERE)
+        run: python scripts/store_predictions.py
+
+      - name: Log actual price outcomes
+        run: python scripts/log_outcomes.py
+
+      - name: Learn thresholds
+        run: python scripts/learn_thresholds.py
+
+      - name: Send alerts
+        run: python scripts/send_alerts.py
+
+      - name: Commit data updates
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Daily FPL pipeline update" || echo "No changes"
+          git push
