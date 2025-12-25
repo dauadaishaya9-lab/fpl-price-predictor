@@ -1,0 +1,39 @@
+name: Daily Learning
+
+on:
+  schedule:
+    # After FPL price changes
+    - cron: "30 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  learn:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install pandas numpy
+
+      - name: Log actual price changes
+        run: |
+          python scripts/log_outcomes.py
+
+      - name: Learn thresholds
+        run: |
+          python scripts/learn_thresholds.py
+
+      - name: Commit learning artifacts
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/price_changes.csv data/thresholds.json
+          git commit -m "Daily learning update" || echo "No changes"
+          git push
