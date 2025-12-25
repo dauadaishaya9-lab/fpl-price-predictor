@@ -1,0 +1,69 @@
+name: Daily Learning
+
+on:
+  workflow_run:
+    workflows:
+      - "FPL Daily Pipeline"
+    types:
+      - completed
+
+jobs:
+  learn:
+    # Only run if the pipeline succeeded
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout repository
+      # -------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # -------------------------
+      # Setup Python
+      # -------------------------
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -------------------------
+      # Install dependencies
+      # (NO requests needed)
+      # -------------------------
+      - name: Install dependencies
+        run: |
+          pip install pandas numpy
+
+      # -------------------------
+      # Log actual price changes
+      # -------------------------
+      - name: Log actual price changes
+        run: |
+          python scripts/log_outcomes.py
+
+      # -------------------------
+      # Learn thresholds
+      # -------------------------
+      - name: Learn thresholds
+        run: |
+          python scripts/learn_thresholds.py
+
+      # -------------------------
+      # Commit learning artifacts
+      # -------------------------
+      - name: Commit learning artifacts
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add data/price_changes.csv data/thresholds.json
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git commit -m "Daily learning update"
+            git push
+          else
+            echo "No learning changes"
+          fi
