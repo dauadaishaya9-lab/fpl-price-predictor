@@ -1,12 +1,18 @@
 {
   "high": {
-    "rise": 1.0
+    "fall": 1.0,
+    "rise": 0.67
   },
   "low": {
-    "fall": 1.0,
-    "rise": 0.0
+    "fall": 0.79,
+    "rise": 0.17
   },
   "mid_high": {
-    "fall": 1.0
+    "fall": 0.67,
+    "rise": 0.4
+  },
+  "mid_low": {
+    "fall": 0.75,
+    "rise": 0.25
   }
 }
