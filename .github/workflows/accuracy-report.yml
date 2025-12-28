@@ -1,0 +1,63 @@
+name: Accuracy Report
+
+on:
+  schedule:
+    # Runs once daily (after price changes & predictions)
+    - cron: "30 4 * * *"   # 04:30 UTC
+  workflow_dispatch:
+
+jobs:
+  accuracy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout
+      # -------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # -------------------------
+      # Python
+      # -------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -------------------------
+      # Dependencies
+      # -------------------------
+      - name: Install dependencies
+        run: |
+          pip install pandas requests
+
+      # -------------------------
+      # Compute accuracy
+      # -------------------------
+      - name: Compute accuracy
+        run: python scripts/compute_accuracy.py
+
+      # -------------------------
+      # Send Telegram report
+      # -------------------------
+      - name: Send accuracy report to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_accuracy_report.py
+
+      # -------------------------
+      # Commit accuracy file (only if it exists)
+      # -------------------------
+      - name: Commit accuracy report
+        run: |
+          if [[ -f data/accuracy.csv ]]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add data/accuracy.csv
+            git commit -m "Update accuracy report" || echo "No changes"
+            git push
+          else
+            echo "No accuracy file to commit"
+          fi
