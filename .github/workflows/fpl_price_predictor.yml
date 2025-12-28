@@ -1,0 +1,65 @@
+name: FPL Price Predictor
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pandas numpy requests
+
+      # -------------------------
+      # DATA PIPELINE
+      # -------------------------
+      - name: Snapshot data
+        run: python scripts/snapshot.py
+
+      - name: Compute deltas
+        run: python scripts/compute_deltas.py
+
+      - name: Compute velocity
+        run: python scripts/compute_velocity.py
+
+      - name: Compute trends
+        run: python scripts/compute_trends.py
+
+      - name: Compute predictions
+        run: python scripts/compute_prediction.py
+
+      - name: Send alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_alerts.py
+
+      # -------------------------
+      # COMMIT DATA
+      # -------------------------
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data
+            git commit -m "Automated predictor update"
+            git push
+          else
+            echo "No data changes"
+          fi
