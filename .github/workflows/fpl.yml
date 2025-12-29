@@ -1,0 +1,91 @@
+name: FPL Price Predictor
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout repository
+      # -------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # -------------------------
+      # Setup Python
+      # -------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -------------------------
+      # Install dependencies
+      # -------------------------
+      - name: Install dependencies
+        run: pip install pandas numpy requests
+
+      # =========================
+      # DATA PIPELINE
+      # =========================
+
+      # 1️⃣ Snapshot raw FPL state
+      - name: Snapshot data
+        run: python scripts/snapshot.py
+
+      # 🔵 1️⃣b RECORD REAL PRICE CHANGES (CRITICAL)
+      - name: Record actual price changes
+        run: python scripts/record_price_changes.py
+
+      # 🔴 2️⃣ Injury / Suspension protection logic
+      - name: Update protection status
+        run: python scripts/update_protection.py
+
+      # 3️⃣ Compute deltas (respects protection)
+      - name: Compute deltas
+        run: python scripts/compute_deltas.py
+
+      # 4️⃣ Compute velocity
+      - name: Compute velocity
+        run: python scripts/compute_velocity.py
+
+      # 5️⃣ Compute trends
+      - name: Compute trends
+        run: python scripts/compute_trends.py
+
+      # 6️⃣ Compute predictions
+      - name: Compute predictions
+        run: python scripts/compute_prediction.py
+
+      # -------------------------
+      # Alerts
+      # -------------------------
+      - name: Send alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_alerts.py
+
+      # -------------------------
+      # Commit generated data
+      # -------------------------
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data
+            git commit -m "Automated predictor update"
+            git push
+          else
+            echo "No data changes"
+          fi
