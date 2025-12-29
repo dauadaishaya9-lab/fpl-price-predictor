@@ -1,0 +1,6 @@
+{
+  "rise_quantile": 0.95,
+  "fall_quantile": 0.05,
+  "last_updated": null,
+  "samples": 0
+}
