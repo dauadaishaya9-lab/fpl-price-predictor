@@ -1,776 +1,776 @@
 player_id,name,web_name,team,price,ownership,transfers_in_event,transfers_out_event,form,minutes,status,snapshot_date
-1,David Raya Martín,Raya,Arsenal,6.0,35.9,13336,32070,3.7,1620,a,2025-12-29
-2,Kepa Arrizabalaga Revuelta,Arrizabalaga,Arsenal,4.1,0.4,167,319,0.0,0,a,2025-12-29
-3,Karl Hein,Hein,Arsenal,4.0,0.2,0,133,0.0,0,u,2025-12-29
-4,Tommy Setford,Setford,Arsenal,3.9,0.3,648,390,0.0,0,a,2025-12-29
-5,Gabriel dos Santos Magalhães,Gabriel,Arsenal,6.2,13.2,106177,8999,0.2,1009,a,2025-12-29
-6,William Saliba,Saliba,Arsenal,5.9,11.5,24579,9065,1.7,1084,a,2025-12-29
-7,Riccardo Calafiori,Calafiori,Arsenal,5.7,10.0,4861,49797,2.3,1256,d,2025-12-29
-8,Jurriën Timber,J.Timber,Arsenal,6.5,31.4,11005,243281,2.3,1377,d,2025-12-29
-9,Jakub Kiwior,Kiwior,Arsenal,5.4,0.0,0,12,0.0,0,u,2025-12-29
-10,Myles Lewis-Skelly,Lewis-Skelly,Arsenal,5.1,1.7,1096,3152,0.5,265,a,2025-12-29
-11,Benjamin White,White,Arsenal,5.2,0.8,12,12615,2.7,280,i,2025-12-29
-13,Brayden Clarke,Clarke,Arsenal,3.8,0.5,395,676,0.0,0,a,2025-12-29
-14,Maldini Kacurri,Kacurri,Arsenal,3.9,0.1,0,45,0.0,0,u,2025-12-29
-15,Josh Nichols,Nichols,Arsenal,3.8,0.2,74,186,0.0,0,a,2025-12-29
-16,Bukayo Saka,Saka,Arsenal,10.3,21.6,30759,46136,6.0,1238,a,2025-12-29
-17,Martin Ødegaard,Ødegaard,Arsenal,7.8,1.7,9713,1654,3.3,624,a,2025-12-29
-18,Noni Madueke,Madueke,Arsenal,6.8,0.7,622,3045,0.8,420,a,2025-12-29
-19,Gabriel Martinelli Silva,Martinelli,Arsenal,6.8,0.9,547,1836,1.2,408,a,2025-12-29
-20,Leandro Trossard,Trossard,Arsenal,6.9,1.0,3735,6196,2.0,952,a,2025-12-29
-21,Declan Rice,Rice,Arsenal,7.2,26.1,76216,24895,5.2,1515,a,2025-12-29
-22,Mikel Merino Zazón,Merino,Arsenal,5.9,3.0,4957,26673,4.5,849,a,2025-12-29
+1,David Raya Martín,Raya,Arsenal,6.0,35.9,14915,37366,3.7,1620,a,2025-12-29
+2,Kepa Arrizabalaga Revuelta,Arrizabalaga,Arsenal,4.1,0.4,183,367,0.0,0,a,2025-12-29
+3,Karl Hein,Hein,Arsenal,4.0,0.2,0,152,0.0,0,u,2025-12-29
+4,Tommy Setford,Setford,Arsenal,3.9,0.3,741,436,0.0,0,a,2025-12-29
+5,Gabriel dos Santos Magalhães,Gabriel,Arsenal,6.2,13.4,125753,9539,0.2,1009,a,2025-12-29
+6,William Saliba,Saliba,Arsenal,5.9,11.6,28328,10438,1.7,1084,a,2025-12-29
+7,Riccardo Calafiori,Calafiori,Arsenal,5.7,9.9,5016,58169,2.3,1256,d,2025-12-29
+8,Jurriën Timber,J.Timber,Arsenal,6.5,31.0,11383,286053,2.3,1377,d,2025-12-29
+9,Jakub Kiwior,Kiwior,Arsenal,5.4,0.0,0,13,0.0,0,u,2025-12-29
+10,Myles Lewis-Skelly,Lewis-Skelly,Arsenal,5.1,1.6,1249,3593,0.5,265,a,2025-12-29
+11,Benjamin White,White,Arsenal,5.2,0.8,16,14652,2.7,280,i,2025-12-29
+13,Brayden Clarke,Clarke,Arsenal,3.8,0.5,446,780,0.0,0,a,2025-12-29
+14,Maldini Kacurri,Kacurri,Arsenal,3.9,0.1,0,52,0.0,0,u,2025-12-29
+15,Josh Nichols,Nichols,Arsenal,3.8,0.2,88,201,0.0,0,a,2025-12-29
+16,Bukayo Saka,Saka,Arsenal,10.3,21.6,34218,54062,6.0,1238,a,2025-12-29
+17,Martin Ødegaard,Ødegaard,Arsenal,7.8,1.7,10916,1903,3.3,624,a,2025-12-29
+18,Noni Madueke,Madueke,Arsenal,6.8,0.7,668,3493,0.8,420,a,2025-12-29
+19,Gabriel Martinelli Silva,Martinelli,Arsenal,6.8,0.9,634,2021,1.2,408,a,2025-12-29
+20,Leandro Trossard,Trossard,Arsenal,6.9,1.0,4207,7056,2.0,952,a,2025-12-29
+21,Declan Rice,Rice,Arsenal,7.2,26.1,85908,28711,5.2,1515,a,2025-12-29
+22,Mikel Merino Zazón,Merino,Arsenal,5.9,2.9,5469,30580,4.5,849,a,2025-12-29
 23,Fábio Ferreira Vieira,Fábio Vieira,Arsenal,5.4,0.0,0,3,0.0,0,u,2025-12-29
-24,Christian Nørgaard,Nørgaard,Arsenal,5.1,0.1,95,120,0.0,14,a,2025-12-29
-25,Ethan Nwaneri,Nwaneri,Arsenal,5.1,0.1,69,145,0.0,165,a,2025-12-29
-26,Martín Zubimendi Ibáñez,Zubimendi,Arsenal,5.2,2.2,1741,5292,1.8,1500,a,2025-12-29
-28,Ismeal Kabia,Kabia,Arsenal,4.5,0.1,0,52,0.0,0,u,2025-12-29
-29,Albert Sambi Lokonga,Sambi,Arsenal,4.5,0.1,0,14,0.0,0,u,2025-12-29
-30,Kai Havertz,Havertz,Arsenal,7.3,0.3,58,101,0.0,30,d,2025-12-29
-31,Gabriel Fernando de Jesus,G.Jesus,Arsenal,6.4,0.2,891,1624,0.5,53,a,2025-12-29
-266,Eberechi Eze,Eze,Arsenal,7.5,13.3,4104,119148,0.8,991,a,2025-12-29
-662,Cristhian Mosquera,Mosquera,Arsenal,5.4,0.1,7,176,0.3,429,i,2025-12-29
-666,Viktor Gyökeres,Gyökeres,Arsenal,8.8,10.0,2628,16444,1.8,1085,a,2025-12-29
-700,Max Dowman,Dowman,Arsenal,4.3,0.4,569,1340,0.0,27,i,2025-12-29
-711,Andre Harriman-Annous,Harriman-Annous,Arsenal,4.5,0.0,13,25,0.0,0,a,2025-12-29
-725,Piero Hincapié,Hincapie,Arsenal,5.5,2.5,3291,17065,4.5,653,a,2025-12-29
-759,Marli Salmon,Salmon,Arsenal,4.0,0.0,36,52,0.0,0,a,2025-12-29
-32,Emiliano Martínez Romero,Martinez,Aston Villa,5.0,3.2,5606,5121,2.7,1260,a,2025-12-29
-33,Marco Bizot,M.Bizot,Aston Villa,4.2,0.4,74,463,0.3,360,a,2025-12-29
-34,Joe Gauci,Gauci,Aston Villa,4.0,0.1,0,87,0.0,0,u,2025-12-29
-35,Filip Marschall,Marschall,Aston Villa,4.0,0.0,0,7,0.0,0,u,2025-12-29
-36,Matty Cash,Cash,Aston Villa,4.9,11.7,7963,151730,3.7,1592,s,2025-12-29
-37,Lucas Digne,Digne,Aston Villa,4.5,1.7,1897,5208,1.8,1009,a,2025-12-29
-38,Ezri Konsa Ngoyo,Konsa,Aston Villa,4.4,7.5,6826,10469,3.0,1505,a,2025-12-29
-39,Ian Maatsen,Maatsen,Aston Villa,4.2,0.5,1415,791,1.3,603,a,2025-12-29
-40,Tyrone Mings,Mings,Aston Villa,4.3,0.6,29,549,0.0,497,i,2025-12-29
-41,Pau Torres,Pau,Aston Villa,4.3,0.4,30,2544,1.7,952,i,2025-12-29
-42,Andrés García,A.García,Aston Villa,3.9,0.2,156,320,0.0,0,a,2025-12-29
-43,Álex Moreno Lopera,Alex Moreno,Aston Villa,4.0,1.8,0,1487,0.0,0,u,2025-12-29
-44,Lamare Bogarde,Bogarde,Aston Villa,4.0,0.5,459,877,0.7,327,a,2025-12-29
-45,Lino da Cruz Sousa,Sousa,Aston Villa,3.9,0.3,108,223,0.0,0,a,2025-12-29
-46,Yasin Özcan,Yasin,Aston Villa,4.0,0.1,0,65,0.0,0,u,2025-12-29
-47,Morgan Rogers,Rogers,Aston Villa,7.4,22.7,172255,33912,7.0,1606,a,2025-12-29
-48,Youri Tielemans,Tielemans,Aston Villa,5.9,0.8,4028,1365,3.5,871,a,2025-12-29
-49,Leon Bailey,Bailey,Aston Villa,5.5,0.1,0,27,0.0,0,u,2025-12-29
-50,Emiliano Buendía Stati,Buendía,Aston Villa,5.3,0.4,946,2558,2.2,619,a,2025-12-29
+24,Christian Nørgaard,Nørgaard,Arsenal,5.1,0.1,110,131,0.0,14,a,2025-12-29
+25,Ethan Nwaneri,Nwaneri,Arsenal,5.1,0.1,75,159,0.0,165,a,2025-12-29
+26,Martín Zubimendi Ibáñez,Zubimendi,Arsenal,5.2,2.2,1962,6018,1.8,1500,a,2025-12-29
+28,Ismeal Kabia,Kabia,Arsenal,4.5,0.1,0,56,0.0,0,u,2025-12-29
+29,Albert Sambi Lokonga,Sambi,Arsenal,4.5,0.1,0,16,0.0,0,u,2025-12-29
+30,Kai Havertz,Havertz,Arsenal,7.3,0.3,63,108,0.0,30,d,2025-12-29
+31,Gabriel Fernando de Jesus,G.Jesus,Arsenal,6.4,0.2,975,1862,0.5,53,a,2025-12-29
+266,Eberechi Eze,Eze,Arsenal,7.5,13.1,4463,134942,0.8,991,a,2025-12-29
+662,Cristhian Mosquera,Mosquera,Arsenal,5.4,0.1,7,188,0.3,429,i,2025-12-29
+666,Viktor Gyökeres,Gyökeres,Arsenal,8.8,10.0,2912,18717,1.8,1085,a,2025-12-29
+700,Max Dowman,Dowman,Arsenal,4.3,0.4,640,1487,0.0,27,i,2025-12-29
+711,Andre Harriman-Annous,Harriman-Annous,Arsenal,4.5,0.0,15,26,0.0,0,a,2025-12-29
+725,Piero Hincapié,Hincapie,Arsenal,5.5,2.4,3878,19847,4.5,653,a,2025-12-29
+759,Marli Salmon,Salmon,Arsenal,4.0,0.0,40,57,0.0,0,a,2025-12-29
+32,Emiliano Martínez Romero,Martinez,Aston Villa,5.0,3.2,6263,5869,2.7,1260,a,2025-12-29
+33,Marco Bizot,M.Bizot,Aston Villa,4.2,0.4,85,516,0.3,360,a,2025-12-29
+34,Joe Gauci,Gauci,Aston Villa,4.0,0.1,0,98,0.0,0,u,2025-12-29
+35,Filip Marschall,Marschall,Aston Villa,4.0,0.0,0,8,0.0,0,u,2025-12-29
+36,Matty Cash,Cash,Aston Villa,4.9,11.4,8084,178944,3.7,1592,s,2025-12-29
+37,Lucas Digne,Digne,Aston Villa,4.5,1.7,2218,5995,1.8,1009,a,2025-12-29
+38,Ezri Konsa Ngoyo,Konsa,Aston Villa,4.4,7.4,7941,12276,3.0,1505,a,2025-12-29
+39,Ian Maatsen,Maatsen,Aston Villa,4.2,0.5,1623,914,1.3,603,a,2025-12-29
+40,Tyrone Mings,Mings,Aston Villa,4.3,0.6,31,606,0.0,497,i,2025-12-29
+41,Pau Torres,Pau,Aston Villa,4.3,0.3,33,2826,1.7,952,i,2025-12-29
+42,Andrés García,A.García,Aston Villa,3.9,0.2,174,364,0.0,0,a,2025-12-29
+43,Álex Moreno Lopera,Alex Moreno,Aston Villa,4.0,1.8,0,1707,0.0,0,u,2025-12-29
+44,Lamare Bogarde,Bogarde,Aston Villa,4.0,0.5,534,1001,0.7,327,a,2025-12-29
+45,Lino da Cruz Sousa,Sousa,Aston Villa,3.9,0.3,115,256,0.0,0,a,2025-12-29
+46,Yasin Özcan,Yasin,Aston Villa,4.0,0.1,0,71,0.0,0,u,2025-12-29
+47,Morgan Rogers,Rogers,Aston Villa,7.4,22.8,189026,39698,7.0,1606,a,2025-12-29
+48,Youri Tielemans,Tielemans,Aston Villa,5.9,0.8,4564,1573,3.5,871,a,2025-12-29
+49,Leon Bailey,Bailey,Aston Villa,5.5,0.1,0,28,0.0,0,u,2025-12-29
+50,Emiliano Buendía Stati,Buendía,Aston Villa,5.3,0.4,1067,2912,2.2,619,a,2025-12-29
 51,Samuel Iling-Junior,Iling Jr,Aston Villa,5.5,0.0,0,3,0.0,0,u,2025-12-29
-53,Donyell Malen,Malen,Aston Villa,5.1,0.8,964,3527,2.2,587,a,2025-12-29
-54,John McGinn,McGinn,Aston Villa,5.4,0.7,2353,2638,3.3,1375,a,2025-12-29
-55,Ross Barkley,Barkley,Aston Villa,4.8,0.0,8,53,0.2,114,i,2025-12-29
+53,Donyell Malen,Malen,Aston Villa,5.1,0.8,1086,4021,2.2,587,a,2025-12-29
+54,John McGinn,McGinn,Aston Villa,5.4,0.7,2638,3006,3.3,1375,a,2025-12-29
+55,Ross Barkley,Barkley,Aston Villa,4.8,0.0,9,59,0.2,114,i,2025-12-29
 56,Enzo Barrenechea,Barrenechea,Aston Villa,5.0,0.0,0,0,0.0,0,u,2025-12-29
-57,Lewis Dobbin,Dobbin,Aston Villa,5.0,0.0,0,8,0.0,0,u,2025-12-29
-58,Boubacar Kamara,Kamara,Aston Villa,4.9,0.6,1489,7524,4.5,1239,s,2025-12-29
-59,Amadou Onana,Onana,Aston Villa,4.8,0.8,2419,1984,3.5,841,a,2025-12-29
-60,Ben Broggio,Broggio,Aston Villa,4.5,0.3,255,398,0.0,0,a,2025-12-29
-61,Leander Dendoncker,Dendoncker,Aston Villa,4.5,0.1,0,46,0.0,0,u,2025-12-29
-62,Jamaldeen Jimoh-Aloba,Jimoh-Aloba,Aston Villa,4.5,0.1,56,73,0.0,0,a,2025-12-29
-63,Kadan Young,Young,Aston Villa,4.3,0.7,1379,1231,0.0,0,a,2025-12-29
-64,Ollie Watkins,Watkins,Aston Villa,8.5,7.4,27685,9107,6.3,1299,a,2025-12-29
-65,Zépiqueno Redmond,Redmond,Aston Villa,4.5,0.3,0,153,0.0,0,u,2025-12-29
-389,Harvey Elliott,Elliott,Aston Villa,5.2,0.2,15,309,0.0,97,d,2025-12-29
-456,Jadon Sancho,Sancho,Aston Villa,5.8,0.2,368,215,0.5,157,a,2025-12-29
-677,Evann Guessand,Guessand,Aston Villa,6.2,0.0,1,112,1.5,511,n,2025-12-29
-688,James Wright,Wright,Aston Villa,3.9,0.6,503,644,0.0,0,a,2025-12-29
-701,Triston Rowe,Rowe,Aston Villa,4.0,0.1,0,38,0.0,0,u,2025-12-29
-702,Bradley Burrowes,Burrowes,Aston Villa,4.4,0.1,35,54,0.0,16,a,2025-12-29
-703,Sam Proctor,Proctor,Aston Villa,3.9,0.6,2700,1180,0.0,0,a,2025-12-29
-710,Travis Patterson,Patterson,Aston Villa,3.9,0.2,46,307,0.0,0,a,2025-12-29
-719,Victor Lindelöf,Lindelöf,Aston Villa,4.5,0.1,561,138,1.5,295,a,2025-12-29
-754,George Hemmings,George Hemmings,Aston Villa,4.5,0.0,18,18,0.0,0,a,2025-12-29
-757,Ronnie Hollingshead,Hollingshead,Aston Villa,4.0,0.0,26,20,0.0,0,a,2025-12-29
-768,Leon Routh,Leon Routh,Aston Villa,4.0,0.0,28,18,0.0,0,a,2025-12-29
-183,Max Weiß,Weiss,Burnley,4.3,0.1,81,126,0.0,0,a,2025-12-29
-184,Etienne Green,Green,Burnley,4.0,0.2,0,134,0.0,0,u,2025-12-29
-185,Václav Hladký,Hladký,Burnley,3.9,0.2,110,270,0.0,0,a,2025-12-29
-186,Connor Roberts,Roberts,Burnley,4.4,0.0,5,13,0.0,0,i,2025-12-29
-187,Kyle Walker,Walker,Burnley,4.4,1.2,1486,980,2.2,1516,a,2025-12-29
-188,Hannes Delcroix,Delcroix,Burnley,3.8,0.3,211,583,0.0,0,a,2025-12-29
+57,Lewis Dobbin,Dobbin,Aston Villa,5.0,0.0,0,9,0.0,0,u,2025-12-29
+58,Boubacar Kamara,Kamara,Aston Villa,4.9,0.6,1506,8853,4.5,1239,s,2025-12-29
+59,Amadou Onana,Onana,Aston Villa,4.8,0.8,2781,2267,3.5,841,a,2025-12-29
+60,Ben Broggio,Broggio,Aston Villa,4.5,0.3,289,455,0.0,0,a,2025-12-29
+61,Leander Dendoncker,Dendoncker,Aston Villa,4.5,0.1,0,51,0.0,0,u,2025-12-29
+62,Jamaldeen Jimoh-Aloba,Jimoh-Aloba,Aston Villa,4.5,0.1,59,81,0.0,0,a,2025-12-29
+63,Kadan Young,Young,Aston Villa,4.3,0.7,1554,1442,0.0,0,a,2025-12-29
+64,Ollie Watkins,Watkins,Aston Villa,8.5,7.4,30926,10131,6.3,1299,a,2025-12-29
+65,Zépiqueno Redmond,Redmond,Aston Villa,4.5,0.3,0,181,0.0,0,u,2025-12-29
+389,Harvey Elliott,Elliott,Aston Villa,5.2,0.2,17,345,0.0,97,d,2025-12-29
+456,Jadon Sancho,Sancho,Aston Villa,5.8,0.2,402,234,0.5,157,a,2025-12-29
+677,Evann Guessand,Guessand,Aston Villa,6.2,0.0,2,127,1.5,511,n,2025-12-29
+688,James Wright,Wright,Aston Villa,3.9,0.6,563,735,0.0,0,a,2025-12-29
+701,Triston Rowe,Rowe,Aston Villa,4.0,0.1,0,42,0.0,0,u,2025-12-29
+702,Bradley Burrowes,Burrowes,Aston Villa,4.4,0.1,40,66,0.0,16,a,2025-12-29
+703,Sam Proctor,Proctor,Aston Villa,3.9,0.6,3018,1365,0.0,0,a,2025-12-29
+710,Travis Patterson,Patterson,Aston Villa,3.9,0.2,58,336,0.0,0,a,2025-12-29
+719,Victor Lindelöf,Lindelöf,Aston Villa,4.5,0.1,659,161,1.5,295,a,2025-12-29
+754,George Hemmings,George Hemmings,Aston Villa,4.5,0.0,22,19,0.0,0,a,2025-12-29
+757,Ronnie Hollingshead,Hollingshead,Aston Villa,4.0,0.0,29,23,0.0,0,a,2025-12-29
+768,Leon Routh,Leon Routh,Aston Villa,4.0,0.0,33,21,0.0,0,a,2025-12-29
+183,Max Weiß,Weiss,Burnley,4.3,0.1,89,141,0.0,0,a,2025-12-29
+184,Etienne Green,Green,Burnley,4.0,0.2,0,158,0.0,0,u,2025-12-29
+185,Václav Hladký,Hladký,Burnley,3.9,0.2,122,313,0.0,0,a,2025-12-29
+186,Connor Roberts,Roberts,Burnley,4.4,0.0,6,15,0.0,0,i,2025-12-29
+187,Kyle Walker,Walker,Burnley,4.4,1.2,1713,1131,2.2,1516,a,2025-12-29
+188,Hannes Delcroix,Delcroix,Burnley,3.8,0.3,245,666,0.0,0,a,2025-12-29
 189,Owen Dodgson,Dodgson,Burnley,4.0,0.0,0,7,0.0,0,u,2025-12-29
-190,Hjalmar Ekdal,Ekdal,Burnley,3.9,0.9,2650,879,3.2,983,a,2025-12-29
-191,Maxime Estève,Estève,Burnley,3.9,10.3,1306,38527,1.8,1432,d,2025-12-29
-192,Quilindschy Hartman,Hartman,Burnley,4.0,0.9,886,4089,1.5,1337,a,2025-12-29
-193,Bashir Humphreys,Humphreys,Burnley,3.9,0.1,123,37,1.3,92,a,2025-12-29
-194,Jordan Beyer,Jordan,Burnley,3.9,0.1,6,37,0.0,0,i,2025-12-29
-195,Lucas Pires Silva,Lucas Pires,Burnley,3.8,0.2,431,304,0.8,231,a,2025-12-29
-196,Shurandy Sambo,Sambo,Burnley,4.0,0.0,0,9,0.0,0,u,2025-12-29
-197,Oliver Sonne,Sonne,Burnley,3.8,0.3,657,974,1.3,128,a,2025-12-29
-198,Axel Tuanzebe,Tuanzebe,Burnley,3.9,1.1,9,2831,0.2,706,n,2025-12-29
-199,Joe Worrall,Worrall,Burnley,3.8,0.2,48,398,0.5,154,d,2025-12-29
-200,Jaidon Anthony,Anthony,Burnley,5.2,2.2,553,6231,1.7,1139,a,2025-12-29
-201,Manuel Benson Hedilazio,Benson,Burnley,5.4,0.0,0,5,0.0,0,u,2025-12-29
-202,Jacob Bruun Larsen,Bruun Larsen,Burnley,5.3,0.0,120,73,2.0,783,a,2025-12-29
-203,Enock Agyei,Boateng,Burnley,4.7,0.0,76,86,0.0,0,a,2025-12-29
+190,Hjalmar Ekdal,Ekdal,Burnley,3.9,0.9,3067,1039,3.2,983,a,2025-12-29
+191,Maxime Estève,Estève,Burnley,3.9,10.2,1485,44764,1.8,1432,d,2025-12-29
+192,Quilindschy Hartman,Hartman,Burnley,4.0,0.9,1088,4682,1.5,1337,a,2025-12-29
+193,Bashir Humphreys,Humphreys,Burnley,3.9,0.1,147,45,1.3,92,a,2025-12-29
+194,Jordan Beyer,Jordan,Burnley,3.9,0.1,7,42,0.0,0,i,2025-12-29
+195,Lucas Pires Silva,Lucas Pires,Burnley,3.8,0.2,502,362,0.8,231,a,2025-12-29
+196,Shurandy Sambo,Sambo,Burnley,4.0,0.0,0,11,0.0,0,u,2025-12-29
+197,Oliver Sonne,Sonne,Burnley,3.8,0.3,762,1099,1.3,128,a,2025-12-29
+198,Axel Tuanzebe,Tuanzebe,Burnley,3.9,1.1,10,3278,0.2,706,n,2025-12-29
+199,Joe Worrall,Worrall,Burnley,3.8,0.2,52,486,0.5,154,d,2025-12-29
+200,Jaidon Anthony,Anthony,Burnley,5.2,2.2,633,7089,1.7,1139,a,2025-12-29
+201,Manuel Benson Hedilazio,Benson,Burnley,5.4,0.0,0,6,0.0,0,u,2025-12-29
+202,Jacob Bruun Larsen,Bruun Larsen,Burnley,5.3,0.0,146,83,2.0,783,a,2025-12-29
+203,Enock Agyei,Boateng,Burnley,4.7,0.0,91,93,0.0,0,a,2025-12-29
 204,Darko Churlinov,Churlinov,Burnley,4.9,0.0,0,2,0.0,0,u,2025-12-29
-205,Josh Cullen,Cullen,Burnley,5.0,1.8,669,11752,2.5,1513,d,2025-12-29
-206,Marcus Edwards,Edwards,Burnley,4.7,0.1,199,113,1.7,183,a,2025-12-29
-207,Hannibal Mejbri,Hannibal,Burnley,4.7,0.1,15,97,0.2,395,n,2025-12-29
+205,Josh Cullen,Cullen,Burnley,5.0,1.8,680,13870,2.5,1513,d,2025-12-29
+206,Marcus Edwards,Edwards,Burnley,4.7,0.1,223,129,1.7,183,a,2025-12-29
+207,Hannibal Mejbri,Hannibal,Burnley,4.7,0.1,16,103,0.2,395,n,2025-12-29
 208,Luca Koleosho,Koleosho,Burnley,5.0,0.0,0,1,0.0,0,u,2025-12-29
-209,Josh Laurent,Laurent,Burnley,4.8,0.0,59,27,1.7,783,a,2025-12-29
-210,Loum Tchaouna,Tchaouna,Burnley,4.9,0.0,16,56,0.8,653,a,2025-12-29
-211,Aaron Ramsey,A.Ramsey,Burnley,4.4,1.6,0,1159,0.0,0,u,2025-12-29
-212,Oluwaseun Adewumi,Adewumi,Burnley,4.5,0.0,0,3,0.0,0,u,2025-12-29
-213,Jaydon Banel,Banel,Burnley,4.5,0.0,71,89,0.0,0,a,2025-12-29
-214,Mike Trésor Ndayishimiye,Trésor,Burnley,4.4,0.1,116,235,0.5,17,a,2025-12-29
-215,Zian Flemming,Flemming,Burnley,5.3,0.6,1258,4409,2.5,660,a,2025-12-29
-216,Zeki Amdouni,Amdouni,Burnley,4.8,0.0,16,28,0.0,0,i,2025-12-29
-217,Lyle Foster,Foster,Burnley,4.9,0.9,63,2810,1.2,866,n,2025-12-29
-218,Ashley Barnes,Barnes,Burnley,4.3,1.2,940,2104,0.0,7,a,2025-12-29
-219,Michael Obafemi,Obafemi,Burnley,4.4,0.1,0,69,0.0,0,u,2025-12-29
-470,Martin Dúbravka,Dúbravka,Burnley,4.0,33.3,14334,9487,3.3,1620,a,2025-12-29
-676,Lesley Ugochukwu,Ugochukwu,Burnley,5.0,0.1,412,450,3.0,1051,a,2025-12-29
-680,Armando Broja,Broja,Burnley,5.2,0.2,917,660,2.5,398,a,2025-12-29
-722,Florentino Ibrain Morris Luís,Florentino,Burnley,5.0,0.0,50,116,2.0,1046,a,2025-12-29
-66,Norberto Murara Neto,Neto,Bournemouth,4.5,0.1,0,47,0.0,0,u,2025-12-29
-67,Đorđe Petrović,Petrović,Bournemouth,4.5,5.3,656,15826,2.2,1620,a,2025-12-29
-68,Will Dennis,Dennis,Bournemouth,4.0,0.9,146,697,0.0,0,a,2025-12-29
-69,Callan McKenna,McKenna,Bournemouth,3.9,0.2,561,181,0.0,0,a,2025-12-29
-70,Alex Paulsen,Paulsen,Bournemouth,4.0,0.1,0,39,0.0,0,u,2025-12-29
-71,Illia Zabarnyi,Zabarnyi,Bournemouth,5.0,0.0,0,5,0.0,0,u,2025-12-29
-72,Marcos Senesi Barón,Senesi,Bournemouth,4.9,16.2,10380,53471,2.8,1488,a,2025-12-29
-73,Adam Smith,Smith,Bournemouth,4.4,0.2,127,416,1.5,521,a,2025-12-29
-74,Adrien Truffert,Truffert,Bournemouth,4.5,2.2,1101,12924,2.8,1578,a,2025-12-29
-75,Matai Akinmboni,Akinmboni,Bournemouth,3.8,0.2,66,190,0.0,0,d,2025-12-29
-76,Owen Bevan,Bevan,Bournemouth,3.9,0.2,47,150,0.0,0,a,2025-12-29
-77,James Hill,Hill,Bournemouth,3.9,0.7,166,1060,0.3,302,a,2025-12-29
-78,Julián Araujo Zúñiga,J.Araujo,Bournemouth,3.8,0.7,512,1072,0.0,0,a,2025-12-29
-79,Chris Mepham,Mepham,Bournemouth,4.0,0.1,0,38,0.0,0,u,2025-12-29
-80,Julio Soler Barreto,Soler,Bournemouth,4.0,0.2,217,271,0.3,34,a,2025-12-29
-81,Justin Kluivert,Kluivert,Bournemouth,7.0,0.8,860,3599,1.8,751,a,2025-12-29
-82,Antoine Semenyo,Semenyo,Bournemouth,7.7,46.9,77315,66469,5.5,1530,a,2025-12-29
-84,Marcus Tavernier,Tavernier,Bournemouth,5.6,3.1,5249,20839,3.7,1426,a,2025-12-29
-85,Tyler Adams,Adams,Bournemouth,5.0,0.3,8,1202,1.8,1196,i,2025-12-29
-86,David Brooks,Brooks,Bournemouth,5.0,0.2,194,305,0.8,763,a,2025-12-29
-87,Ryan Christie,Christie,Bournemouth,4.9,0.1,89,62,0.2,287,a,2025-12-29
-88,Lewis Cook,Cook,Bournemouth,4.9,0.0,126,78,1.0,394,a,2025-12-29
+209,Josh Laurent,Laurent,Burnley,4.8,0.0,77,32,1.7,783,a,2025-12-29
+210,Loum Tchaouna,Tchaouna,Burnley,4.9,0.0,17,65,0.8,653,a,2025-12-29
+211,Aaron Ramsey,A.Ramsey,Burnley,4.4,1.6,0,1305,0.0,0,u,2025-12-29
+212,Oluwaseun Adewumi,Adewumi,Burnley,4.5,0.0,0,4,0.0,0,u,2025-12-29
+213,Jaydon Banel,Banel,Burnley,4.5,0.0,78,98,0.0,0,a,2025-12-29
+214,Mike Trésor Ndayishimiye,Trésor,Burnley,4.4,0.1,144,272,0.5,17,a,2025-12-29
+215,Zian Flemming,Flemming,Burnley,5.3,0.6,1414,5077,2.5,660,a,2025-12-29
+216,Zeki Amdouni,Amdouni,Burnley,4.8,0.0,19,33,0.0,0,i,2025-12-29
+217,Lyle Foster,Foster,Burnley,4.9,0.9,70,3155,1.2,866,n,2025-12-29
+218,Ashley Barnes,Barnes,Burnley,4.3,1.2,1042,2418,0.0,7,a,2025-12-29
+219,Michael Obafemi,Obafemi,Burnley,4.4,0.1,0,83,0.0,0,u,2025-12-29
+470,Martin Dúbravka,Dúbravka,Burnley,4.0,33.3,16653,10800,3.3,1620,a,2025-12-29
+676,Lesley Ugochukwu,Ugochukwu,Burnley,5.0,0.1,481,530,3.0,1051,a,2025-12-29
+680,Armando Broja,Broja,Burnley,5.2,0.2,1038,772,2.5,398,a,2025-12-29
+722,Florentino Ibrain Morris Luís,Florentino,Burnley,5.0,0.0,56,127,2.0,1046,a,2025-12-29
+66,Norberto Murara Neto,Neto,Bournemouth,4.5,0.1,0,49,0.0,0,u,2025-12-29
+67,Đorđe Petrović,Petrović,Bournemouth,4.5,5.2,749,18004,2.2,1620,a,2025-12-29
+68,Will Dennis,Dennis,Bournemouth,4.0,0.9,162,789,0.0,0,a,2025-12-29
+69,Callan McKenna,McKenna,Bournemouth,3.9,0.2,647,222,0.0,0,a,2025-12-29
+70,Alex Paulsen,Paulsen,Bournemouth,4.0,0.1,0,44,0.0,0,u,2025-12-29
+71,Illia Zabarnyi,Zabarnyi,Bournemouth,5.0,0.0,0,6,0.0,0,u,2025-12-29
+72,Marcos Senesi Barón,Senesi,Bournemouth,4.9,16.1,11959,62943,2.8,1488,a,2025-12-29
+73,Adam Smith,Smith,Bournemouth,4.4,0.2,156,478,1.5,521,a,2025-12-29
+74,Adrien Truffert,Truffert,Bournemouth,4.5,2.2,1261,14908,2.8,1578,a,2025-12-29
+75,Matai Akinmboni,Akinmboni,Bournemouth,3.8,0.2,76,224,0.0,0,d,2025-12-29
+76,Owen Bevan,Bevan,Bournemouth,3.9,0.2,53,172,0.0,0,a,2025-12-29
+77,James Hill,Hill,Bournemouth,3.9,0.7,193,1212,0.3,302,a,2025-12-29
+78,Julián Araujo Zúñiga,J.Araujo,Bournemouth,3.8,0.7,592,1244,0.0,0,a,2025-12-29
+79,Chris Mepham,Mepham,Bournemouth,4.0,0.1,0,43,0.0,0,u,2025-12-29
+80,Julio Soler Barreto,Soler,Bournemouth,4.0,0.2,245,313,0.3,34,a,2025-12-29
+81,Justin Kluivert,Kluivert,Bournemouth,7.0,0.8,960,4114,1.8,751,a,2025-12-29
+82,Antoine Semenyo,Semenyo,Bournemouth,7.7,46.9,85583,78086,5.5,1530,a,2025-12-29
+84,Marcus Tavernier,Tavernier,Bournemouth,5.6,3.0,5687,24300,3.7,1426,a,2025-12-29
+85,Tyler Adams,Adams,Bournemouth,5.0,0.3,9,1329,1.8,1196,i,2025-12-29
+86,David Brooks,Brooks,Bournemouth,5.0,0.2,215,366,0.8,763,a,2025-12-29
+87,Ryan Christie,Christie,Bournemouth,4.9,0.1,105,75,0.2,287,a,2025-12-29
+88,Lewis Cook,Cook,Bournemouth,4.9,0.0,137,89,1.0,394,a,2025-12-29
 89,Philip Billing,Philip,Bournemouth,4.9,0.0,0,7,0.0,0,u,2025-12-29
-90,Alex Scott,Scott,Bournemouth,5.0,0.3,443,560,2.8,1155,a,2025-12-29
+90,Alex Scott,Scott,Bournemouth,5.0,0.3,497,667,2.8,1155,a,2025-12-29
 91,Luis Sinisterra Lucumí,Sinisterra,Bournemouth,5.0,0.0,0,1,0.0,0,u,2025-12-29
-92,Romain Faivre,Faivre,Bournemouth,4.5,0.1,0,38,0.0,0,u,2025-12-29
-93,Hamed Traorè,H.Traorè,Bournemouth,4.5,0.3,0,187,0.0,16,u,2025-12-29
+92,Romain Faivre,Faivre,Bournemouth,4.5,0.1,0,41,0.0,0,u,2025-12-29
+93,Hamed Traorè,H.Traorè,Bournemouth,4.5,0.3,0,209,0.0,16,u,2025-12-29
 94,Dominic Sadi,Sadi,Bournemouth,4.5,0.0,0,14,0.0,0,u,2025-12-29
-95,Zain Silcott-Duberry,Silcott-Duberry,Bournemouth,4.4,0.1,0,50,0.0,0,u,2025-12-29
-96,Ben Winterburn,Winterburn,Bournemouth,4.5,0.0,0,16,0.0,6,u,2025-12-29
-97,Francisco Evanilson de Lima Barbosa,Evanilson,Bournemouth,7.0,1.7,919,10579,2.8,1189,a,2025-12-29
-98,Enes Ünal,Enes Ünal,Bournemouth,5.4,0.0,144,257,0.5,61,a,2025-12-29
-99,Daniel Adu-Adjei,Adu-Adjei,Bournemouth,4.4,0.1,0,93,0.0,0,u,2025-12-29
-100,Junior Kroupi,Kroupi.Jr,Bournemouth,4.6,4.0,7681,14883,1.7,489,a,2025-12-29
-391,Ben Gannon-Doak,Gannon-Doak,Bournemouth,4.8,0.0,6,31,0.0,53,i,2025-12-29
-685,Bafodé Diakité,Diakité,Bournemouth,4.4,0.4,172,1525,2.2,1260,a,2025-12-29
-687,Remy Rees-Dottin,Rees-Dottin,Bournemouth,4.4,0.1,34,127,0.0,0,a,2025-12-29
-697,Amine Adli,Adli,Bournemouth,5.4,0.0,56,111,1.8,391,a,2025-12-29
-713,Álex Jiménez Sánchez,A.Jimenez,Bournemouth,4.5,0.1,190,534,3.0,887,a,2025-12-29
-721,Veljko Milosavljevic,Milosavljević,Bournemouth,4.4,0.0,3,36,0.7,365,i,2025-12-29
-756,Malcom DaCosta,DaCosta,Bournemouth,4.5,0.0,35,48,0.0,0,a,2025-12-29
-27,Reiss Nelson,Nelson,Brentford,4.8,0.1,75,56,0.3,32,a,2025-12-29
-83,Dango Ouattara,O.Dango,Brentford,5.9,0.5,16,5700,3.3,1061,n,2025-12-29
-101,Caoimhín Kelleher,Kelleher,Brentford,4.5,8.4,12589,6857,4.3,1620,a,2025-12-29
-102,Ellery Balcombe,Balcombe,Brentford,3.9,0.3,194,212,0.0,0,a,2025-12-29
-103,Matthew Cox,Cox,Brentford,3.9,0.2,110,215,0.0,0,a,2025-12-29
-104,Julian Eyestone,Eyestone,Brentford,3.9,0.1,32,184,0.0,0,a,2025-12-29
-105,Hákon Rafn Valdimarsson,Valdimarsson,Brentford,3.9,0.7,145,669,0.0,0,a,2025-12-29
-106,Nathan Collins,Collins,Brentford,4.9,1.6,2723,3568,4.0,1546,a,2025-12-29
-107,Keane Lewis-Potter,Lewis-Potter,Brentford,4.9,1.7,22945,5668,5.3,728,a,2025-12-29
-108,Kristoffer Ajer,Ajer,Brentford,4.4,0.2,189,191,0.8,701,a,2025-12-29
-109,Rico Henry,Henry,Brentford,4.3,0.1,277,242,2.5,518,a,2025-12-29
-110,Michael Kayode,Kayode,Brentford,4.5,0.7,1417,1862,2.7,1567,a,2025-12-29
-111,Ethan Pinnock,Pinnock,Brentford,4.2,0.1,122,249,0.7,228,a,2025-12-29
+95,Zain Silcott-Duberry,Silcott-Duberry,Bournemouth,4.4,0.1,0,55,0.0,0,u,2025-12-29
+96,Ben Winterburn,Winterburn,Bournemouth,4.5,0.0,0,18,0.0,6,u,2025-12-29
+97,Francisco Evanilson de Lima Barbosa,Evanilson,Bournemouth,7.0,1.7,1037,12434,2.8,1189,a,2025-12-29
+98,Enes Ünal,Enes Ünal,Bournemouth,5.4,0.0,155,285,0.5,61,a,2025-12-29
+99,Daniel Adu-Adjei,Adu-Adjei,Bournemouth,4.4,0.1,0,102,0.0,0,u,2025-12-29
+100,Junior Kroupi,Kroupi.Jr,Bournemouth,4.6,4.0,8545,17213,1.7,489,a,2025-12-29
+391,Ben Gannon-Doak,Gannon-Doak,Bournemouth,4.8,0.0,6,37,0.0,53,i,2025-12-29
+685,Bafodé Diakité,Diakité,Bournemouth,4.4,0.4,205,1713,2.2,1260,a,2025-12-29
+687,Remy Rees-Dottin,Rees-Dottin,Bournemouth,4.4,0.1,36,146,0.0,0,a,2025-12-29
+697,Amine Adli,Adli,Bournemouth,5.4,0.0,61,123,1.8,391,a,2025-12-29
+713,Álex Jiménez Sánchez,A.Jimenez,Bournemouth,4.5,0.1,210,610,3.0,887,a,2025-12-29
+721,Veljko Milosavljevic,Milosavljević,Bournemouth,4.4,0.0,5,41,0.7,365,i,2025-12-29
+756,Malcom DaCosta,DaCosta,Bournemouth,4.5,0.0,42,56,0.0,0,a,2025-12-29
+27,Reiss Nelson,Nelson,Brentford,4.8,0.1,84,63,0.3,32,a,2025-12-29
+83,Dango Ouattara,O.Dango,Brentford,5.9,0.5,20,6470,3.3,1061,n,2025-12-29
+101,Caoimhín Kelleher,Kelleher,Brentford,4.5,8.4,14325,7954,4.3,1620,a,2025-12-29
+102,Ellery Balcombe,Balcombe,Brentford,3.9,0.3,226,240,0.0,0,a,2025-12-29
+103,Matthew Cox,Cox,Brentford,3.9,0.2,122,246,0.0,0,a,2025-12-29
+104,Julian Eyestone,Eyestone,Brentford,3.9,0.1,33,219,0.0,0,a,2025-12-29
+105,Hákon Rafn Valdimarsson,Valdimarsson,Brentford,3.9,0.7,174,803,0.0,0,a,2025-12-29
+106,Nathan Collins,Collins,Brentford,4.9,1.6,3071,4138,4.0,1546,a,2025-12-29
+107,Keane Lewis-Potter,Lewis-Potter,Brentford,4.9,1.7,26839,6533,5.3,728,a,2025-12-29
+108,Kristoffer Ajer,Ajer,Brentford,4.4,0.2,218,225,0.8,701,a,2025-12-29
+109,Rico Henry,Henry,Brentford,4.3,0.1,312,279,2.5,518,a,2025-12-29
+110,Michael Kayode,Kayode,Brentford,4.5,0.7,1670,2155,2.7,1567,a,2025-12-29
+111,Ethan Pinnock,Pinnock,Brentford,4.2,0.1,141,279,0.7,228,a,2025-12-29
 112,Mads Roerslev Rasmussen,Roerslev,Brentford,4.5,0.0,0,6,0.0,0,u,2025-12-29
-113,Sepp van den Berg,Van den Berg,Brentford,4.5,1.2,498,8725,2.5,1530,d,2025-12-29
-114,Benjamin Arthur,Arthur,Brentford,3.9,0.2,55,198,0.0,0,a,2025-12-29
-115,Benjamin Fredrick,Fredrick,Brentford,4.0,0.1,0,40,0.0,0,u,2025-12-29
-116,Aaron Hickey,Hickey,Brentford,4.0,0.5,823,1591,2.7,423,a,2025-12-29
-117,Kim Ji-soo,Ji-soo,Brentford,3.9,0.1,0,54,0.0,0,u,2025-12-29
-118,Jayden Meghoma,Meghoma,Brentford,4.0,0.0,0,19,0.0,0,u,2025-12-29
-120,Kevin Schade,Schade,Brentford,7.0,1.3,55076,3287,4.7,1413,a,2025-12-29
-121,Mikkel Damsgaard,Damsgaard,Brentford,5.8,0.6,857,2026,2.7,1041,a,2025-12-29
-122,Antoni Milambo,Milambo,Brentford,5.2,0.0,4,14,0.0,45,i,2025-12-29
-123,Fábio Freitas Gouveia Carvalho,Carvalho,Brentford,4.7,0.1,9,186,0.0,100,i,2025-12-29
-124,Jordan Henderson,Henderson,Brentford,5.0,0.5,1395,2388,3.8,1219,a,2025-12-29
-125,Vitaly Janelt,Janelt,Brentford,4.9,0.0,299,167,3.2,488,a,2025-12-29
-126,Mathias Jensen,Jensen,Brentford,4.9,0.1,142,193,2.0,616,a,2025-12-29
-127,Gustavo Nunes Fernandes Gomes,Nunes,Brentford,4.9,0.0,38,29,0.0,0,a,2025-12-29
-128,Frank Onyeka,Onyeka,Brentford,4.8,0.0,3,51,0.0,88,n,2025-12-29
-129,Yehor Yarmoliuk,Yarmoliuk,Brentford,5.0,0.1,233,131,2.3,1305,a,2025-12-29
-130,Romelle Donovan,Donovan,Brentford,4.4,0.1,104,172,0.0,0,a,2025-12-29
-131,Yunus Emre Konak,Konak,Brentford,4.3,0.2,337,571,0.0,0,a,2025-12-29
-132,Paris Maghoma,Maghoma,Brentford,4.5,0.0,133,90,0.0,0,a,2025-12-29
-133,Myles Peart-Harris,Peart-Harris,Brentford,4.4,0.0,48,72,0.0,0,a,2025-12-29
+113,Sepp van den Berg,Van den Berg,Brentford,4.5,1.2,529,10285,2.5,1530,d,2025-12-29
+114,Benjamin Arthur,Arthur,Brentford,3.9,0.2,65,234,0.0,0,a,2025-12-29
+115,Benjamin Fredrick,Fredrick,Brentford,4.0,0.1,0,41,0.0,0,u,2025-12-29
+116,Aaron Hickey,Hickey,Brentford,4.0,0.5,959,1881,2.7,423,a,2025-12-29
+117,Kim Ji-soo,Ji-soo,Brentford,3.9,0.1,0,61,0.0,0,u,2025-12-29
+118,Jayden Meghoma,Meghoma,Brentford,4.0,0.0,0,24,0.0,0,u,2025-12-29
+120,Kevin Schade,Schade,Brentford,7.0,1.4,61697,3844,4.7,1413,a,2025-12-29
+121,Mikkel Damsgaard,Damsgaard,Brentford,5.8,0.6,998,2331,2.7,1041,a,2025-12-29
+122,Antoni Milambo,Milambo,Brentford,5.2,0.0,4,15,0.0,45,i,2025-12-29
+123,Fábio Freitas Gouveia Carvalho,Carvalho,Brentford,4.7,0.1,10,207,0.0,100,i,2025-12-29
+124,Jordan Henderson,Henderson,Brentford,5.0,0.5,1586,2704,3.8,1219,a,2025-12-29
+125,Vitaly Janelt,Janelt,Brentford,4.9,0.0,338,194,3.2,488,a,2025-12-29
+126,Mathias Jensen,Jensen,Brentford,4.9,0.1,161,225,2.0,616,a,2025-12-29
+127,Gustavo Nunes Fernandes Gomes,Nunes,Brentford,4.9,0.0,42,36,0.0,0,a,2025-12-29
+128,Frank Onyeka,Onyeka,Brentford,4.8,0.0,3,55,0.0,88,n,2025-12-29
+129,Yehor Yarmoliuk,Yarmoliuk,Brentford,5.0,0.1,264,150,2.3,1305,a,2025-12-29
+130,Romelle Donovan,Donovan,Brentford,4.4,0.1,126,196,0.0,0,a,2025-12-29
+131,Yunus Emre Konak,Konak,Brentford,4.3,0.2,369,679,0.0,0,a,2025-12-29
+132,Paris Maghoma,Maghoma,Brentford,4.5,0.0,147,107,0.0,0,a,2025-12-29
+133,Myles Peart-Harris,Peart-Harris,Brentford,4.4,0.0,52,79,0.0,0,a,2025-12-29
 134,Ryan Trevitt,Trevitt,Brentford,4.5,0.0,0,0,0.0,0,u,2025-12-29
-136,Igor Thiago Nascimento Rodrigues,Thiago,Brentford,7.0,29.0,29902,106713,4.2,1491,a,2025-12-29
-137,Iwan Morgan,Morgan,Brentford,4.4,0.4,413,703,0.0,0,a,2025-12-29
-748,Josh Dasilva,Dasilva,Brentford,4.9,0.0,2,4,0.0,0,i,2025-12-29
-138,Jason Steele,Steele,Brighton,4.2,0.3,93,205,0.0,0,a,2025-12-29
-139,Bart Verbruggen,Verbruggen,Brighton,4.4,5.5,16720,4217,4.0,1620,a,2025-12-29
-140,Tom McGill,McGill,Brighton,3.9,0.3,142,291,0.0,0,a,2025-12-29
-141,Carl Rushworth,Rushworth,Brighton,4.0,0.0,0,2,0.0,0,u,2025-12-29
+136,Igor Thiago Nascimento Rodrigues,Thiago,Brentford,7.0,28.8,33797,122619,4.2,1491,a,2025-12-29
+137,Iwan Morgan,Morgan,Brentford,4.4,0.4,463,815,0.0,0,a,2025-12-29
+748,Josh Dasilva,Dasilva,Brentford,4.9,0.0,3,4,0.0,0,i,2025-12-29
+138,Jason Steele,Steele,Brighton,4.2,0.3,100,236,0.0,0,a,2025-12-29
+139,Bart Verbruggen,Verbruggen,Brighton,4.4,5.6,19372,4898,4.0,1620,a,2025-12-29
+140,Tom McGill,McGill,Brighton,3.9,0.3,168,337,0.0,0,a,2025-12-29
+141,Carl Rushworth,Rushworth,Brighton,4.0,0.0,0,3,0.0,0,u,2025-12-29
 142,Kjell Scherpen,Scherpen,Brighton,4.0,0.0,0,1,0.0,0,u,2025-12-29
-143,Olivier Boscagli,Boscagli,Brighton,4.2,0.1,72,111,1.5,142,a,2025-12-29
-144,Diego Coppola,Coppola,Brighton,4.2,0.1,72,54,1.2,193,a,2025-12-29
-145,Maxim De Cuyper,De Cuyper,Brighton,4.3,2.4,9899,4034,5.0,808,a,2025-12-29
-146,Lewis Dunk,Dunk,Brighton,4.5,0.9,2017,983,1.2,1485,a,2025-12-29
+143,Olivier Boscagli,Boscagli,Brighton,4.2,0.1,82,136,1.5,142,a,2025-12-29
+144,Diego Coppola,Coppola,Brighton,4.2,0.1,82,63,1.2,193,a,2025-12-29
+145,Maxim De Cuyper,De Cuyper,Brighton,4.3,2.5,11351,4664,5.0,808,a,2025-12-29
+146,Lewis Dunk,Dunk,Brighton,4.5,0.9,2343,1131,1.2,1485,a,2025-12-29
 147,Pervis Estupiñán Tenorio,Estupiñan,Brighton,4.5,0.0,0,4,0.0,0,u,2025-12-29
-148,Ferdi Kadıoğlu,F.Kadıoğlu,Brighton,4.4,0.2,1364,488,2.8,1332,a,2025-12-29
-150,Tariq Lamptey,Lamptey,Brighton,4.4,0.1,0,54,0.0,0,u,2025-12-29
-151,Jan Paul van Hecke,Van Hecke,Brighton,4.5,4.0,18887,10757,4.5,1530,a,2025-12-29
-152,Joël Veltman,Veltman,Brighton,4.3,0.1,115,133,0.5,403,a,2025-12-29
+148,Ferdi Kadıoğlu,F.Kadıoğlu,Brighton,4.4,0.2,1579,559,2.8,1332,a,2025-12-29
+150,Tariq Lamptey,Lamptey,Brighton,4.4,0.1,0,56,0.0,0,u,2025-12-29
+151,Jan Paul van Hecke,Van Hecke,Brighton,4.5,4.0,23013,11855,4.5,1530,a,2025-12-29
+152,Joël Veltman,Veltman,Brighton,4.3,0.1,137,149,0.5,403,a,2025-12-29
 153,Adam Webster,Webster,Brighton,4.4,0.0,6,5,0.0,0,i,2025-12-29
 154,Eiran Cashin,Cashin,Brighton,4.0,0.0,0,1,0.0,0,u,2025-12-29
-155,Jacob Slater,Slater,Brighton,4.0,0.1,0,45,0.0,0,u,2025-12-29
-156,Charlie Tasker,Tasker,Brighton,3.9,0.1,47,164,0.0,0,a,2025-12-29
-157,Mitoma Kaoru,Mitoma,Brighton,6.1,1.8,857,2494,0.3,560,d,2025-12-29
-158,Georginio Rutter,Georginio,Brighton,5.6,0.4,2537,990,2.8,1172,a,2025-12-29
-159,Solly March,March,Brighton,5.8,0.0,3,8,0.0,0,i,2025-12-29
-160,Yankuba Minteh,Minteh,Brighton,6.0,6.3,22260,26203,2.3,1486,a,2025-12-29
-161,Julio Enciso Espínola,Enciso,Brighton,5.4,0.0,0,2,0.0,0,u,2025-12-29
-162,Brajan Gruda,Gruda,Brighton,5.4,0.1,181,108,1.5,512,a,2025-12-29
-163,Jack Hinshelwood,Hinshelwood,Brighton,5.1,0.1,215,153,2.8,482,a,2025-12-29
-164,Matt O'Riley,O'Riley,Brighton,5.5,0.3,0,94,0.0,177,u,2025-12-29
+155,Jacob Slater,Slater,Brighton,4.0,0.1,0,54,0.0,0,u,2025-12-29
+156,Charlie Tasker,Tasker,Brighton,3.9,0.1,60,190,0.0,0,a,2025-12-29
+157,Mitoma Kaoru,Mitoma,Brighton,6.1,1.8,961,2810,0.3,560,d,2025-12-29
+158,Georginio Rutter,Georginio,Brighton,5.6,0.4,2939,1155,2.8,1172,a,2025-12-29
+159,Solly March,March,Brighton,5.8,0.0,3,11,0.0,0,i,2025-12-29
+160,Yankuba Minteh,Minteh,Brighton,6.0,6.3,25640,29802,2.3,1486,a,2025-12-29
+161,Julio Enciso Espínola,Enciso,Brighton,5.4,0.0,0,3,0.0,0,u,2025-12-29
+162,Brajan Gruda,Gruda,Brighton,5.4,0.1,207,122,1.5,512,a,2025-12-29
+163,Jack Hinshelwood,Hinshelwood,Brighton,5.1,0.1,255,172,2.8,482,a,2025-12-29
+164,Matt O'Riley,O'Riley,Brighton,5.5,0.3,0,101,0.0,177,u,2025-12-29
 165,Abdallah Sima,Sima,Brighton,5.4,0.0,0,2,0.0,0,u,2025-12-29
-166,Yasin Ayari,Ayari,Brighton,4.8,0.2,980,325,2.0,1257,a,2025-12-29
-167,Carlos Baleba,Baleba,Brighton,4.6,1.4,92,2749,1.3,894,n,2025-12-29
-169,Diego Gómez Amarilla,Gomez,Brighton,4.9,0.2,2827,296,2.7,1042,a,2025-12-29
-170,James Milner,Milner,Brighton,4.9,0.1,128,136,0.3,209,a,2025-12-29
-171,Jeremy Sarmiento Morante,Sarmiento,Brighton,4.9,0.0,0,4,0.0,0,u,2025-12-29
-172,Tom Watson,Watson,Brighton,4.8,0.0,32,30,0.3,47,a,2025-12-29
-173,Mats Wieffer,Wieffer,Brighton,4.9,0.3,732,1493,3.0,1179,a,2025-12-29
+166,Yasin Ayari,Ayari,Brighton,4.8,0.2,1160,372,2.0,1257,a,2025-12-29
+167,Carlos Baleba,Baleba,Brighton,4.6,1.4,99,3105,1.3,894,n,2025-12-29
+169,Diego Gómez Amarilla,Gomez,Brighton,4.9,0.2,3325,337,2.7,1042,a,2025-12-29
+170,James Milner,Milner,Brighton,4.9,0.1,136,149,0.3,209,a,2025-12-29
+171,Jeremy Sarmiento Morante,Sarmiento,Brighton,4.9,0.0,0,6,0.0,0,u,2025-12-29
+172,Tom Watson,Watson,Brighton,4.8,0.0,38,35,0.3,47,a,2025-12-29
+173,Mats Wieffer,Wieffer,Brighton,4.9,0.3,885,1694,3.0,1179,a,2025-12-29
 174,Malick Yalcouyé,Yalcouye,Brighton,5.0,0.0,0,1,0.0,0,u,2025-12-29
-175,Joe Knight,Knight,Brighton,4.4,0.1,67,185,0.0,1,a,2025-12-29
-176,Adrian Mazilu,Mazilu,Brighton,4.5,0.0,0,3,0.0,0,u,2025-12-29
+175,Joe Knight,Knight,Brighton,4.4,0.1,78,219,0.0,1,a,2025-12-29
+176,Adrian Mazilu,Mazilu,Brighton,4.5,0.0,0,7,0.0,0,u,2025-12-29
 177,Andrew Moran,Moran,Brighton,4.5,0.0,0,8,0.0,0,u,2025-12-29
-178,Danny Welbeck,Welbeck,Brighton,6.3,4.8,5446,29099,1.2,999,a,2025-12-29
+178,Danny Welbeck,Welbeck,Brighton,6.3,4.8,6549,32434,1.2,999,a,2025-12-29
 179,Evan Ferguson,Ferguson,Brighton,5.5,0.0,0,1,0.0,0,u,2025-12-29
-180,Stefanos Tzimas,Tzimas,Brighton,5.2,0.1,13,105,1.0,132,i,2025-12-29
-181,Charalampos Kostoulas,Kostoulas,Brighton,4.8,0.3,434,715,0.8,90,a,2025-12-29
-744,Nehemiah Oriola,Oriola,Brighton,4.5,0.0,41,50,0.0,1,a,2025-12-29
-761,Freddie Simmonds,Simmonds,Brighton,4.0,0.0,24,22,0.0,0,a,2025-12-29
-168,Facundo Buonanotte,Buonanotte,Chelsea,4.6,0.1,136,156,0.0,45,a,2025-12-29
-220,Robert Lynch Sánchez,Sánchez,Chelsea,4.9,14.9,14035,11700,4.5,1534,a,2025-12-29
-221,Filip Jörgensen,Jörgensen,Chelsea,4.3,0.2,69,136,0.0,84,a,2025-12-29
+180,Stefanos Tzimas,Tzimas,Brighton,5.2,0.1,14,123,1.0,132,i,2025-12-29
+181,Charalampos Kostoulas,Kostoulas,Brighton,4.8,0.3,476,830,0.8,90,a,2025-12-29
+744,Nehemiah Oriola,Oriola,Brighton,4.5,0.0,46,56,0.0,1,a,2025-12-29
+761,Freddie Simmonds,Simmonds,Brighton,4.0,0.0,29,27,0.0,0,a,2025-12-29
+168,Facundo Buonanotte,Buonanotte,Chelsea,4.6,0.1,157,171,0.0,45,a,2025-12-29
+220,Robert Lynch Sánchez,Sánchez,Chelsea,4.9,14.9,16086,13388,4.5,1534,a,2025-12-29
+221,Filip Jörgensen,Jörgensen,Chelsea,4.3,0.2,79,153,0.0,84,a,2025-12-29
 222,Mike Penders,Penders,Chelsea,4.0,0.0,0,0,0.0,0,u,2025-12-29
-223,Gabriel Słonina,Slonina,Chelsea,3.9,0.1,86,105,0.0,0,a,2025-12-29
-224,Marc Cucurella Saseta,Cucurella,Chelsea,6.2,21.6,9120,55987,2.8,1504,d,2025-12-29
-225,Reece James,James,Chelsea,5.7,10.6,80911,5127,5.5,1201,a,2025-12-29
-226,Trevoh Chalobah,Chalobah,Chelsea,5.5,19.4,50191,35016,5.5,1470,a,2025-12-29
-227,Levi Samuels Colwill,Colwill,Chelsea,4.8,0.1,8,28,0.0,0,i,2025-12-29
-228,Malo Gusto,Gusto,Chelsea,5.0,2.6,7038,11607,4.7,961,a,2025-12-29
-229,Benoît Badiashile Mukinayi,B.Badiashile,Chelsea,4.4,0.0,93,35,0.2,245,a,2025-12-29
-230,Wesley Fofana,Fofana,Chelsea,4.4,0.5,1282,2700,3.8,667,a,2025-12-29
+223,Gabriel Słonina,Slonina,Chelsea,3.9,0.1,92,118,0.0,0,a,2025-12-29
+224,Marc Cucurella Saseta,Cucurella,Chelsea,6.2,21.4,9277,75305,2.8,1504,d,2025-12-29
+225,Reece James,James,Chelsea,5.7,10.8,95353,5853,5.5,1201,a,2025-12-29
+226,Trevoh Chalobah,Chalobah,Chelsea,5.5,19.4,57600,40270,5.5,1470,a,2025-12-29
+227,Levi Samuels Colwill,Colwill,Chelsea,4.8,0.1,8,34,0.0,0,i,2025-12-29
+228,Malo Gusto,Gusto,Chelsea,5.0,2.6,8084,13051,4.7,961,a,2025-12-29
+229,Benoît Badiashile Mukinayi,B.Badiashile,Chelsea,4.4,0.0,108,42,0.2,245,a,2025-12-29
+230,Wesley Fofana,Fofana,Chelsea,4.4,0.5,1462,3036,3.8,667,a,2025-12-29
 231,Mamadou Sarr,M.Sarr,Chelsea,4.5,0.0,0,3,0.0,0,u,2025-12-29
-232,Tosin Adarabioyo,Tosin,Chelsea,4.1,0.3,170,813,0.5,557,a,2025-12-29
-233,Josh Acheampong,Acheampong,Chelsea,3.8,1.3,1002,3626,0.0,348,a,2025-12-29
-234,Aarón Anselmino,Anselmino,Chelsea,4.0,0.1,0,15,0.0,0,u,2025-12-29
-235,Cole Palmer,Palmer,Chelsea,10.4,11.8,20849,12413,2.5,437,a,2025-12-29
-236,Pedro Lomba Neto,Neto,Chelsea,7.3,8.8,12731,35768,3.3,1414,a,2025-12-29
-237,Enzo Fernández,Enzo,Chelsea,6.5,9.4,6459,31582,2.0,1456,a,2025-12-29
-238,Estêvão Almeida de Oliveira Gonçalves,Estêvão,Chelsea,6.4,1.9,2430,4216,0.7,467,a,2025-12-29
-239,Jamie Bynoe-Gittens,Gittens,Chelsea,6.0,0.1,129,193,1.2,444,a,2025-12-29
+232,Tosin Adarabioyo,Tosin,Chelsea,4.1,0.3,194,920,0.5,557,a,2025-12-29
+233,Josh Acheampong,Acheampong,Chelsea,3.8,1.3,1135,4189,0.0,348,a,2025-12-29
+234,Aarón Anselmino,Anselmino,Chelsea,4.0,0.1,0,17,0.0,0,u,2025-12-29
+235,Cole Palmer,Palmer,Chelsea,10.4,11.8,23835,13900,2.5,437,a,2025-12-29
+236,Pedro Lomba Neto,Neto,Chelsea,7.3,8.7,14736,40408,3.3,1414,a,2025-12-29
+237,Enzo Fernández,Enzo,Chelsea,6.5,9.4,7315,36182,2.0,1456,a,2025-12-29
+238,Estêvão Almeida de Oliveira Gonçalves,Estêvão,Chelsea,6.4,1.9,2692,4744,0.7,467,a,2025-12-29
+239,Jamie Bynoe-Gittens,Gittens,Chelsea,6.0,0.1,144,205,1.2,444,a,2025-12-29
 240,Christopher Nkunku,Nkunku,Chelsea,5.9,0.1,0,16,0.0,0,u,2025-12-29
-241,Moisés Caicedo Corozo,Caicedo,Chelsea,5.7,8.8,7041,12190,0.7,1162,a,2025-12-29
-243,Tyrique George,George,Chelsea,4.8,0.1,41,70,0.0,142,a,2025-12-29
+241,Moisés Caicedo Corozo,Caicedo,Chelsea,5.7,8.8,7884,13767,0.7,1162,a,2025-12-29
+243,Tyrique George,George,Chelsea,4.8,0.1,46,76,0.0,142,a,2025-12-29
 244,Roméo Lavia,Lavia,Chelsea,4.9,0.0,4,16,0.0,105,i,2025-12-29
-245,Mykhailo Mudryk,Mudryk,Chelsea,4.9,0.0,15,10,0.0,0,s,2025-12-29
-246,Andrey Nascimento dos Santos,Andrey Santos,Chelsea,4.5,0.3,334,707,0.5,436,a,2025-12-29
-247,Dário Luís Essugo,D.Essugo,Chelsea,4.3,0.1,22,64,0.0,0,i,2025-12-29
+245,Mykhailo Mudryk,Mudryk,Chelsea,4.9,0.0,18,12,0.0,0,s,2025-12-29
+246,Andrey Nascimento dos Santos,Andrey Santos,Chelsea,4.5,0.3,371,812,0.5,436,a,2025-12-29
+247,Dário Luís Essugo,D.Essugo,Chelsea,4.3,0.1,26,73,0.0,0,i,2025-12-29
 248,Kendry Páez Andrade,Paez,Chelsea,4.5,0.0,0,0,0.0,0,u,2025-12-29
-249,João Pedro Junqueira de Jesus,João Pedro,Chelsea,7.2,28.7,19062,26149,3.3,1418,a,2025-12-29
-250,Liam Delap,Delap,Chelsea,6.2,0.9,416,445,0.7,367,a,2025-12-29
-251,Nicolas Jackson,N.Jackson,Chelsea,6.5,0.1,0,17,0.0,0,u,2025-12-29
-252,Marc Guiu Paz,Marc Guiu,Chelsea,4.3,7.5,4074,16194,0.2,247,a,2025-12-29
-453,Alejandro Garnacho Ferreyra,Garnacho,Chelsea,6.4,0.6,1702,1963,1.8,714,a,2025-12-29
-672,Jorrel Hato,Hato,Chelsea,4.6,0.2,115,145,0.0,166,a,2025-12-29
-743,Landon Emenalo,Emenalo,Chelsea,4.5,0.0,12,25,0.0,0,a,2025-12-29
-253,Dean Henderson,Henderson,Crystal Palace,5.1,8.6,3872,9097,2.7,1620,a,2025-12-29
-254,Walter Benítez,Benitez,Crystal Palace,4.0,0.3,176,198,0.0,0,a,2025-12-29
-255,Remi Matthews,Matthews,Crystal Palace,3.9,0.1,43,65,0.0,0,a,2025-12-29
-256,Daniel Muñoz Mejía,Muñoz,Crystal Palace,5.8,7.6,632,54840,2.5,1260,i,2025-12-29
-257,Maxence Lacroix,Lacroix,Crystal Palace,5.2,6.8,9240,18526,3.0,1620,a,2025-12-29
-258,Tyrick Mitchell,Mitchell,Crystal Palace,5.0,2.4,3198,4812,2.0,1614,a,2025-12-29
-259,Borna Sosa,Sosa,Crystal Palace,4.8,0.1,144,111,0.2,26,a,2025-12-29
-260,Marc Guéhi,Guéhi,Crystal Palace,5.3,41.6,48496,26462,4.3,1530,a,2025-12-29
-261,Chris Richards,Richards,Crystal Palace,4.6,3.4,335,38551,2.8,1522,d,2025-12-29
-262,Chadi Riad Dnanou,Chadi Riad,Crystal Palace,4.0,0.0,7,24,0.0,0,d,2025-12-29
-263,Nathaniel Clyne,Clyne,Crystal Palace,3.8,0.8,1097,1667,0.8,277,a,2025-12-29
+249,João Pedro Junqueira de Jesus,João Pedro,Chelsea,7.2,28.7,21903,29423,3.3,1418,a,2025-12-29
+250,Liam Delap,Delap,Chelsea,6.2,0.9,460,493,0.7,367,a,2025-12-29
+251,Nicolas Jackson,N.Jackson,Chelsea,6.5,0.1,0,18,0.0,0,u,2025-12-29
+252,Marc Guiu Paz,Marc Guiu,Chelsea,4.3,7.4,4617,18771,0.2,247,a,2025-12-29
+453,Alejandro Garnacho Ferreyra,Garnacho,Chelsea,6.4,0.6,2019,2220,1.8,714,a,2025-12-29
+672,Jorrel Hato,Hato,Chelsea,4.6,0.2,135,153,0.0,166,a,2025-12-29
+743,Landon Emenalo,Emenalo,Chelsea,4.5,0.0,13,26,0.0,0,a,2025-12-29
+253,Dean Henderson,Henderson,Crystal Palace,5.1,8.6,4447,10631,2.7,1620,a,2025-12-29
+254,Walter Benítez,Benitez,Crystal Palace,4.0,0.3,197,235,0.0,0,a,2025-12-29
+255,Remi Matthews,Matthews,Crystal Palace,3.9,0.1,52,76,0.0,0,a,2025-12-29
+256,Daniel Muñoz Mejía,Muñoz,Crystal Palace,5.8,7.5,680,60580,2.5,1260,i,2025-12-29
+257,Maxence Lacroix,Lacroix,Crystal Palace,5.2,6.8,10785,21284,3.0,1620,a,2025-12-29
+258,Tyrick Mitchell,Mitchell,Crystal Palace,5.0,2.4,3677,5603,2.0,1614,a,2025-12-29
+259,Borna Sosa,Sosa,Crystal Palace,4.8,0.1,163,124,0.2,26,a,2025-12-29
+260,Marc Guéhi,Guéhi,Crystal Palace,5.3,41.6,55729,31863,4.3,1530,a,2025-12-29
+261,Chris Richards,Richards,Crystal Palace,4.6,3.3,387,45489,2.8,1522,d,2025-12-29
+262,Chadi Riad Dnanou,Chadi Riad,Crystal Palace,4.0,0.0,7,25,0.0,0,d,2025-12-29
+263,Nathaniel Clyne,Clyne,Crystal Palace,3.8,0.8,1275,1935,0.8,277,a,2025-12-29
 264,Rob Holding,Holding,Crystal Palace,4.0,0.0,0,5,0.0,0,u,2025-12-29
-265,Caleb Kporha,Kporha,Crystal Palace,4.0,0.0,7,4,0.0,0,i,2025-12-29
-267,Ismaïla Sarr,Sarr,Crystal Palace,6.4,2.2,44,4942,0.5,1009,n,2025-12-29
-268,Cheick Doucouré,Doucouré,Crystal Palace,4.9,0.0,3,2,0.0,0,i,2025-12-29
-269,Romain Esse,Esse,Crystal Palace,4.7,0.1,93,117,0.2,29,a,2025-12-29
-270,Will Hughes,Hughes,Crystal Palace,4.7,0.1,258,182,0.8,631,a,2025-12-29
-271,Daichi Kamada,Kamada,Crystal Palace,5.0,0.1,7,459,1.7,1166,i,2025-12-29
-272,Jefferson Lerma Solís,Lerma,Crystal Palace,4.9,0.1,98,102,1.3,624,a,2025-12-29
-273,Adam Wharton,Wharton,Crystal Palace,5.0,0.9,3423,2661,4.2,1298,a,2025-12-29
-274,Asher Agbinone,Agbinone,Crystal Palace,4.3,0.1,77,74,0.0,0,a,2025-12-29
-275,Naouirou Ahamada,Ahamada,Crystal Palace,4.3,0.0,61,63,0.0,0,a,2025-12-29
-276,Justin Devenny,Devenny,Crystal Palace,4.3,1.4,4836,2309,1.8,295,a,2025-12-29
+265,Caleb Kporha,Kporha,Crystal Palace,4.0,0.0,8,6,0.0,0,i,2025-12-29
+267,Ismaïla Sarr,Sarr,Crystal Palace,6.4,2.2,51,5508,0.5,1009,n,2025-12-29
+268,Cheick Doucouré,Doucouré,Crystal Palace,4.9,0.0,4,4,0.0,0,i,2025-12-29
+269,Romain Esse,Esse,Crystal Palace,4.7,0.1,105,133,0.2,29,a,2025-12-29
+270,Will Hughes,Hughes,Crystal Palace,4.7,0.1,298,217,0.8,631,a,2025-12-29
+271,Daichi Kamada,Kamada,Crystal Palace,5.0,0.1,7,507,1.7,1166,i,2025-12-29
+272,Jefferson Lerma Solís,Lerma,Crystal Palace,4.9,0.1,111,122,1.3,624,a,2025-12-29
+273,Adam Wharton,Wharton,Crystal Palace,5.0,0.9,3927,3157,4.2,1298,a,2025-12-29
+274,Asher Agbinone,Agbinone,Crystal Palace,4.3,0.1,83,86,0.0,0,a,2025-12-29
+275,Naouirou Ahamada,Ahamada,Crystal Palace,4.3,0.0,66,75,0.0,0,a,2025-12-29
+276,Justin Devenny,Devenny,Crystal Palace,4.3,1.5,5771,2672,1.8,295,a,2025-12-29
 277,Malcolm Ebiowei,Ebiowei,Crystal Palace,4.5,0.0,0,1,0.0,0,u,2025-12-29
-278,Jesurun Rak-Sakyi,J.Rak-Sakyi,Crystal Palace,4.4,0.0,0,21,0.0,0,u,2025-12-29
-279,Matheus França de Oliveira,M.França,Crystal Palace,4.5,0.0,0,2,0.0,0,u,2025-12-29
+278,Jesurun Rak-Sakyi,J.Rak-Sakyi,Crystal Palace,4.4,0.0,0,24,0.0,0,u,2025-12-29
+279,Matheus França de Oliveira,M.França,Crystal Palace,4.5,0.0,0,3,0.0,0,u,2025-12-29
 280,David Ozoh,Ozoh,Crystal Palace,4.5,0.0,0,0,0.0,0,u,2025-12-29
-281,Kaden Rodney,Rodney,Crystal Palace,4.4,0.0,49,55,0.0,0,a,2025-12-29
-282,Franco Umeh-Chibueze,Umeh,Crystal Palace,4.5,0.0,0,8,0.0,0,u,2025-12-29
-283,Jean-Philippe Mateta,Mateta,Crystal Palace,7.7,12.7,6515,51712,2.7,1464,a,2025-12-29
-284,Eddie Nketiah,Nketiah,Crystal Palace,5.4,0.6,581,3648,2.3,414,a,2025-12-29
-285,Odsonne Édouard,Édouard,Crystal Palace,5.0,0.2,0,79,0.0,2,u,2025-12-29
-286,Zach Marsh,Marsh,Crystal Palace,4.5,0.3,323,509,0.0,0,a,2025-12-29
-690,Rio Cardines,Cardines,Crystal Palace,4.4,0.3,6,479,0.0,0,i,2025-12-29
-712,Yéremy Pino Santos,Yeremy,Crystal Palace,5.8,0.3,1058,1871,3.0,1090,a,2025-12-29
-723,Jaydee Canvot,Canvot,Crystal Palace,4.5,0.0,33,33,0.3,113,a,2025-12-29
-732,Christantus Uche,Uche,Crystal Palace,5.5,0.0,245,169,1.3,83,a,2025-12-29
-762,Joél Drakes-Thomas,Drakes-Thomas,Crystal Palace,4.5,0.0,30,12,0.5,4,a,2025-12-29
-773,Dean Benamar,Benamar,Crystal Palace,4.0,0.0,7,1,0.0,0,a,2025-12-29
-242,Kiernan Dewsbury-Hall,Dewsbury-Hall,Everton,5.0,4.7,1255,55720,4.5,1257,d,2025-12-29
-287,Jordan Pickford,Pickford,Everton,5.5,11.1,18485,8392,4.0,1620,a,2025-12-29
-288,Mark Travers,Travers,Everton,4.3,0.1,39,77,0.0,0,a,2025-12-29
-289,Harry Tyrer,Tyrer,Everton,3.9,0.1,42,76,0.0,0,a,2025-12-29
-290,Jarrad Branthwaite,Branthwaite,Everton,5.3,0.1,28,77,0.0,0,i,2025-12-29
-291,James Tarkowski,Tarkowski,Everton,5.5,8.2,39966,8496,5.7,1620,a,2025-12-29
-292,Vitalii Mykolenko,Mykolenko,Everton,4.9,0.5,2715,1138,3.3,1345,a,2025-12-29
-293,Jake O'Brien,O'Brien,Everton,4.9,0.5,1355,819,3.8,1488,a,2025-12-29
-294,Séamus Coleman,Coleman,Everton,4.2,0.1,5,87,0.0,11,i,2025-12-29
-295,Michael Keane,Keane,Everton,4.8,6.2,127996,4683,4.3,1504,a,2025-12-29
-296,Nathan Patterson,Patterson,Everton,4.4,0.0,45,38,0.2,2,a,2025-12-29
-297,Roman Dixon,Dixon,Everton,3.8,0.2,90,166,0.0,0,a,2025-12-29
-298,Reece Welch,Welch,Everton,3.8,0.1,72,109,0.0,0,a,2025-12-29
-299,Iliman Ndiaye,Ndiaye,Everton,6.2,3.8,125,17290,2.5,1343,n,2025-12-29
-300,Dwight McNeil,McNeil,Everton,5.5,0.2,564,362,1.7,255,a,2025-12-29
-301,Carlos Alcaraz Durán,Alcaraz,Everton,5.2,0.1,457,458,2.7,656,a,2025-12-29
-302,Idrissa Gana Gueye,Gana,Everton,5.4,0.1,3,133,0.7,1051,n,2025-12-29
-303,James Garner,Garner,Everton,5.0,0.7,3766,1492,3.5,1613,a,2025-12-29
-304,Tim Iroegbunam,Iroegbunam,Everton,4.8,0.0,136,86,2.3,667,a,2025-12-29
-305,Harrison Armstrong,Armstrong,Everton,4.5,0.0,0,28,0.0,1,u,2025-12-29
-306,Callum Bates,Bates,Everton,4.3,0.1,123,137,0.0,0,a,2025-12-29
-307,Coby Ebere,Ebere,Everton,4.4,0.0,38,52,0.0,0,a,2025-12-29
+281,Kaden Rodney,Rodney,Crystal Palace,4.4,0.0,58,66,0.0,0,a,2025-12-29
+282,Franco Umeh-Chibueze,Umeh,Crystal Palace,4.5,0.0,0,9,0.0,0,u,2025-12-29
+283,Jean-Philippe Mateta,Mateta,Crystal Palace,7.7,12.6,7325,60369,2.7,1464,a,2025-12-29
+284,Eddie Nketiah,Nketiah,Crystal Palace,5.4,0.6,810,4007,2.3,414,a,2025-12-29
+285,Odsonne Édouard,Édouard,Crystal Palace,5.0,0.2,0,93,0.0,2,u,2025-12-29
+286,Zach Marsh,Marsh,Crystal Palace,4.5,0.3,360,570,0.0,0,a,2025-12-29
+690,Rio Cardines,Cardines,Crystal Palace,4.4,0.3,6,526,0.0,0,i,2025-12-29
+712,Yéremy Pino Santos,Yeremy,Crystal Palace,5.8,0.3,1215,2186,3.0,1090,a,2025-12-29
+723,Jaydee Canvot,Canvot,Crystal Palace,4.5,0.0,36,39,0.3,113,a,2025-12-29
+732,Christantus Uche,Uche,Crystal Palace,5.5,0.0,263,198,1.3,83,a,2025-12-29
+762,Joél Drakes-Thomas,Drakes-Thomas,Crystal Palace,4.5,0.0,31,16,0.5,4,a,2025-12-29
+773,Dean Benamar,Benamar,Crystal Palace,4.0,0.0,14,1,0.0,0,a,2025-12-29
+242,Kiernan Dewsbury-Hall,Dewsbury-Hall,Everton,5.0,4.6,1353,63713,4.5,1257,d,2025-12-29
+287,Jordan Pickford,Pickford,Everton,5.5,11.1,21410,9752,4.0,1620,a,2025-12-29
+288,Mark Travers,Travers,Everton,4.3,0.1,45,87,0.0,0,a,2025-12-29
+289,Harry Tyrer,Tyrer,Everton,3.9,0.1,47,83,0.0,0,a,2025-12-29
+290,Jarrad Branthwaite,Branthwaite,Everton,5.3,0.1,31,87,0.0,0,i,2025-12-29
+291,James Tarkowski,Tarkowski,Everton,5.5,8.2,46333,9852,5.7,1620,a,2025-12-29
+292,Vitalii Mykolenko,Mykolenko,Everton,4.9,0.5,3079,1317,3.3,1345,a,2025-12-29
+293,Jake O'Brien,O'Brien,Everton,4.9,0.5,1566,957,3.8,1488,a,2025-12-29
+294,Séamus Coleman,Coleman,Everton,4.2,0.1,5,92,0.0,11,i,2025-12-29
+295,Michael Keane,Keane,Everton,4.8,6.4,149227,5386,4.3,1504,a,2025-12-29
+296,Nathan Patterson,Patterson,Everton,4.4,0.0,52,42,0.2,2,a,2025-12-29
+297,Roman Dixon,Dixon,Everton,3.8,0.2,106,191,0.0,0,a,2025-12-29
+298,Reece Welch,Welch,Everton,3.8,0.1,88,128,0.0,0,a,2025-12-29
+299,Iliman Ndiaye,Ndiaye,Everton,6.2,3.8,137,19376,2.5,1343,n,2025-12-29
+300,Dwight McNeil,McNeil,Everton,5.5,0.2,658,428,1.7,255,a,2025-12-29
+301,Carlos Alcaraz Durán,Alcaraz,Everton,5.2,0.1,516,533,2.7,656,a,2025-12-29
+302,Idrissa Gana Gueye,Gana,Everton,5.4,0.1,4,144,0.7,1051,n,2025-12-29
+303,James Garner,Garner,Everton,5.0,0.7,4373,1701,3.5,1613,a,2025-12-29
+304,Tim Iroegbunam,Iroegbunam,Everton,4.8,0.0,151,97,2.3,667,a,2025-12-29
+305,Harrison Armstrong,Armstrong,Everton,4.5,0.0,0,31,0.0,1,u,2025-12-29
+306,Callum Bates,Bates,Everton,4.3,0.1,135,156,0.0,0,a,2025-12-29
+307,Coby Ebere,Ebere,Everton,4.4,0.0,44,61,0.0,0,a,2025-12-29
 308,Isaac Heath,Heath,Everton,4.5,0.0,0,5,0.0,0,u,2025-12-29
 309,Jenson Metcalfe,Metcalfe,Everton,4.5,0.0,0,0,0.0,0,u,2025-12-29
-310,Thierno Barry,Barry,Everton,5.7,0.4,753,1979,2.3,838,a,2025-12-29
-311,Norberto Bercique Gomes Betuncal,Beto,Everton,5.0,2.5,2740,3852,1.2,771,a,2025-12-29
-312,Youssef Ramalho Chermiti,Y.Chermiti,Everton,4.9,0.1,0,21,0.0,0,u,2025-12-29
-313,Martin Sherif,Sherif,Everton,4.4,0.1,0,59,0.0,0,u,2025-12-29
-419,Jack Grealish,Grealish,Everton,6.5,10.3,5788,59728,3.3,1340,d,2025-12-29
-630,Tom King,King,Everton,3.9,1.4,588,1124,0.0,0,a,2025-12-29
-667,Adam Aznou,Aznou,Everton,4.2,0.1,29,43,0.0,0,a,2025-12-29
-704,Tyler Onyango,Onyango,Everton,4.5,0.1,0,24,0.0,0,u,2025-12-29
-705,Elijah Campbell,Campbell,Everton,3.9,0.2,61,165,0.0,0,a,2025-12-29
-707,Tyler Dibling,Dibling,Everton,5.3,0.0,110,55,1.0,184,a,2025-12-29
-728,Merlin Röhl,Röhl,Everton,5.0,0.0,21,23,0.3,127,a,2025-12-29
-314,Bernd Leno,Leno,Fulham,4.9,1.8,885,2649,3.2,1620,a,2025-12-29
+310,Thierno Barry,Barry,Everton,5.7,0.4,849,2301,2.3,838,a,2025-12-29
+311,Norberto Bercique Gomes Betuncal,Beto,Everton,5.0,2.5,3114,4403,1.2,771,a,2025-12-29
+312,Youssef Ramalho Chermiti,Y.Chermiti,Everton,4.9,0.1,0,22,0.0,0,u,2025-12-29
+313,Martin Sherif,Sherif,Everton,4.4,0.1,0,69,0.0,0,u,2025-12-29
+419,Jack Grealish,Grealish,Everton,6.5,10.3,5928,69525,3.3,1340,d,2025-12-29
+630,Tom King,King,Everton,3.9,1.4,665,1297,0.0,0,a,2025-12-29
+667,Adam Aznou,Aznou,Everton,4.2,0.1,29,49,0.0,0,a,2025-12-29
+704,Tyler Onyango,Onyango,Everton,4.5,0.1,0,27,0.0,0,u,2025-12-29
+705,Elijah Campbell,Campbell,Everton,3.9,0.2,72,188,0.0,0,a,2025-12-29
+707,Tyler Dibling,Dibling,Everton,5.3,0.0,142,62,1.0,184,a,2025-12-29
+728,Merlin Röhl,Röhl,Everton,5.0,0.0,22,24,0.3,127,a,2025-12-29
+314,Bernd Leno,Leno,Fulham,4.9,1.8,1002,3043,3.2,1620,a,2025-12-29
 315,Steven Benda,Benda,Fulham,4.0,0.0,0,4,0.0,0,u,2025-12-29
-316,Antonee Robinson,Robinson,Fulham,4.9,0.6,4269,805,3.5,331,a,2025-12-29
-317,Joachim Andersen,Andersen,Fulham,4.6,6.5,5616,16712,3.2,1481,a,2025-12-29
-318,Calvin Bassey,Bassey,Fulham,4.5,0.4,35,2156,3.0,1358,n,2025-12-29
-319,Timothy Castagne,Castagne,Fulham,4.3,0.1,93,374,1.2,545,a,2025-12-29
-320,Issa Diop,Diop,Fulham,4.3,0.1,59,95,0.3,230,a,2025-12-29
-321,Jorge Cuenca Barreno,J.Cuenca,Fulham,4.3,0.0,277,44,2.3,348,a,2025-12-29
-322,Kenny Tete,Tete,Fulham,4.5,1.0,3682,3311,5.3,1296,a,2025-12-29
-323,Samuel Amissah,Amissah,Fulham,3.8,0.1,70,169,0.0,0,a,2025-12-29
-324,Alex Iwobi,Iwobi,Fulham,6.3,0.8,18,2884,2.2,1329,n,2025-12-29
-325,Emile Smith Rowe,Smith Rowe,Fulham,5.6,0.9,2047,5025,4.0,657,a,2025-12-29
-326,Adama Traoré Diarra,Adama,Fulham,5.1,0.1,107,191,0.5,250,a,2025-12-29
-327,Andreas Hoelgebaum Pereira,Andreas,Fulham,5.3,0.1,0,20,0.0,0,u,2025-12-29
-328,Ryan Sessegnon,Sessegnon,Fulham,5.4,0.2,8,1211,1.0,1106,i,2025-12-29
-329,Harry Wilson,Wilson,Fulham,5.8,18.5,53584,54337,8.2,1239,a,2025-12-29
-330,Sander Berge,Berge,Fulham,4.9,0.1,92,135,1.8,1548,a,2025-12-29
-331,Tom Cairney,Cairney,Fulham,4.8,0.0,20,23,0.5,230,a,2025-12-29
-332,Saša Lukić,Lukić,Fulham,4.9,0.1,85,85,2.0,946,a,2025-12-29
-333,Martial Godo,Godo,Fulham,4.5,0.0,0,7,0.0,0,u,2025-12-29
-334,Luke Harris,Harris,Fulham,4.5,0.0,0,0,0.0,0,u,2025-12-29
-335,Josh King,King,Fulham,4.5,2.7,1732,7979,1.5,863,a,2025-12-29
-336,Harrison Reed,Reed,Fulham,4.3,0.3,207,554,0.0,1,a,2025-12-29
-337,Raúl Jiménez Rodríguez,Raúl,Fulham,6.3,2.4,5461,10176,4.0,1044,a,2025-12-29
-338,Rodrigo Muniz Carvalho,Muniz,Fulham,5.3,0.7,36,581,0.0,348,i,2025-12-29
-664,Benjamin Lecomte,Lecomte,Fulham,3.9,0.7,467,593,0.0,0,a,2025-12-29
-727,Samuel Chukwueze,Chukwueze,Fulham,5.3,0.1,41,2228,4.0,393,n,2025-12-29
-731,Kevin Santos Lopes de Macedo,Kevin,Fulham,5.8,0.1,174,314,2.0,561,a,2025-12-29
-737,Jonah Kusi-Asare,Kusi-Asare,Fulham,4.5,0.1,155,250,0.3,23,a,2025-12-29
-770,Seth Ridgeon,Ridgeon,Fulham,4.5,0.0,26,7,0.0,0,a,2025-12-29
-339,Illan Meslier,Meslier,Leeds,4.2,0.4,68,315,0.0,0,a,2025-12-29
-340,Alex Cairns,Cairns,Leeds,3.9,0.2,48,130,0.0,0,a,2025-12-29
-341,Karl Darlow,Darlow,Leeds,3.9,2.1,1395,2520,0.0,450,a,2025-12-29
-342,Jayden Bogle,Bogle,Leeds,4.4,0.2,287,381,2.7,1573,a,2025-12-29
-343,Pascal Struijk,Struijk,Leeds,4.3,0.3,279,404,2.5,1358,a,2025-12-29
-344,Jaka Bijol,Bijol,Leeds,3.9,0.5,2135,1426,3.8,712,a,2025-12-29
-345,Sebastiaan Bornauw,Bornauw,Leeds,3.8,0.1,76,248,0.3,2,a,2025-12-29
-346,Sam Byram,Byram,Leeds,3.8,0.2,72,259,0.0,7,a,2025-12-29
-347,Gabriel Gudmundsson,Gudmundsson,Leeds,3.8,3.8,5095,8204,1.8,1470,a,2025-12-29
-348,Joe Rodon,Rodon,Leeds,4.0,5.0,2540,25987,1.3,1560,d,2025-12-29
-349,Isaac Schmidt,Schmidt,Leeds,4.0,0.1,0,21,0.0,0,u,2025-12-29
-350,Brenden Aaronson,Aaronson,Leeds,5.4,0.1,465,385,2.8,997,a,2025-12-29
-351,Wilfried Gnonto,Gnonto,Leeds,5.2,0.1,79,125,1.8,306,a,2025-12-29
-352,Jack Harrison,Harrison,Leeds,5.1,0.1,64,92,0.2,262,a,2025-12-29
-353,Daniel James,James,Leeds,5.3,0.1,4,79,0.2,348,i,2025-12-29
-354,Ethan Ampadu,Ampadu,Leeds,4.9,0.1,765,529,4.3,1409,a,2025-12-29
-355,Sam Greenwood,Greenwood,Leeds,4.9,0.0,0,10,0.0,0,u,2025-12-29
-356,Ilia Gruev,Gruev,Leeds,4.7,0.0,117,101,1.5,391,a,2025-12-29
+316,Antonee Robinson,Robinson,Fulham,4.9,0.7,4872,932,3.5,331,a,2025-12-29
+317,Joachim Andersen,Andersen,Fulham,4.6,6.5,6656,19463,3.2,1481,a,2025-12-29
+318,Calvin Bassey,Bassey,Fulham,4.5,0.4,37,2462,3.0,1358,n,2025-12-29
+319,Timothy Castagne,Castagne,Fulham,4.3,0.1,111,432,1.2,545,a,2025-12-29
+320,Issa Diop,Diop,Fulham,4.3,0.1,67,106,0.3,230,a,2025-12-29
+321,Jorge Cuenca Barreno,J.Cuenca,Fulham,4.3,0.0,328,55,2.3,348,a,2025-12-29
+322,Kenny Tete,Tete,Fulham,4.5,1.0,4231,3815,5.3,1296,a,2025-12-29
+323,Samuel Amissah,Amissah,Fulham,3.8,0.1,76,194,0.0,0,a,2025-12-29
+324,Alex Iwobi,Iwobi,Fulham,6.3,0.8,20,3192,2.2,1329,n,2025-12-29
+325,Emile Smith Rowe,Smith Rowe,Fulham,5.6,0.9,2306,5721,4.0,657,a,2025-12-29
+326,Adama Traoré Diarra,Adama,Fulham,5.1,0.1,118,216,0.5,250,a,2025-12-29
+327,Andreas Hoelgebaum Pereira,Andreas,Fulham,5.3,0.1,0,21,0.0,0,u,2025-12-29
+328,Ryan Sessegnon,Sessegnon,Fulham,5.4,0.2,9,1340,1.0,1106,i,2025-12-29
+329,Harry Wilson,Wilson,Fulham,5.8,18.5,62222,60276,8.2,1239,a,2025-12-29
+330,Sander Berge,Berge,Fulham,4.9,0.1,111,151,1.8,1548,a,2025-12-29
+331,Tom Cairney,Cairney,Fulham,4.8,0.0,27,29,0.5,230,a,2025-12-29
+332,Saša Lukić,Lukić,Fulham,4.9,0.1,95,96,2.0,946,a,2025-12-29
+333,Martial Godo,Godo,Fulham,4.5,0.0,0,8,0.0,0,u,2025-12-29
+334,Luke Harris,Harris,Fulham,4.5,0.0,0,1,0.0,0,u,2025-12-29
+335,Josh King,King,Fulham,4.5,2.7,1918,9259,1.5,863,a,2025-12-29
+336,Harrison Reed,Reed,Fulham,4.3,0.3,243,656,0.0,1,a,2025-12-29
+337,Raúl Jiménez Rodríguez,Raúl,Fulham,6.3,2.4,6154,11697,4.0,1044,a,2025-12-29
+338,Rodrigo Muniz Carvalho,Muniz,Fulham,5.3,0.7,42,649,0.0,348,i,2025-12-29
+664,Benjamin Lecomte,Lecomte,Fulham,3.9,0.7,532,707,0.0,0,a,2025-12-29
+727,Samuel Chukwueze,Chukwueze,Fulham,5.3,0.1,42,2511,4.0,393,n,2025-12-29
+731,Kevin Santos Lopes de Macedo,Kevin,Fulham,5.8,0.1,196,373,2.0,561,a,2025-12-29
+737,Jonah Kusi-Asare,Kusi-Asare,Fulham,4.5,0.1,167,283,0.3,23,a,2025-12-29
+770,Seth Ridgeon,Ridgeon,Fulham,4.5,0.0,29,10,0.0,0,a,2025-12-29
+339,Illan Meslier,Meslier,Leeds,4.2,0.4,75,360,0.0,0,a,2025-12-29
+340,Alex Cairns,Cairns,Leeds,3.9,0.2,57,149,0.0,0,a,2025-12-29
+341,Karl Darlow,Darlow,Leeds,3.9,2.1,1597,2902,0.0,450,a,2025-12-29
+342,Jayden Bogle,Bogle,Leeds,4.4,0.2,346,448,2.7,1573,a,2025-12-29
+343,Pascal Struijk,Struijk,Leeds,4.3,0.3,334,461,2.5,1358,a,2025-12-29
+344,Jaka Bijol,Bijol,Leeds,3.9,0.5,2466,1651,3.8,712,a,2025-12-29
+345,Sebastiaan Bornauw,Bornauw,Leeds,3.8,0.1,81,298,0.3,2,a,2025-12-29
+346,Sam Byram,Byram,Leeds,3.8,0.2,80,303,0.0,7,a,2025-12-29
+347,Gabriel Gudmundsson,Gudmundsson,Leeds,3.8,3.8,5961,9553,1.8,1470,a,2025-12-29
+348,Joe Rodon,Rodon,Leeds,4.0,4.9,2577,34629,1.3,1560,d,2025-12-29
+349,Isaac Schmidt,Schmidt,Leeds,4.0,0.1,0,27,0.0,0,u,2025-12-29
+350,Brenden Aaronson,Aaronson,Leeds,5.4,0.1,571,437,2.8,997,a,2025-12-29
+351,Wilfried Gnonto,Gnonto,Leeds,5.2,0.1,89,142,1.8,306,a,2025-12-29
+352,Jack Harrison,Harrison,Leeds,5.1,0.1,72,102,0.2,262,a,2025-12-29
+353,Daniel James,James,Leeds,5.3,0.1,4,84,0.2,348,i,2025-12-29
+354,Ethan Ampadu,Ampadu,Leeds,4.9,0.1,907,618,4.3,1409,a,2025-12-29
+355,Sam Greenwood,Greenwood,Leeds,4.9,0.0,0,13,0.0,0,u,2025-12-29
+356,Ilia Gruev,Gruev,Leeds,4.7,0.0,123,114,1.5,391,a,2025-12-29
 357,Largie Ramazani,Ramazani,Leeds,4.9,0.0,0,5,0.0,0,u,2025-12-29
-358,Tanaka Ao,Tanaka,Leeds,4.8,0.3,856,1693,3.8,692,a,2025-12-29
+358,Tanaka Ao,Tanaka,Leeds,4.8,0.3,946,1945,3.8,692,a,2025-12-29
 359,Charlie Crew,Crew,Leeds,4.5,0.0,0,1,0.0,0,u,2025-12-29
 360,Joe Gelhardt,Gelhardt,Leeds,4.5,0.0,0,3,0.0,0,u,2025-12-29
-361,Darko Gyabi,Gyabi,Leeds,4.5,0.0,0,12,0.0,0,u,2025-12-29
-362,Joël Piroe,Piroe,Leeds,4.9,0.4,254,435,0.5,198,a,2025-12-29
-363,Patrick Bamford,Bamford,Leeds,4.9,0.4,0,164,0.0,0,u,2025-12-29
+361,Darko Gyabi,Gyabi,Leeds,4.5,0.0,0,16,0.0,0,u,2025-12-29
+362,Joël Piroe,Piroe,Leeds,4.9,0.4,278,477,0.5,198,a,2025-12-29
+363,Patrick Bamford,Bamford,Leeds,4.9,0.4,0,179,0.0,0,u,2025-12-29
 364,Mateo Joseph Fernández-Regatillo,Mateo Joseph,Leeds,5.0,0.0,0,1,0.0,0,u,2025-12-29
-365,Lukas Nmecha,Nmecha,Leeds,5.0,0.5,209,1497,1.2,506,a,2025-12-29
-493,Sean Longstaff,Longstaff,Leeds,4.8,0.3,12,700,0.0,877,i,2025-12-29
-660,Anton Stach,Stach,Leeds,4.9,2.9,14312,7157,5.3,1270,a,2025-12-29
-665,Lucas Estella Perri,Perri,Leeds,4.5,0.2,162,335,2.0,1170,a,2025-12-29
-691,Dominic Calvert-Lewin,Calvert-Lewin,Leeds,5.8,8.8,72997,18224,8.7,1113,a,2025-12-29
-698,Noah Okafor,Okafor,Leeds,5.5,0.1,300,529,2.3,927,a,2025-12-29
-706,James Justin,Justin,Leeds,3.9,0.2,138,315,0.7,159,a,2025-12-29
-741,Harry Gray,Gray,Leeds,4.5,0.1,392,430,0.0,0,a,2025-12-29
-366,Alisson Becker,A.Becker,Liverpool,5.4,6.1,7067,5600,3.8,1170,a,2025-12-29
-367,Giorgi Mamardashvili,Mamardashvili,Liverpool,4.2,0.6,224,1417,0.0,450,a,2025-12-29
-368,Ármin Pécsi,Pécsi,Liverpool,3.9,0.3,19,411,0.0,0,a,2025-12-29
-369,Freddie Woodman,Woodman,Liverpool,3.9,0.2,60,231,0.0,0,a,2025-12-29
-370,Jeremie Frimpong,Frimpong,Liverpool,5.7,5.2,26166,1716,1.5,203,a,2025-12-29
-371,Milos Kerkez,Kerkez,Liverpool,5.6,3.0,2582,2494,3.2,1209,a,2025-12-29
-372,Andrew Robertson,Robertson,Liverpool,5.8,1.0,597,1056,0.8,416,a,2025-12-29
-373,Virgil van Dijk,Virgil,Liverpool,5.9,24.6,23410,24752,3.7,1620,a,2025-12-29
-374,Ibrahima Konaté,Konaté,Liverpool,5.4,3.6,6735,5883,4.2,1516,a,2025-12-29
-375,Conor Bradley,Bradley,Liverpool,5.0,0.2,722,726,1.2,670,a,2025-12-29
-376,Joe Gomez,Gomez,Liverpool,4.9,0.1,5,569,3.2,244,i,2025-12-29
-377,Konstantinos Tsimikas,Tsimikas,Liverpool,4.8,0.0,0,11,0.0,0,u,2025-12-29
-378,Amara Nallo,Nallo,Liverpool,3.7,0.4,8288,1156,0.0,0,a,2025-12-29
-379,Rhys Williams,R.Williams,Liverpool,3.8,0.2,58,310,0.0,0,a,2025-12-29
-380,Calvin Ramsay,Ramsay,Liverpool,3.8,0.3,80,360,0.0,0,a,2025-12-29
-381,Mohamed Salah,M.Salah,Liverpool,14.0,14.8,51,16450,1.3,1183,n,2025-12-29
-382,Florian Wirtz,Wirtz,Liverpool,8.1,10.6,89740,5115,6.0,1174,a,2025-12-29
+365,Lukas Nmecha,Nmecha,Leeds,5.0,0.5,308,1618,1.2,506,a,2025-12-29
+493,Sean Longstaff,Longstaff,Leeds,4.8,0.3,14,793,0.0,877,i,2025-12-29
+660,Anton Stach,Stach,Leeds,4.9,2.9,16266,8391,5.3,1270,a,2025-12-29
+665,Lucas Estella Perri,Perri,Leeds,4.5,0.2,185,385,2.0,1170,a,2025-12-29
+691,Dominic Calvert-Lewin,Calvert-Lewin,Leeds,5.8,8.9,84693,20551,8.7,1113,a,2025-12-29
+698,Noah Okafor,Okafor,Leeds,5.5,0.1,330,625,2.3,927,a,2025-12-29
+706,James Justin,Justin,Leeds,3.9,0.2,161,358,0.7,159,a,2025-12-29
+741,Harry Gray,Gray,Leeds,4.5,0.1,445,489,0.0,0,a,2025-12-29
+366,Alisson Becker,A.Becker,Liverpool,5.4,6.1,8092,6494,3.8,1170,a,2025-12-29
+367,Giorgi Mamardashvili,Mamardashvili,Liverpool,4.2,0.6,241,1602,0.0,450,a,2025-12-29
+368,Ármin Pécsi,Pécsi,Liverpool,3.9,0.3,22,482,0.0,0,a,2025-12-29
+369,Freddie Woodman,Woodman,Liverpool,3.9,0.2,66,263,0.0,0,a,2025-12-29
+370,Jeremie Frimpong,Frimpong,Liverpool,5.7,5.3,30207,1997,1.5,203,a,2025-12-29
+371,Milos Kerkez,Kerkez,Liverpool,5.6,3.0,3006,2804,3.2,1209,a,2025-12-29
+372,Andrew Robertson,Robertson,Liverpool,5.8,1.0,705,1181,0.8,416,a,2025-12-29
+373,Virgil van Dijk,Virgil,Liverpool,5.9,24.6,27660,28334,3.7,1620,a,2025-12-29
+374,Ibrahima Konaté,Konaté,Liverpool,5.4,3.6,7803,6727,4.2,1516,a,2025-12-29
+375,Conor Bradley,Bradley,Liverpool,5.0,0.2,847,777,1.2,670,a,2025-12-29
+376,Joe Gomez,Gomez,Liverpool,4.9,0.1,5,640,3.2,244,i,2025-12-29
+377,Konstantinos Tsimikas,Tsimikas,Liverpool,4.8,0.0,0,13,0.0,0,u,2025-12-29
+378,Amara Nallo,Nallo,Liverpool,3.7,0.5,9464,1318,0.0,0,a,2025-12-29
+379,Rhys Williams,R.Williams,Liverpool,3.8,0.2,66,359,0.0,0,a,2025-12-29
+380,Calvin Ramsay,Ramsay,Liverpool,3.8,0.3,85,420,0.0,0,a,2025-12-29
+381,Mohamed Salah,M.Salah,Liverpool,14.0,14.8,55,17801,1.3,1183,n,2025-12-29
+382,Florian Wirtz,Wirtz,Liverpool,8.1,10.7,102142,5872,6.0,1174,a,2025-12-29
 383,Luis Díaz Marulanda,Luis Díaz,Liverpool,8.0,0.0,0,5,0.0,0,u,2025-12-29
-384,Cody Gakpo,Gakpo,Liverpool,7.3,5.3,6065,7004,3.0,1140,a,2025-12-29
-385,Federico Chiesa,Chiesa,Liverpool,6.3,0.4,922,1368,0.8,211,a,2025-12-29
-386,Alexis Mac Allister,Mac Allister,Liverpool,6.2,1.4,2539,3302,2.0,1182,a,2025-12-29
-387,Dominik Szoboszlai,Szoboszlai,Liverpool,6.6,4.4,15242,13425,2.8,1522,a,2025-12-29
-388,Curtis Jones,C.Jones,Liverpool,5.4,0.2,706,741,2.3,815,a,2025-12-29
-390,Ryan Gravenberch,Gravenberch,Liverpool,5.7,5.9,50132,6141,5.2,1411,a,2025-12-29
-392,Endo Wataru,Endo,Liverpool,4.9,0.1,3,86,0.2,43,i,2025-12-29
-393,Stefan Bajčetić Maquieira,Bajcetic,Liverpool,4.3,0.0,15,44,0.0,0,i,2025-12-29
-394,James McConnell,McConnell,Liverpool,4.4,0.0,0,5,0.0,0,u,2025-12-29
+384,Cody Gakpo,Gakpo,Liverpool,7.3,5.3,7195,7545,3.0,1140,a,2025-12-29
+385,Federico Chiesa,Chiesa,Liverpool,6.3,0.4,998,1555,0.8,211,a,2025-12-29
+386,Alexis Mac Allister,Mac Allister,Liverpool,6.2,1.4,2818,3810,2.0,1182,a,2025-12-29
+387,Dominik Szoboszlai,Szoboszlai,Liverpool,6.6,4.4,18374,14442,2.8,1522,a,2025-12-29
+388,Curtis Jones,C.Jones,Liverpool,5.4,0.2,804,856,2.3,815,a,2025-12-29
+390,Ryan Gravenberch,Gravenberch,Liverpool,5.7,6.0,58108,6980,5.2,1411,a,2025-12-29
+392,Endo Wataru,Endo,Liverpool,4.9,0.1,3,91,0.2,43,i,2025-12-29
+393,Stefan Bajčetić Maquieira,Bajcetic,Liverpool,4.3,0.0,15,51,0.0,0,i,2025-12-29
+394,James McConnell,McConnell,Liverpool,4.4,0.0,0,6,0.0,0,u,2025-12-29
 395,Tyler Morton,Morton,Liverpool,4.5,0.0,0,1,0.0,0,u,2025-12-29
-396,Trey Nyoni,Nyoni,Liverpool,4.3,0.4,140,700,0.3,2,a,2025-12-29
-397,Darwin Núñez Ribeiro,Darwin,Liverpool,6.5,0.1,0,10,0.0,0,u,2025-12-29
-398,Jayden Danns,Danns,Liverpool,4.3,0.1,30,80,0.0,0,i,2025-12-29
-499,Alexander Isak,Isak,Liverpool,10.3,3.9,65,7172,2.8,501,i,2025-12-29
-661,Hugo Ekitiké,Ekitiké,Liverpool,9.1,34.8,137027,7837,7.0,1038,a,2025-12-29
-686,Rio Ngumoha,Ngumoha,Liverpool,4.3,0.7,3134,3120,0.0,42,a,2025-12-29
-692,Giovanni Leoni,Leoni,Liverpool,4.9,0.0,6,8,0.0,0,i,2025-12-29
+396,Trey Nyoni,Nyoni,Liverpool,4.3,0.4,156,810,0.3,2,a,2025-12-29
+397,Darwin Núñez Ribeiro,Darwin,Liverpool,6.5,0.1,0,13,0.0,0,u,2025-12-29
+398,Jayden Danns,Danns,Liverpool,4.3,0.1,30,87,0.0,0,i,2025-12-29
+499,Alexander Isak,Isak,Liverpool,10.3,3.9,69,7716,2.8,501,i,2025-12-29
+661,Hugo Ekitiké,Ekitiké,Liverpool,9.1,35.0,155112,8924,7.0,1038,a,2025-12-29
+686,Rio Ngumoha,Ngumoha,Liverpool,4.3,0.7,3495,3506,0.0,42,a,2025-12-29
+692,Giovanni Leoni,Leoni,Liverpool,4.9,0.0,8,9,0.0,0,i,2025-12-29
 746,Kieran Morrison,Morrison,Liverpool,4.5,0.0,21,25,0.0,0,a,2025-12-29
-760,Wellity Lucky,Lucky,Liverpool,4.0,0.0,33,37,0.0,0,a,2025-12-29
-182,James Trafford,Trafford,Man City,4.6,1.0,42,667,0.0,270,a,2025-12-29
-399,Ederson Santana de Moraes,Ederson M.,Man City,5.3,0.8,0,228,0.0,0,u,2025-12-29
-400,Stefan Ortega Moreno,Ortega Moreno,Man City,4.7,0.2,19,86,0.0,0,a,2025-12-29
-401,Marcus Bettinelli,Bettinelli,Man City,3.9,0.1,24,130,0.0,0,a,2025-12-29
-402,Rayan Aït-Nouri,Aït-Nouri,Man City,5.7,3.9,20,2826,0.2,204,n,2025-12-29
-403,Joško Gvardiol,Gvardiol,Man City,6.0,9.6,52407,9482,6.7,1218,a,2025-12-29
-404,Manuel Akanji,Akanji,Man City,5.4,0.3,0,52,0.0,0,u,2025-12-29
-405,Nathan Aké,Aké,Man City,5.3,0.6,179,436,0.5,223,a,2025-12-29
-406,Abdukodir Khusanov,Khusanov,Man City,5.4,0.3,114,266,0.2,250,a,2025-12-29
-407,Matheus Nunes,Matheus N.,Man City,5.4,2.4,13655,5703,5.7,1323,a,2025-12-29
-408,Rúben dos Santos Gato Alves Dias,Rúben,Man City,5.7,7.4,15949,14550,5.3,1535,a,2025-12-29
-409,John Stones,Stones,Man City,5.4,0.6,12,664,0.2,351,i,2025-12-29
-410,Rico Lewis,Lewis,Man City,4.7,1.3,329,1420,0.5,204,a,2025-12-29
-411,Nico O'Reilly,O'Reilly,Man City,5.3,11.3,15798,31074,3.8,1313,a,2025-12-29
+760,Wellity Lucky,Lucky,Liverpool,4.0,0.0,36,47,0.0,0,a,2025-12-29
+182,James Trafford,Trafford,Man City,4.6,1.0,43,740,0.0,270,a,2025-12-29
+399,Ederson Santana de Moraes,Ederson M.,Man City,5.3,0.8,0,245,0.0,0,u,2025-12-29
+400,Stefan Ortega Moreno,Ortega Moreno,Man City,4.7,0.2,24,97,0.0,0,a,2025-12-29
+401,Marcus Bettinelli,Bettinelli,Man City,3.9,0.1,29,149,0.0,0,a,2025-12-29
+402,Rayan Aït-Nouri,Aït-Nouri,Man City,5.7,3.9,21,3098,0.2,204,n,2025-12-29
+403,Joško Gvardiol,Gvardiol,Man City,6.0,9.7,60813,10791,6.7,1218,a,2025-12-29
+404,Manuel Akanji,Akanji,Man City,5.4,0.3,0,57,0.0,0,u,2025-12-29
+405,Nathan Aké,Aké,Man City,5.3,0.6,209,480,0.5,223,a,2025-12-29
+406,Abdukodir Khusanov,Khusanov,Man City,5.4,0.3,125,289,0.2,250,a,2025-12-29
+407,Matheus Nunes,Matheus N.,Man City,5.4,2.4,15797,6468,5.7,1323,a,2025-12-29
+408,Rúben dos Santos Gato Alves Dias,Rúben,Man City,5.7,7.4,18331,16381,5.3,1535,a,2025-12-29
+409,John Stones,Stones,Man City,5.4,0.6,14,720,0.2,351,i,2025-12-29
+410,Rico Lewis,Lewis,Man City,4.7,1.3,383,1564,0.5,204,a,2025-12-29
+411,Nico O'Reilly,O'Reilly,Man City,5.3,11.2,18333,35276,3.8,1313,a,2025-12-29
 412,Vitor de Oliveira Nunes dos Reis,Vitor Reis,Man City,5.0,0.0,0,1,0.0,0,u,2025-12-29
-413,Omar Marmoush,Marmoush,Man City,8.3,2.4,53,1392,0.5,204,n,2025-12-29
-414,Phil Foden,Foden,Man City,9.0,41.0,56773,115721,10.0,1315,a,2025-12-29
-415,Sávio Moreira de Oliveira,Savinho,Man City,6.9,0.4,331,548,1.3,481,a,2025-12-29
-416,Bernardo Mota Veiga de Carvalho e Silva,Bernardo,Man City,6.2,0.5,818,1064,2.3,1229,a,2025-12-29
-417,Rayan Cherki,Cherki,Man City,6.7,11.2,238279,4851,6.5,637,a,2025-12-29
-418,Jérémy Doku,Doku,Man City,6.4,3.3,210,31120,2.2,935,i,2025-12-29
+413,Omar Marmoush,Marmoush,Man City,8.3,2.4,57,1487,0.5,204,n,2025-12-29
+414,Phil Foden,Foden,Man City,9.0,40.9,62632,130833,10.0,1315,a,2025-12-29
+415,Sávio Moreira de Oliveira,Savinho,Man City,6.9,0.4,356,600,1.3,481,a,2025-12-29
+416,Bernardo Mota Veiga de Carvalho e Silva,Bernardo,Man City,6.2,0.5,908,1193,2.3,1229,a,2025-12-29
+417,Rayan Cherki,Cherki,Man City,6.7,11.5,264357,5632,6.5,637,a,2025-12-29
+418,Jérémy Doku,Doku,Man City,6.4,3.2,231,34287,2.2,935,i,2025-12-29
 420,İlkay Gündoğan,Gündoğan,Man City,6.3,0.1,0,16,0.0,0,u,2025-12-29
-421,Rodrigo 'Rodri' Hernandez Cascante,Rodrigo,Man City,6.3,0.4,78,148,0.0,292,a,2025-12-29
+421,Rodrigo 'Rodri' Hernandez Cascante,Rodrigo,Man City,6.3,0.4,104,155,0.0,292,a,2025-12-29
 422,Mateo Kovačić,Kovačić,Man City,5.9,0.0,3,13,0.0,4,i,2025-12-29
-423,Nico González Iglesias,N.Gonzalez,Man City,5.9,0.1,323,485,3.3,1223,a,2025-12-29
-424,Oscar Bobb,Bobb,Man City,5.1,0.2,5,300,0.0,464,i,2025-12-29
-425,Claudio Echeverri,Echeverri,Man City,5.4,0.0,0,3,0.0,0,u,2025-12-29
-427,Tijjani Reijnders,Reijnders,Man City,5.2,12.0,23856,8410,5.0,1168,a,2025-12-29
+423,Nico González Iglesias,N.Gonzalez,Man City,5.9,0.1,351,544,3.3,1223,a,2025-12-29
+424,Oscar Bobb,Bobb,Man City,5.1,0.2,5,327,0.0,464,i,2025-12-29
+425,Claudio Echeverri,Echeverri,Man City,5.4,0.0,0,4,0.0,0,u,2025-12-29
+427,Tijjani Reijnders,Reijnders,Man City,5.2,12.0,26885,9605,5.0,1168,a,2025-12-29
 428,Sverre Nypan,Nypan,Man City,5.0,0.0,0,2,0.0,0,u,2025-12-29
-429,Kalvin Phillips,Phillips,Man City,4.8,0.1,28,65,0.0,0,a,2025-12-29
-430,Erling Haaland,Haaland,Man City,15.1,74.2,12751,8734,8.2,1552,a,2025-12-29
-736,Gianluigi Donnarumma,Donnarumma,Man City,5.7,10.2,10198,19261,4.5,1350,a,2025-12-29
-739,Divine Mukasa,Mukasa,Man City,4.4,0.0,36,47,0.2,15,a,2025-12-29
-740,Stephen Mfuni,Mfuni,Man City,3.9,0.0,19,62,0.0,0,a,2025-12-29
-742,Ryan McAidoo,McAidoo,Man City,4.5,0.0,16,21,0.0,0,a,2025-12-29
-763,Charlie Gray,Gray,Man City,4.5,0.0,18,11,0.0,0,a,2025-12-29
+429,Kalvin Phillips,Phillips,Man City,4.8,0.1,31,70,0.0,0,a,2025-12-29
+430,Erling Haaland,Haaland,Man City,15.1,74.2,14141,10124,8.2,1552,a,2025-12-29
+736,Gianluigi Donnarumma,Donnarumma,Man City,5.7,10.2,11461,21474,4.5,1350,a,2025-12-29
+739,Divine Mukasa,Mukasa,Man City,4.4,0.0,42,52,0.2,15,a,2025-12-29
+740,Stephen Mfuni,Mfuni,Man City,3.9,0.0,21,68,0.0,0,a,2025-12-29
+742,Ryan McAidoo,McAidoo,Man City,4.5,0.0,16,26,0.0,0,a,2025-12-29
+763,Charlie Gray,Gray,Man City,4.5,0.0,21,14,0.0,0,a,2025-12-29
 764,Reigan Heskey,Heskey,Man City,4.5,0.0,11,4,0.0,0,a,2025-12-29
-119,Bryan Mbeumo,Mbeumo,Man Utd,8.1,10.3,356,49718,2.2,1405,n,2025-12-29
-431,Altay Bayındır,Bayindir,Man Utd,4.8,0.3,266,314,0.0,540,a,2025-12-29
-432,André Onana,Onana,Man Utd,4.9,0.1,0,29,0.0,0,u,2025-12-29
-433,Elyh Harrison,Harrison,Man Utd,4.0,0.0,0,2,0.0,0,u,2025-12-29
-434,Tom Heaton,Heaton,Man Utd,3.9,0.3,108,258,0.0,0,a,2025-12-29
-435,Dermot Mee,Mee,Man Utd,3.9,0.1,53,84,0.0,0,a,2025-12-29
-436,Matthijs de Ligt,De Ligt,Man Utd,4.9,2.2,85,5864,0.3,1170,i,2025-12-29
-437,Lisandro Martínez,Martinez,Man Utd,4.8,0.3,15174,510,2.5,184,a,2025-12-29
-438,Noussair Mazraoui,Mazraoui,Man Utd,4.9,0.2,17,416,1.0,439,n,2025-12-29
-439,Diego León Blanco,D.Leon,Man Utd,4.2,0.1,52,72,0.0,0,a,2025-12-29
-440,Diogo Dalot Teixeira,Dalot,Man Utd,4.5,3.4,136672,2100,6.2,1134,a,2025-12-29
-441,Patrick Dorgu,Dorgu,Man Utd,4.1,4.0,170442,1512,4.3,889,a,2025-12-29
-442,Harry Maguire,Maguire,Man Utd,4.3,0.5,38,637,0.0,341,i,2025-12-29
-443,Luke Shaw,Shaw,Man Utd,4.5,0.7,4571,1122,2.0,1548,a,2025-12-29
-444,Leny Yoro,Yoro,Man Utd,4.3,1.4,1053,2606,1.0,1027,a,2025-12-29
-445,Harry Amass,Amass,Man Utd,4.0,0.1,0,35,0.0,0,u,2025-12-29
-446,Tyler Fredricson,Fredricson,Man Utd,3.8,0.1,66,151,0.2,2,a,2025-12-29
-447,Ayden Heaven,Heaven,Man Utd,3.8,2.1,35313,1749,2.5,411,a,2025-12-29
-448,Tyrell Malacia,Malacia,Man Utd,3.8,0.4,389,761,0.2,2,a,2025-12-29
-449,Bruno Borges Fernandes,B.Fernandes,Man Utd,9.1,15.0,1587,301165,7.8,1475,i,2025-12-29
-450,Matheus Santos Carneiro da Cunha,Cunha,Man Utd,8.1,10.8,228146,6062,4.5,1119,a,2025-12-29
+119,Bryan Mbeumo,Mbeumo,Man Utd,8.1,10.3,386,55229,2.2,1405,n,2025-12-29
+431,Altay Bayındır,Bayindir,Man Utd,4.8,0.3,307,348,0.0,540,a,2025-12-29
+432,André Onana,Onana,Man Utd,4.9,0.1,0,31,0.0,0,u,2025-12-29
+433,Elyh Harrison,Harrison,Man Utd,4.0,0.0,0,3,0.0,0,u,2025-12-29
+434,Tom Heaton,Heaton,Man Utd,3.9,0.3,121,311,0.0,0,a,2025-12-29
+435,Dermot Mee,Mee,Man Utd,3.9,0.1,58,95,0.0,0,a,2025-12-29
+436,Matthijs de Ligt,De Ligt,Man Utd,4.9,2.2,94,6456,0.3,1170,i,2025-12-29
+437,Lisandro Martínez,Martinez,Man Utd,4.8,0.4,17606,580,2.5,184,a,2025-12-29
+438,Noussair Mazraoui,Mazraoui,Man Utd,4.9,0.2,17,469,1.0,439,n,2025-12-29
+439,Diego León Blanco,D.Leon,Man Utd,4.2,0.1,65,82,0.0,0,a,2025-12-29
+440,Diogo Dalot Teixeira,Dalot,Man Utd,4.5,3.6,160385,2492,6.2,1134,a,2025-12-29
+441,Patrick Dorgu,Dorgu,Man Utd,4.1,4.3,202289,1729,4.3,889,a,2025-12-29
+442,Harry Maguire,Maguire,Man Utd,4.3,0.5,42,702,0.0,341,i,2025-12-29
+443,Luke Shaw,Shaw,Man Utd,4.5,0.7,5248,1302,2.0,1548,a,2025-12-29
+444,Leny Yoro,Yoro,Man Utd,4.3,1.4,1233,2938,1.0,1027,a,2025-12-29
+445,Harry Amass,Amass,Man Utd,4.0,0.1,0,38,0.0,0,u,2025-12-29
+446,Tyler Fredricson,Fredricson,Man Utd,3.8,0.1,77,171,0.2,2,a,2025-12-29
+447,Ayden Heaven,Heaven,Man Utd,3.8,2.2,42488,2075,2.5,411,a,2025-12-29
+448,Tyrell Malacia,Malacia,Man Utd,3.8,0.4,439,895,0.2,2,a,2025-12-29
+449,Bruno Borges Fernandes,B.Fernandes,Man Utd,9.1,14.8,1714,331290,7.8,1475,i,2025-12-29
+450,Matheus Santos Carneiro da Cunha,Cunha,Man Utd,8.1,11.2,264977,6734,4.5,1119,a,2025-12-29
 451,Marcus Rashford,Rashford,Man Utd,7.0,0.0,0,4,0.0,0,u,2025-12-29
-452,Amad Diallo,Amad,Man Utd,6.3,1.0,102,3127,2.8,1203,n,2025-12-29
+452,Amad Diallo,Amad,Man Utd,6.3,1.0,105,3468,2.8,1203,n,2025-12-29
 454,Antony dos Santos,Antony,Man Utd,5.9,0.1,0,13,0.0,0,u,2025-12-29
-455,Mason Mount,Mount,Man Utd,5.9,1.0,5809,12654,3.5,782,d,2025-12-29
-457,Carlos Henrique Casimiro,Casemiro,Man Utd,5.5,1.2,17652,2982,3.8,1051,a,2025-12-29
-458,Kobbie Mainoo,Mainoo,Man Utd,4.6,0.4,119,1486,0.5,212,i,2025-12-29
-459,Manuel Ugarte Ribeiro,Ugarte,Man Utd,4.7,0.2,1719,295,1.2,474,a,2025-12-29
-460,Toby Collyer,Collyer,Man Utd,4.5,0.0,0,10,0.0,0,u,2025-12-29
-461,Jayce Fitzgerald,Fitzgerald,Man Utd,4.4,0.0,25,37,0.0,0,a,2025-12-29
-462,Jack Fletcher,J.Fletcher,Man Utd,4.3,0.1,535,204,0.3,62,a,2025-12-29
-463,Sékou Koné,Kone,Man Utd,4.3,0.1,105,156,0.0,0,a,2025-12-29
+455,Mason Mount,Mount,Man Utd,5.9,1.0,6185,14596,3.5,782,d,2025-12-29
+457,Carlos Henrique Casimiro,Casemiro,Man Utd,5.5,1.2,20460,3445,3.8,1051,a,2025-12-29
+458,Kobbie Mainoo,Mainoo,Man Utd,4.6,0.4,131,1648,0.5,212,i,2025-12-29
+459,Manuel Ugarte Ribeiro,Ugarte,Man Utd,4.7,0.2,1964,342,1.2,474,a,2025-12-29
+460,Toby Collyer,Collyer,Man Utd,4.5,0.0,0,13,0.0,0,u,2025-12-29
+461,Jayce Fitzgerald,Fitzgerald,Man Utd,4.4,0.0,27,38,0.0,0,a,2025-12-29
+462,Jack Fletcher,J.Fletcher,Man Utd,4.3,0.1,608,234,0.3,62,a,2025-12-29
+463,Sékou Koné,Kone,Man Utd,4.3,0.1,128,168,0.0,0,a,2025-12-29
 464,Jack Moorhouse,Moorhouse,Man Utd,4.5,0.0,0,12,0.0,0,u,2025-12-29
-465,Rasmus Højlund,Højlund,Man Utd,6.3,0.3,0,37,0.0,0,u,2025-12-29
-466,Joshua Zirkzee,Zirkzee,Man Utd,5.8,0.5,1053,1886,2.3,393,a,2025-12-29
-467,Chido Obi,Obi,Man Utd,4.2,1.8,6433,4941,0.0,0,a,2025-12-29
-468,Ethan Wheatley,Wheatley,Man Utd,4.5,0.1,0,33,0.0,0,u,2025-12-29
-681,Benjamin Sesko,Šeško,Man Utd,7.2,3.2,12600,2510,1.2,768,a,2025-12-29
-733,Senne Lammens,Lammens,Man Utd,5.0,2.1,23855,1615,2.8,1080,a,2025-12-29
-755,Shea Lacey,Lacey,Man Utd,4.5,0.0,54,69,0.2,6,a,2025-12-29
-769,Bendito Mantato,Bendito Mantato,Man Utd,4.5,0.0,9,4,0.0,0,a,2025-12-29
-771,Tyler Fletcher,Fletcher,Man Utd,4.5,0.0,108,19,0.0,0,a,2025-12-29
-52,Jacob Ramsey,J.Ramsey,Newcastle,5.3,0.2,355,233,1.0,454,a,2025-12-29
-135,Yoane Wissa,Wissa,Newcastle,7.3,0.6,1078,1333,0.5,70,a,2025-12-29
-469,Nick Pope,Pope,Newcastle,5.1,4.6,4295,4714,0.0,1066,a,2025-12-29
-471,Mark Gillespie,Gillespie,Newcastle,3.9,0.1,69,99,0.0,0,a,2025-12-29
-472,Odysseas Vlachodimos,Odysseas,Newcastle,4.0,0.0,0,7,0.0,0,u,2025-12-29
-473,Lewis Hall,Hall,Newcastle,5.2,1.5,35950,1417,2.8,698,a,2025-12-29
-474,Fabian Schär,Schär,Newcastle,5.3,1.7,7350,1683,1.2,834,a,2025-12-29
-475,Sven Botman,Botman,Newcastle,4.9,0.3,7,456,0.0,655,d,2025-12-29
-476,Dan Burn,Burn,Newcastle,5.1,4.5,95,39940,3.2,1255,i,2025-12-29
-477,Tino Livramento,Livramento,Newcastle,4.9,2.5,46,13512,1.3,976,i,2025-12-29
-478,Kieran Trippier,Trippier,Newcastle,4.9,1.3,26,1686,0.0,699,i,2025-12-29
-479,Emil Krafth,Krafth,Newcastle,4.3,0.0,3,27,0.0,45,i,2025-12-29
-480,Jamaal Lascelles,Lascelles,Newcastle,4.3,0.1,3,104,0.0,19,d,2025-12-29
-481,Alex Murphy,A.Murphy,Newcastle,3.8,0.7,776,1381,0.0,0,a,2025-12-29
-482,Harrison Ashby,Ashby,Newcastle,3.9,0.1,41,83,0.0,0,a,2025-12-29
-483,Miodrag Pivaš,Pivas,Newcastle,3.8,0.4,317,1155,0.0,0,a,2025-12-29
-484,Matt Targett,Targett,Newcastle,4.0,0.2,0,86,0.0,0,u,2025-12-29
-485,Anthony Gordon,Gordon,Newcastle,7.4,4.5,59002,10144,5.0,778,a,2025-12-29
-486,Anthony Elanga,Elanga,Newcastle,6.5,2.8,303,4593,1.7,675,d,2025-12-29
-487,Harvey Barnes,Barnes,Newcastle,6.1,1.2,3287,7902,1.3,754,a,2025-12-29
-488,Bruno Guimarães Rodriguez Moura,Bruno G.,Newcastle,7.0,13.5,37069,64818,4.3,1479,a,2025-12-29
-489,Jacob Murphy,J.Murphy,Newcastle,6.0,0.8,3446,1719,1.3,891,a,2025-12-29
-490,Joelinton Cássio Apolinário de Lira,Joelinton,Newcastle,5.9,0.3,612,551,1.3,957,a,2025-12-29
-491,Sandro Tonali,Tonali,Newcastle,5.3,1.0,2240,1857,1.3,1230,a,2025-12-29
-492,Antoñito Cordero Campillo,Antoñito C.,Newcastle,4.9,0.0,0,6,0.0,0,u,2025-12-29
-494,Joe Willock,Willock,Newcastle,5.0,0.1,172,145,1.0,230,a,2025-12-29
+465,Rasmus Højlund,Højlund,Man Utd,6.3,0.3,0,38,0.0,0,u,2025-12-29
+466,Joshua Zirkzee,Zirkzee,Man Utd,5.8,0.5,1225,2116,2.3,393,a,2025-12-29
+467,Chido Obi,Obi,Man Utd,4.2,1.8,7142,5630,0.0,0,a,2025-12-29
+468,Ethan Wheatley,Wheatley,Man Utd,4.5,0.1,0,38,0.0,0,u,2025-12-29
+681,Benjamin Sesko,Šeško,Man Utd,7.2,3.2,14622,2807,1.2,768,a,2025-12-29
+733,Senne Lammens,Lammens,Man Utd,5.0,2.2,27909,1857,2.8,1080,a,2025-12-29
+755,Shea Lacey,Lacey,Man Utd,4.5,0.0,64,78,0.2,6,a,2025-12-29
+769,Bendito Mantato,Bendito Mantato,Man Utd,4.5,0.0,11,9,0.0,0,a,2025-12-29
+771,Tyler Fletcher,Fletcher,Man Utd,4.5,0.0,125,21,0.0,0,a,2025-12-29
+52,Jacob Ramsey,J.Ramsey,Newcastle,5.3,0.2,399,259,1.0,454,a,2025-12-29
+135,Yoane Wissa,Wissa,Newcastle,7.3,0.6,1243,1548,0.5,70,a,2025-12-29
+469,Nick Pope,Pope,Newcastle,5.1,4.6,5225,5223,0.0,1066,a,2025-12-29
+471,Mark Gillespie,Gillespie,Newcastle,3.9,0.1,75,112,0.0,0,a,2025-12-29
+472,Odysseas Vlachodimos,Odysseas,Newcastle,4.0,0.0,0,8,0.0,0,u,2025-12-29
+473,Lewis Hall,Hall,Newcastle,5.2,1.6,43716,1643,2.8,698,a,2025-12-29
+474,Fabian Schär,Schär,Newcastle,5.3,1.7,8573,1933,1.2,834,a,2025-12-29
+475,Sven Botman,Botman,Newcastle,4.9,0.3,8,509,0.0,655,d,2025-12-29
+476,Dan Burn,Burn,Newcastle,5.1,4.4,110,44976,3.2,1255,i,2025-12-29
+477,Tino Livramento,Livramento,Newcastle,4.9,2.4,50,15234,1.3,976,i,2025-12-29
+478,Kieran Trippier,Trippier,Newcastle,4.9,1.3,28,1855,0.0,699,i,2025-12-29
+479,Emil Krafth,Krafth,Newcastle,4.3,0.0,5,35,0.0,45,i,2025-12-29
+480,Jamaal Lascelles,Lascelles,Newcastle,4.3,0.1,3,119,0.0,19,d,2025-12-29
+481,Alex Murphy,A.Murphy,Newcastle,3.8,0.7,883,1605,0.0,0,a,2025-12-29
+482,Harrison Ashby,Ashby,Newcastle,3.9,0.1,44,91,0.0,0,a,2025-12-29
+483,Miodrag Pivaš,Pivas,Newcastle,3.8,0.4,366,1321,0.0,0,a,2025-12-29
+484,Matt Targett,Targett,Newcastle,4.0,0.2,0,96,0.0,0,u,2025-12-29
+485,Anthony Gordon,Gordon,Newcastle,7.4,4.6,67460,11533,5.0,778,a,2025-12-29
+486,Anthony Elanga,Elanga,Newcastle,6.5,2.8,310,5194,1.7,675,d,2025-12-29
+487,Harvey Barnes,Barnes,Newcastle,6.1,1.2,3774,9006,1.3,754,a,2025-12-29
+488,Bruno Guimarães Rodriguez Moura,Bruno G.,Newcastle,7.0,13.5,42657,72368,4.3,1479,a,2025-12-29
+489,Jacob Murphy,J.Murphy,Newcastle,6.0,0.8,4041,1970,1.3,891,a,2025-12-29
+490,Joelinton Cássio Apolinário de Lira,Joelinton,Newcastle,5.9,0.3,700,622,1.3,957,a,2025-12-29
+491,Sandro Tonali,Tonali,Newcastle,5.3,1.0,2571,2121,1.3,1230,a,2025-12-29
+492,Antoñito Cordero Campillo,Antoñito C.,Newcastle,4.9,0.0,0,8,0.0,0,u,2025-12-29
+494,Joe Willock,Willock,Newcastle,5.0,0.1,198,164,1.0,230,a,2025-12-29
 495,Isaac Hayden,Hayden,Newcastle,4.5,0.0,0,1,0.0,0,u,2025-12-29
-496,Garang Kuol,Kuol,Newcastle,4.4,0.0,0,16,0.0,0,u,2025-12-29
-497,Lewis Miley,L.Miley,Newcastle,4.5,3.3,16748,5534,4.3,750,a,2025-12-29
+496,Garang Kuol,Kuol,Newcastle,4.4,0.0,0,18,0.0,0,u,2025-12-29
+497,Lewis Miley,L.Miley,Newcastle,4.5,3.3,18960,6351,4.3,750,a,2025-12-29
 498,Joe White,White,Newcastle,4.5,0.0,0,5,0.0,0,u,2025-12-29
-500,William Osula,Osula,Newcastle,5.4,0.2,13,160,0.0,213,d,2025-12-29
-501,Sean Neave,Neave,Newcastle,4.3,0.2,182,254,0.0,0,a,2025-12-29
-674,Aaron Ramsdale,Ramsdale,Newcastle,4.8,0.9,3319,1202,1.8,553,a,2025-12-29
-684,Malick Thiaw,Thiaw,Newcastle,5.0,3.0,30480,5974,4.2,1262,a,2025-12-29
-689,Seung-Soo Park,Seung soo,Newcastle,4.4,0.2,32,184,0.0,0,a,2025-12-29
-714,Nick Woltemade,Woltemade,Newcastle,7.4,19.0,68083,40654,4.8,1162,a,2025-12-29
-753,John Ruddy,Ruddy,Newcastle,4.0,0.0,28,32,0.0,0,a,2025-12-29
-765,Leo Shahar,Shahar,Newcastle,4.0,0.0,176,62,0.0,0,a,2025-12-29
-772,Sam Alabi,Alabi,Newcastle,4.5,0.0,20,3,0.0,0,a,2025-12-29
-12,Oleksandr Zinchenko,Zinchenko,Nott'm Forest,4.9,0.2,319,156,0.2,262,a,2025-12-29
-426,James McAtee,McAtee,Nott'm Forest,5.1,0.1,77,124,0.3,148,a,2025-12-29
-502,Matz Sels,Sels,Nott'm Forest,4.6,6.0,1611,7530,1.7,1350,a,2025-12-29
-503,Carlos Miguel dos Santos Pereira,C.Miguel,Nott'm Forest,4.0,0.1,0,51,0.0,0,u,2025-12-29
-504,Matt Turner,Turner,Nott'm Forest,4.0,0.1,0,65,0.0,0,u,2025-12-29
-505,Nikola Milenković,Milenković,Nott'm Forest,5.1,3.4,4005,2600,3.2,1620,a,2025-12-29
-506,Murillo Costa dos Santos,Murillo,Nott'm Forest,5.2,1.9,3895,1485,1.7,1009,a,2025-12-29
-507,Ola Aina,Aina,Nott'm Forest,4.7,1.9,14,1182,0.0,270,d,2025-12-29
-508,Neco Williams,N.Williams,Nott'm Forest,4.7,3.5,4888,4123,3.3,1620,a,2025-12-29
-509,David Mota Veiga Teixeira do Carmo,David Carmo,Nott'm Forest,4.5,0.0,0,9,0.0,0,u,2025-12-29
-510,Jair Paula da Cunha Filho,Jair Cunha,Nott'm Forest,4.3,0.1,30,50,0.0,90,a,2025-12-29
-511,Felipe Rodrigues da Silva,Morato,Nott'm Forest,4.3,0.1,81,165,2.0,708,a,2025-12-29
-512,Omar Richards,O.Richards,Nott'm Forest,4.5,0.0,0,3,0.0,0,u,2025-12-29
-513,Zach Abbott,Abbott,Nott'm Forest,3.8,0.3,719,754,0.2,45,a,2025-12-29
-514,Willy Boly,Boly,Nott'm Forest,3.8,0.4,179,807,0.0,0,n,2025-12-29
-515,Morgan Gibbs-White,Gibbs-White,Nott'm Forest,7.3,2.8,5325,5048,2.3,1512,a,2025-12-29
-516,Callum Hudson-Odoi,Hudson-Odoi,Nott'm Forest,5.7,1.0,6950,2952,4.3,954,a,2025-12-29
-517,Elliot Anderson,Anderson,Nott'm Forest,5.3,4.7,11644,9703,3.7,1620,a,2025-12-29
-518,João Pedro Ferreira da Silva,Jota,Nott'm Forest,5.4,0.0,0,11,0.0,11,u,2025-12-29
-519,Nicolás Domínguez,Dominguez,Nott'm Forest,5.0,0.0,49,19,0.8,347,a,2025-12-29
+500,William Osula,Osula,Newcastle,5.4,0.2,14,174,0.0,213,d,2025-12-29
+501,Sean Neave,Neave,Newcastle,4.3,0.2,196,287,0.0,0,a,2025-12-29
+674,Aaron Ramsdale,Ramsdale,Newcastle,4.8,1.0,3921,1402,1.8,553,a,2025-12-29
+684,Malick Thiaw,Thiaw,Newcastle,5.0,3.0,36534,6852,4.2,1262,a,2025-12-29
+689,Seung-Soo Park,Seung soo,Newcastle,4.4,0.2,37,208,0.0,0,a,2025-12-29
+714,Nick Woltemade,Woltemade,Newcastle,7.4,19.0,78531,45670,4.8,1162,a,2025-12-29
+753,John Ruddy,Ruddy,Newcastle,4.0,0.0,33,36,0.0,0,a,2025-12-29
+765,Leo Shahar,Shahar,Newcastle,4.0,0.0,214,69,0.0,0,a,2025-12-29
+772,Sam Alabi,Alabi,Newcastle,4.5,0.0,21,3,0.0,0,a,2025-12-29
+12,Oleksandr Zinchenko,Zinchenko,Nott'm Forest,4.9,0.2,349,178,0.2,262,a,2025-12-29
+426,James McAtee,McAtee,Nott'm Forest,5.1,0.1,83,140,0.3,148,a,2025-12-29
+502,Matz Sels,Sels,Nott'm Forest,4.6,6.0,1877,8613,1.7,1350,a,2025-12-29
+503,Carlos Miguel dos Santos Pereira,C.Miguel,Nott'm Forest,4.0,0.1,0,60,0.0,0,u,2025-12-29
+504,Matt Turner,Turner,Nott'm Forest,4.0,0.1,0,69,0.0,0,u,2025-12-29
+505,Nikola Milenković,Milenković,Nott'm Forest,5.1,3.4,4794,3003,3.2,1620,a,2025-12-29
+506,Murillo Costa dos Santos,Murillo,Nott'm Forest,5.2,1.9,4588,1675,1.7,1009,a,2025-12-29
+507,Ola Aina,Aina,Nott'm Forest,4.7,1.9,17,1291,0.0,270,d,2025-12-29
+508,Neco Williams,N.Williams,Nott'm Forest,4.7,3.5,5792,4788,3.3,1620,a,2025-12-29
+509,David Mota Veiga Teixeira do Carmo,David Carmo,Nott'm Forest,4.5,0.0,0,10,0.0,0,u,2025-12-29
+510,Jair Paula da Cunha Filho,Jair Cunha,Nott'm Forest,4.3,0.1,41,56,0.0,90,a,2025-12-29
+511,Felipe Rodrigues da Silva,Morato,Nott'm Forest,4.3,0.1,88,190,2.0,708,a,2025-12-29
+512,Omar Richards,O.Richards,Nott'm Forest,4.5,0.0,0,4,0.0,0,u,2025-12-29
+513,Zach Abbott,Abbott,Nott'm Forest,3.8,0.3,820,862,0.2,45,a,2025-12-29
+514,Willy Boly,Boly,Nott'm Forest,3.8,0.4,199,916,0.0,0,n,2025-12-29
+515,Morgan Gibbs-White,Gibbs-White,Nott'm Forest,7.3,2.8,6176,5751,2.3,1512,a,2025-12-29
+516,Callum Hudson-Odoi,Hudson-Odoi,Nott'm Forest,5.7,1.0,7863,3335,4.3,954,a,2025-12-29
+517,Elliot Anderson,Anderson,Nott'm Forest,5.3,4.7,13268,11332,3.7,1620,a,2025-12-29
+518,João Pedro Ferreira da Silva,Jota,Nott'm Forest,5.4,0.0,0,12,0.0,11,u,2025-12-29
+519,Nicolás Domínguez,Dominguez,Nott'm Forest,5.0,0.0,52,23,0.8,347,a,2025-12-29
 520,Lewis O'Brien,O'Brien,Nott'm Forest,5.0,0.0,0,0,0.0,0,u,2025-12-29
-521,Ibrahim Sangaré,Sangaré,Nott'm Forest,4.9,0.1,11,111,4.3,864,n,2025-12-29
-522,Ryan Yates,Yates,Nott'm Forest,4.7,0.1,1,127,0.5,299,i,2025-12-29
-523,Eric da Silva Moreira,Da Silva Moreira,Nott'm Forest,4.5,0.1,0,18,0.0,0,u,2025-12-29
+521,Ibrahim Sangaré,Sangaré,Nott'm Forest,4.9,0.1,13,124,4.3,864,n,2025-12-29
+522,Ryan Yates,Yates,Nott'm Forest,4.7,0.1,1,146,0.5,299,i,2025-12-29
+523,Eric da Silva Moreira,Da Silva Moreira,Nott'm Forest,4.5,0.1,0,21,0.0,0,u,2025-12-29
 524,Marko Stamenić,Stamenic,Nott'm Forest,4.5,0.0,0,11,0.0,0,u,2025-12-29
-525,Chris Wood,Wood,Nott'm Forest,7.2,4.9,15,2877,0.0,538,i,2025-12-29
-526,Igor Jesus Maciel da Cruz,Igor Jesus,Nott'm Forest,5.8,1.2,10017,3386,3.7,910,a,2025-12-29
-527,Taiwo Awoniyi,Awoniyi,Nott'm Forest,5.2,0.3,346,222,0.3,154,a,2025-12-29
-669,Dan Ndoye,Ndoye,Nott'm Forest,5.5,0.8,5,2550,1.0,997,i,2025-12-29
-675,Angus Gunn,Gunn,Nott'm Forest,4.0,1.2,101,486,0.0,0,a,2025-12-29
-693,Omari Hutchinson,Hutchinson,Nott'm Forest,5.4,0.1,4121,218,4.2,652,a,2025-12-29
-696,Arnaud Kalimuendo,Kalimuendo,Nott'm Forest,6.0,0.1,121,227,0.3,82,a,2025-12-29
-699,Douglas Luiz Soares de Paulo,Douglas Luiz,Nott'm Forest,4.9,0.0,119,100,0.5,262,a,2025-12-29
-715,John Victor Maciel Furtado,John,Nott'm Forest,4.0,0.4,2960,387,1.5,270,a,2025-12-29
-716,Nicolò Savona,Savona,Nott'm Forest,4.5,0.2,977,555,2.3,1004,a,2025-12-29
+525,Chris Wood,Wood,Nott'm Forest,7.2,4.9,22,3124,0.0,538,i,2025-12-29
+526,Igor Jesus Maciel da Cruz,Igor Jesus,Nott'm Forest,5.8,1.2,11375,3943,3.7,910,a,2025-12-29
+527,Taiwo Awoniyi,Awoniyi,Nott'm Forest,5.2,0.3,370,250,0.3,154,a,2025-12-29
+669,Dan Ndoye,Ndoye,Nott'm Forest,5.5,0.8,8,2814,1.0,997,i,2025-12-29
+675,Angus Gunn,Gunn,Nott'm Forest,4.0,1.2,113,565,0.0,0,a,2025-12-29
+693,Omari Hutchinson,Hutchinson,Nott'm Forest,5.4,0.1,4772,263,4.2,652,a,2025-12-29
+696,Arnaud Kalimuendo,Kalimuendo,Nott'm Forest,6.0,0.1,127,251,0.3,82,a,2025-12-29
+699,Douglas Luiz Soares de Paulo,Douglas Luiz,Nott'm Forest,4.9,0.0,140,112,0.5,262,a,2025-12-29
+715,John Victor Maciel Furtado,John,Nott'm Forest,4.0,0.4,3504,449,1.5,270,a,2025-12-29
+716,Nicolò Savona,Savona,Nott'm Forest,4.5,0.2,1152,652,2.3,1004,a,2025-12-29
 729,Luis Eduardo Soares da Silva,Cuiabano,Nott'm Forest,4.5,0.0,0,0,0.0,0,u,2025-12-29
-734,Dilane Bakwa,Bakwa,Nott'm Forest,5.9,0.0,46,32,0.2,173,a,2025-12-29
-528,Anthony Patterson,Patterson,Sunderland,4.2,0.2,89,189,0.0,0,a,2025-12-29
-529,Simon Moore,Moore,Sunderland,3.9,0.4,139,289,0.0,0,a,2025-12-29
-530,Blondy Nna Noukeu,Nna Noukeu,Sunderland,3.9,0.1,48,96,0.0,0,a,2025-12-29
-531,Daniel Ballard,Ballard,Sunderland,4.7,3.9,7013,21085,4.2,1119,d,2025-12-29
-532,Trai Hume,Hume,Sunderland,4.5,0.3,262,775,2.5,1471,a,2025-12-29
+734,Dilane Bakwa,Bakwa,Nott'm Forest,5.9,0.0,57,33,0.2,173,a,2025-12-29
+528,Anthony Patterson,Patterson,Sunderland,4.2,0.2,95,216,0.0,0,a,2025-12-29
+529,Simon Moore,Moore,Sunderland,3.9,0.4,161,337,0.0,0,a,2025-12-29
+530,Blondy Nna Noukeu,Nna Noukeu,Sunderland,3.9,0.1,55,118,0.0,0,a,2025-12-29
+531,Daniel Ballard,Ballard,Sunderland,4.7,3.8,7091,27953,4.2,1119,d,2025-12-29
+532,Trai Hume,Hume,Sunderland,4.5,0.3,305,921,2.5,1471,a,2025-12-29
 533,Aji Alese,Alese,Sunderland,4.0,0.0,5,3,0.0,0,i,2025-12-29
-534,Joe Anderson,Anderson,Sunderland,3.9,0.4,127,440,0.0,0,a,2025-12-29
-535,Dennis Cirkin,Cirkin,Sunderland,4.0,0.0,82,63,0.3,90,a,2025-12-29
-536,Leo Fuhr Hjelde,Hjelde,Sunderland,4.0,0.0,28,31,0.0,0,a,2025-12-29
-537,Niall Huggins,Huggins,Sunderland,4.0,0.1,0,25,0.0,0,u,2025-12-29
-538,Zak Johnson,Johnson,Sunderland,3.9,0.2,33,230,0.0,0,a,2025-12-29
-539,Luke O'Nien,O'Nien,Sunderland,4.0,0.0,102,57,-0.2,4,a,2025-12-29
-540,Timothée Pembélé,Pembele,Sunderland,3.9,0.4,56,349,0.0,0,a,2025-12-29
-541,Reinildo Mandava,Reinildo,Sunderland,3.9,2.8,160,10543,3.0,1022,n,2025-12-29
-542,Jenson Seelt,Seelt,Sunderland,4.0,0.1,0,56,0.0,133,u,2025-12-29
-543,Simon Adingra,Adingra,Sunderland,4.9,0.4,548,337,2.3,462,a,2025-12-29
-544,Habib Diarra,Diarra,Sunderland,5.3,0.0,5,34,0.2,371,i,2025-12-29
+534,Joe Anderson,Anderson,Sunderland,3.9,0.4,146,506,0.0,0,a,2025-12-29
+535,Dennis Cirkin,Cirkin,Sunderland,4.0,0.0,102,73,0.3,90,a,2025-12-29
+536,Leo Fuhr Hjelde,Hjelde,Sunderland,4.0,0.0,33,32,0.0,0,a,2025-12-29
+537,Niall Huggins,Huggins,Sunderland,4.0,0.1,0,29,0.0,0,u,2025-12-29
+538,Zak Johnson,Johnson,Sunderland,3.9,0.2,37,271,0.0,0,a,2025-12-29
+539,Luke O'Nien,O'Nien,Sunderland,4.0,0.0,111,68,-0.2,4,a,2025-12-29
+540,Timothée Pembélé,Pembele,Sunderland,3.9,0.4,74,413,0.0,0,a,2025-12-29
+541,Reinildo Mandava,Reinildo,Sunderland,3.9,2.8,175,11885,3.0,1022,n,2025-12-29
+542,Jenson Seelt,Seelt,Sunderland,4.0,0.1,0,71,0.0,133,u,2025-12-29
+543,Simon Adingra,Adingra,Sunderland,4.9,0.4,706,384,2.3,462,a,2025-12-29
+544,Habib Diarra,Diarra,Sunderland,5.3,0.0,6,37,0.2,371,i,2025-12-29
 545,Patrick Roberts,Roberts,Sunderland,5.4,0.0,0,2,0.0,27,u,2025-12-29
-546,Milan Aleksić,Aleksić,Sunderland,4.9,0.0,0,4,0.0,0,u,2025-12-29
-547,Enzo Le Fée,E.Le Fée,Sunderland,4.9,1.0,2123,4144,4.3,1305,a,2025-12-29
-548,Romaine Mundle,Mundle,Sunderland,4.9,0.0,11,22,0.7,83,a,2025-12-29
-549,Dan Neil,Neil,Sunderland,4.8,0.0,29,32,0.0,2,a,2025-12-29
-550,Ian Poveda-Ocampo,Poveda,Sunderland,4.8,0.0,12,25,0.0,0,a,2025-12-29
-551,Chris Rigg,Rigg,Sunderland,4.7,0.0,89,73,0.8,316,a,2025-12-29
-552,Noah Sadiki,Sadiki,Sunderland,5.0,0.0,13,105,1.5,1414,n,2025-12-29
-553,Chemsdine Talbi,Talbi,Sunderland,4.9,0.2,14,445,2.7,881,n,2025-12-29
-554,Abdoullah Ba,Ba,Sunderland,4.3,0.4,157,752,0.0,0,a,2025-12-29
+546,Milan Aleksić,Aleksić,Sunderland,4.9,0.0,0,5,0.0,0,u,2025-12-29
+547,Enzo Le Fée,E.Le Fée,Sunderland,4.9,1.0,2381,4864,4.3,1305,a,2025-12-29
+548,Romaine Mundle,Mundle,Sunderland,4.9,0.0,16,23,0.7,83,a,2025-12-29
+549,Dan Neil,Neil,Sunderland,4.8,0.0,32,37,0.0,2,a,2025-12-29
+550,Ian Poveda-Ocampo,Poveda,Sunderland,4.8,0.0,13,25,0.0,0,a,2025-12-29
+551,Chris Rigg,Rigg,Sunderland,4.7,0.0,101,82,0.8,316,a,2025-12-29
+552,Noah Sadiki,Sadiki,Sunderland,5.0,0.0,15,119,1.5,1414,n,2025-12-29
+553,Chemsdine Talbi,Talbi,Sunderland,4.9,0.2,14,507,2.7,881,n,2025-12-29
+554,Abdoullah Ba,Ba,Sunderland,4.3,0.4,184,864,0.0,0,a,2025-12-29
 555,Alan Browne,Browne,Sunderland,4.5,0.0,0,20,0.0,0,u,2025-12-29
-556,Pierre Ekwah Elimby,Ekwah,Sunderland,4.5,0.0,0,7,0.0,0,u,2025-12-29
-557,Harrison Jones,H.Jones,Sunderland,4.3,0.1,78,87,0.0,0,a,2025-12-29
-558,Jay Matete,Matete,Sunderland,4.3,0.2,372,375,0.0,0,a,2025-12-29
-559,Nectarios Triantis,Triantis,Sunderland,4.4,0.0,0,30,0.0,0,u,2025-12-29
-560,Wilson Isidor,Isidor,Sunderland,5.4,2.3,2340,11723,1.0,938,a,2025-12-29
-561,Eliezer Mayenda Dossou,Mayenda,Sunderland,5.2,0.5,167,599,0.2,283,a,2025-12-29
-562,Ahmed Abdullahi,Abdullahi,Sunderland,4.3,0.4,283,573,0.0,0,a,2025-12-29
-563,Luís Hemir Silva Semedo,Luís Hemir,Sunderland,4.4,0.1,0,43,0.0,0,u,2025-12-29
-564,Nazarii Rusyn,Rusyn,Sunderland,4.4,0.1,0,34,0.0,0,u,2025-12-29
-668,Granit Xhaka,Xhaka,Sunderland,5.2,6.7,10486,15596,3.8,1602,a,2025-12-29
-670,Robin Roefs,Roefs,Sunderland,4.8,9.7,16827,10990,4.0,1620,a,2025-12-29
-678,Arthur Masuaku,Masuaku,Sunderland,3.9,0.6,9,968,0.0,125,n,2025-12-29
-683,Omar Alderete,Alderete,Sunderland,4.0,5.3,11886,8118,3.7,1207,a,2025-12-29
-694,Nordi Mukiele,Mukiele,Sunderland,4.2,6.8,12788,12550,3.2,1440,a,2025-12-29
-724,Lutsharel Geertruida,Geertruida,Sunderland,4.5,0.0,67,111,1.8,712,a,2025-12-29
-730,Brian Brobbey,Brobbey,Sunderland,5.5,0.3,1337,2017,2.3,461,a,2025-12-29
-735,Bertrand Traoré,Traoré,Sunderland,5.5,0.0,8,193,2.0,607,n,2025-12-29
-774,Jenson Jones,Jenson Jones,Sunderland,4.0,0.0,9,1,0.0,0,a,2025-12-29
-775,Tymur Tutierov,Tutierov,Sunderland,4.5,0.0,8,0,0.0,0,a,2025-12-29
-565,Guglielmo Vicario,Vicario,Spurs,4.8,7.0,1817,6900,3.2,1620,a,2025-12-29
-566,Brandon Austin,Austin,Spurs,3.9,0.3,103,232,0.0,0,a,2025-12-29
-567,Antonín Kinský,Kinsky,Spurs,3.9,1.8,378,1443,0.0,0,a,2025-12-29
-568,Pedro Porro Sauceda,Pedro Porro,Spurs,5.2,12.6,4744,12422,2.3,1415,a,2025-12-29
-569,Cristian Romero,Romero,Spurs,5.0,3.6,3348,7963,4.0,1187,a,2025-12-29
-570,Kevin Danso,Danso,Spurs,4.2,0.1,230,152,2.3,581,a,2025-12-29
-571,Ben Davies,Davies,Spurs,4.3,0.1,51,49,0.2,31,a,2025-12-29
-572,Radu Drăgușin,Dragusin,Spurs,4.5,0.0,37,18,0.2,5,a,2025-12-29
-573,Djed Spence,Spence,Spurs,4.3,1.1,1389,1460,2.3,1163,a,2025-12-29
-574,Destiny Udogie,Udogie,Spurs,4.4,0.3,12,472,0.2,605,i,2025-12-29
-575,Micky van de Ven,Van de Ven,Spurs,4.5,26.3,19410,33307,3.0,1519,a,2025-12-29
+556,Pierre Ekwah Elimby,Ekwah,Sunderland,4.5,0.0,0,8,0.0,0,u,2025-12-29
+557,Harrison Jones,H.Jones,Sunderland,4.3,0.1,83,104,0.0,0,a,2025-12-29
+558,Jay Matete,Matete,Sunderland,4.3,0.2,417,449,0.0,0,a,2025-12-29
+559,Nectarios Triantis,Triantis,Sunderland,4.4,0.0,0,33,0.0,0,u,2025-12-29
+560,Wilson Isidor,Isidor,Sunderland,5.4,2.2,2570,13610,1.0,938,a,2025-12-29
+561,Eliezer Mayenda Dossou,Mayenda,Sunderland,5.2,0.5,185,682,0.2,283,a,2025-12-29
+562,Ahmed Abdullahi,Abdullahi,Sunderland,4.3,0.4,311,641,0.0,0,a,2025-12-29
+563,Luís Hemir Silva Semedo,Luís Hemir,Sunderland,4.4,0.1,0,51,0.0,0,u,2025-12-29
+564,Nazarii Rusyn,Rusyn,Sunderland,4.4,0.1,0,38,0.0,0,u,2025-12-29
+668,Granit Xhaka,Xhaka,Sunderland,5.2,6.6,12326,17809,3.8,1602,a,2025-12-29
+670,Robin Roefs,Roefs,Sunderland,4.8,9.7,18790,12884,4.0,1620,a,2025-12-29
+678,Arthur Masuaku,Masuaku,Sunderland,3.9,0.6,9,1087,0.0,125,n,2025-12-29
+683,Omar Alderete,Alderete,Sunderland,4.0,5.3,14012,9462,3.7,1207,a,2025-12-29
+694,Nordi Mukiele,Mukiele,Sunderland,4.2,6.8,14855,14665,3.2,1440,a,2025-12-29
+724,Lutsharel Geertruida,Geertruida,Sunderland,4.5,0.0,80,118,1.8,712,a,2025-12-29
+730,Brian Brobbey,Brobbey,Sunderland,5.5,0.3,1472,2307,2.3,461,a,2025-12-29
+735,Bertrand Traoré,Traoré,Sunderland,5.5,0.0,8,216,2.0,607,n,2025-12-29
+774,Jenson Jones,Jenson Jones,Sunderland,4.0,0.0,15,1,0.0,0,a,2025-12-29
+775,Tymur Tutierov,Tutierov,Sunderland,4.5,0.0,13,1,0.0,0,a,2025-12-29
+565,Guglielmo Vicario,Vicario,Spurs,4.8,7.0,2200,7636,3.2,1620,a,2025-12-29
+566,Brandon Austin,Austin,Spurs,3.9,0.3,111,269,0.0,0,a,2025-12-29
+567,Antonín Kinský,Kinsky,Spurs,3.9,1.8,435,1671,0.0,0,a,2025-12-29
+568,Pedro Porro Sauceda,Pedro Porro,Spurs,5.2,12.6,5710,13936,2.3,1415,a,2025-12-29
+569,Cristian Romero,Romero,Spurs,5.0,3.6,3984,8548,4.0,1187,a,2025-12-29
+570,Kevin Danso,Danso,Spurs,4.2,0.1,291,175,2.3,581,a,2025-12-29
+571,Ben Davies,Davies,Spurs,4.3,0.1,57,54,0.2,31,a,2025-12-29
+572,Radu Drăgușin,Dragusin,Spurs,4.5,0.0,42,18,0.2,5,a,2025-12-29
+573,Djed Spence,Spence,Spurs,4.3,1.1,1729,1653,2.3,1163,a,2025-12-29
+574,Destiny Udogie,Udogie,Spurs,4.4,0.3,14,528,0.2,605,i,2025-12-29
+575,Micky van de Ven,Van de Ven,Spurs,4.5,26.3,24520,35880,3.0,1519,a,2025-12-29
 576,Ashley Phillips,Phillips,Spurs,4.0,0.0,0,4,0.0,0,u,2025-12-29
-577,Takai Kōta,Takai,Spurs,4.0,0.0,19,34,0.0,0,a,2025-12-29
-578,Luka Vušković,Vuskovic,Spurs,3.9,0.3,0,211,0.0,0,u,2025-12-29
+577,Takai Kōta,Takai,Spurs,4.0,0.0,26,39,0.0,0,a,2025-12-29
+578,Luka Vušković,Vuskovic,Spurs,3.9,0.3,0,235,0.0,0,u,2025-12-29
 579,Son Heung-min,Son,Spurs,8.5,0.1,0,24,0.0,0,u,2025-12-29
-580,Brennan Johnson,Johnson,Spurs,6.5,2.4,523,1527,0.8,602,a,2025-12-29
-581,James Maddison,Maddison,Spurs,6.8,0.1,20,41,0.0,0,i,2025-12-29
-582,Mohammed Kudus,Kudus,Spurs,6.4,14.2,10668,24435,4.0,1427,a,2025-12-29
-583,Dejan Kulusevski,Kulusevski,Spurs,6.4,0.0,8,13,0.0,0,i,2025-12-29
-584,Mathys Tel,Tel,Spurs,6.2,0.1,154,172,1.0,274,a,2025-12-29
-585,Rodrigo Bentancur,Bentancur,Spurs,5.3,0.2,257,365,3.0,1142,a,2025-12-29
-586,Lucas Bergvall,Bergvall,Spurs,5.3,0.2,223,375,2.0,724,d,2025-12-29
-587,Yves Bissouma,Bissouma,Spurs,5.2,0.0,2,20,0.0,0,n,2025-12-29
-588,Wilson Odobert,Odobert,Spurs,5.3,0.0,96,56,0.8,536,a,2025-12-29
+580,Brennan Johnson,Johnson,Spurs,6.5,2.4,574,1709,0.8,602,a,2025-12-29
+581,James Maddison,Maddison,Spurs,6.8,0.1,21,46,0.0,0,i,2025-12-29
+582,Mohammed Kudus,Kudus,Spurs,6.4,14.2,12368,27780,4.0,1427,a,2025-12-29
+583,Dejan Kulusevski,Kulusevski,Spurs,6.4,0.0,9,13,0.0,0,i,2025-12-29
+584,Mathys Tel,Tel,Spurs,6.2,0.1,168,197,1.0,274,a,2025-12-29
+585,Rodrigo Bentancur,Bentancur,Spurs,5.3,0.2,307,423,3.0,1142,a,2025-12-29
+586,Lucas Bergvall,Bergvall,Spurs,5.3,0.2,236,461,2.0,724,d,2025-12-29
+587,Yves Bissouma,Bissouma,Spurs,5.2,0.0,2,22,0.0,0,n,2025-12-29
+588,Wilson Odobert,Odobert,Spurs,5.3,0.0,119,62,0.8,536,a,2025-12-29
 589,Manor Solomon,Solomon,Spurs,5.4,0.0,0,1,0.0,0,u,2025-12-29
 590,Bryan Gil Salvatierra,Bryan,Spurs,4.9,0.0,0,8,0.0,0,u,2025-12-29
-591,Archie Gray,Gray,Spurs,4.8,0.1,476,115,2.7,435,a,2025-12-29
+591,Archie Gray,Gray,Spurs,4.8,0.1,594,135,2.7,435,a,2025-12-29
 592,Mikey Moore,Moore,Spurs,5.0,0.0,0,1,0.0,0,u,2025-12-29
-593,Pape Matar Sarr,P.M.Sarr,Spurs,4.5,0.9,133,2436,0.7,703,n,2025-12-29
+593,Pape Matar Sarr,P.M.Sarr,Spurs,4.5,0.9,150,2755,0.7,703,n,2025-12-29
 594,Yang Min-hyeok,Min-hyeok,Spurs,4.5,0.0,0,3,0.0,0,u,2025-12-29
-595,Callum Olusesi,Olusesi,Spurs,4.3,0.2,242,286,0.0,0,a,2025-12-29
-596,Dominic Solanke-Mitchell,Solanke,Spurs,7.2,0.9,22,275,0.0,31,i,2025-12-29
-597,Richarlison de Andrade,Richarlison,Spurs,6.4,7.7,10459,13328,3.3,1073,a,2025-12-29
+595,Callum Olusesi,Olusesi,Spurs,4.3,0.2,271,318,0.0,0,a,2025-12-29
+596,Dominic Solanke-Mitchell,Solanke,Spurs,7.2,0.9,24,306,0.0,31,i,2025-12-29
+597,Richarlison de Andrade,Richarlison,Spurs,6.4,7.7,12642,14730,3.3,1073,a,2025-12-29
 598,Will Lankshear,Lankshear,Spurs,4.5,0.0,0,5,0.0,0,u,2025-12-29
-599,Dane Scarlett,Scarlett,Spurs,4.3,0.6,272,671,0.0,0,a,2025-12-29
-673,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,J.Palhinha,Spurs,5.5,1.1,675,3029,1.3,1112,a,2025-12-29
-717,Xavi Simons,Xavi,Spurs,6.5,1.0,58,5972,3.0,830,s,2025-12-29
-726,Randal Kolo Muani,Kolo Muani,Spurs,6.9,0.3,626,1252,1.8,672,a,2025-12-29
-745,Jun'ai Byfield,Byfield,Spurs,4.0,0.0,44,46,0.0,0,a,2025-12-29
-750,James Rowswell,Rowswell,Spurs,4.0,0.0,31,50,0.0,0,a,2025-12-29
-751,Yusuf Akhamrich,Akhamrich,Spurs,4.5,0.0,14,17,0.0,0,a,2025-12-29
-149,Igor Julio dos Santos de Paulo,Igor,West Ham,4.5,0.1,119,107,0.0,103,a,2025-12-29
-600,Alphonse Areola,Areola,West Ham,4.3,2.2,2645,1912,2.3,1260,a,2025-12-29
-601,Wes Foderingham,Foderingham,West Ham,4.0,0.3,0,205,0.0,0,u,2025-12-29
-602,Krisztián Hegyi,Hegyi,West Ham,3.9,0.2,161,205,0.0,0,a,2025-12-29
-603,El Hadji Malick Diouf,Diouf,West Ham,4.0,1.5,72,5955,1.7,1387,n,2025-12-29
-604,Emerson Palmieri dos Santos,Emerson,West Ham,4.4,0.1,0,25,0.0,0,u,2025-12-29
-605,Maximilian Kilman,Kilman,West Ham,4.2,0.2,611,203,1.7,1353,a,2025-12-29
-606,Konstantinos Mavropanos,Mavropanos,West Ham,4.4,0.1,120,125,2.2,866,a,2025-12-29
+599,Dane Scarlett,Scarlett,Spurs,4.3,0.6,309,754,0.0,0,a,2025-12-29
+673,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,J.Palhinha,Spurs,5.5,1.1,761,3527,1.3,1112,a,2025-12-29
+717,Xavi Simons,Xavi,Spurs,6.5,1.0,61,6626,3.0,830,s,2025-12-29
+726,Randal Kolo Muani,Kolo Muani,Spurs,6.9,0.3,691,1427,1.8,672,a,2025-12-29
+745,Jun'ai Byfield,Byfield,Spurs,4.0,0.0,48,48,0.0,0,a,2025-12-29
+750,James Rowswell,Rowswell,Spurs,4.0,0.0,37,57,0.0,0,a,2025-12-29
+751,Yusuf Akhamrich,Akhamrich,Spurs,4.5,0.0,18,19,0.0,0,a,2025-12-29
+149,Igor Julio dos Santos de Paulo,Igor,West Ham,4.5,0.1,140,125,0.0,103,a,2025-12-29
+600,Alphonse Areola,Areola,West Ham,4.3,2.2,2984,2228,2.3,1260,a,2025-12-29
+601,Wes Foderingham,Foderingham,West Ham,4.0,0.3,0,240,0.0,0,u,2025-12-29
+602,Krisztián Hegyi,Hegyi,West Ham,3.9,0.2,190,241,0.0,0,a,2025-12-29
+603,El Hadji Malick Diouf,Diouf,West Ham,4.0,1.5,82,6911,1.7,1387,n,2025-12-29
+604,Emerson Palmieri dos Santos,Emerson,West Ham,4.4,0.1,0,29,0.0,0,u,2025-12-29
+605,Maximilian Kilman,Kilman,West Ham,4.2,0.2,735,242,1.7,1353,a,2025-12-29
+606,Konstantinos Mavropanos,Mavropanos,West Ham,4.4,0.1,134,149,2.2,866,a,2025-12-29
 607,Nayef Aguerd,N.Aguerd,West Ham,4.4,0.0,0,12,0.0,180,u,2025-12-29
-608,Ollie Scarles,Scarles,West Ham,4.3,0.0,54,19,0.5,222,a,2025-12-29
-609,Jean-Clair Todibo,Todibo,West Ham,4.3,0.1,226,165,1.7,1116,a,2025-12-29
-610,Aaron Wan-Bissaka,Wan-Bissaka,West Ham,4.2,4.2,45,8170,1.5,1011,n,2025-12-29
-611,Kaelan Casey,Casey,West Ham,4.0,0.1,0,47,0.0,0,u,2025-12-29
-612,Lucas Tolentino Coelho de Lima,L.Paquetá,West Ham,5.9,1.5,3238,2424,1.5,1369,a,2025-12-29
-613,Tomáš Souček,Souček,West Ham,5.7,0.2,156,389,1.2,573,a,2025-12-29
-614,James Ward-Prowse,Ward-Prowse,West Ham,5.6,0.2,143,183,0.0,414,a,2025-12-29
-615,Crysencio Summerville,Summerville,West Ham,5.5,0.1,349,295,1.3,930,a,2025-12-29
-616,Edson Álvarez Velázquez,Álvarez,West Ham,4.9,0.0,0,6,0.0,0,u,2025-12-29
-617,Maxwel Cornet,Cornet,West Ham,4.9,0.0,0,2,0.0,0,u,2025-12-29
-618,Guido Rodríguez,G.Rodriguez,West Ham,4.8,0.0,20,49,0.7,164,a,2025-12-29
-619,Luis Guilherme Lira dos Santos,L.Guilherme,West Ham,4.9,0.0,10,18,0.2,121,a,2025-12-29
-620,George Earthy,Earthy,West Ham,4.5,0.0,53,50,0.2,8,a,2025-12-29
-621,Andy Irving,Irving,West Ham,4.3,0.3,524,423,0.2,156,a,2025-12-29
-622,Lewis Orford,Orford,West Ham,4.4,0.1,0,31,0.0,0,u,2025-12-29
-623,Freddie Potts,Potts,West Ham,4.4,0.8,1846,1148,2.2,822,a,2025-12-29
-624,Jarrod Bowen,Bowen,West Ham,7.6,7.2,17408,21975,4.5,1620,a,2025-12-29
-625,Niclas Füllkrug,Füllkrug,West Ham,5.6,0.6,262,421,0.2,407,a,2025-12-29
-626,Callum Marshall,Marshall,West Ham,4.3,0.6,454,706,0.0,58,a,2025-12-29
-659,Kyle Walker-Peters,Walker-Peters,West Ham,4.2,0.3,541,303,0.8,690,a,2025-12-29
-671,Callum Wilson,Wilson,West Ham,5.8,0.8,1022,4439,1.8,651,a,2025-12-29
-679,Mads Hermansen,Hermansen,West Ham,4.3,0.2,26,165,0.0,360,a,2025-12-29
-708,Mateus Gonçalo Espanha Fernandes,M.Fernandes,West Ham,5.5,0.2,1324,724,4.0,1234,a,2025-12-29
-718,Soungoutou Magassa,S.Magassa,West Ham,5.0,0.0,337,50,4.0,606,a,2025-12-29
-738,Lukasz Fabianski,Fabianski,West Ham,4.5,0.0,108,63,0.0,0,a,2025-12-29
-747,Ezra Mayers,Mayers,West Ham,4.0,0.0,46,56,0.3,33,a,2025-12-29
-752,Airidas Golambeckis,Golambeckis,West Ham,4.0,0.0,24,66,0.0,0,a,2025-12-29
-758,Mohamadou Kanté,Mohamadou Kanté,West Ham,4.5,0.0,40,46,0.4,9,a,2025-12-29
-627,Sam Johnstone,Johnstone,Wolves,4.4,0.1,57,142,0.8,1080,a,2025-12-29
-628,José Malheiro de Sá,José Sá,Wolves,4.2,1.0,330,746,0.5,540,a,2025-12-29
-629,Daniel Bentley,Bentley,Wolves,3.9,0.5,97,483,0.0,0,i,2025-12-29
-631,Emmanuel Agbadou,Agbadou,Wolves,4.3,0.1,2,197,1.0,1010,n,2025-12-29
-632,Matt Doherty,Doherty,Wolves,4.4,0.1,43,69,1.2,509,a,2025-12-29
-633,Hugo Bueno López,H.Bueno,Wolves,4.3,0.1,8,116,0.5,888,d,2025-12-29
-634,Yerson Mosquera Valdelamar,Mosquera,Wolves,4.3,0.0,48,34,0.7,596,a,2025-12-29
-635,Rodrigo Martins Gomes,R.Gomes,Wolves,4.4,0.1,2,42,0.0,331,i,2025-12-29
-636,Santiago Ignacio Bueno,S.Bueno,Wolves,4.4,0.1,112,72,1.7,844,a,2025-12-29
-637,Toti Gomes,Toti,Wolves,4.2,0.1,3,317,1.8,949,i,2025-12-29
-638,Ki-Jana Hoever,Hoever,Wolves,3.8,1.3,3166,3099,0.8,423,a,2025-12-29
-639,Bastien Meupiyou Menadjou,Meupiyou,Wolves,4.0,0.0,0,7,0.0,0,u,2025-12-29
-640,Pedro Cardoso de Lima,Pedro Lima,Wolves,4.0,0.4,0,322,0.0,0,u,2025-12-29
-641,Alfie Pond,Pond,Wolves,3.9,1.2,154,1170,0.0,0,a,2025-12-29
-642,Hwang Hee-chan,Hee Chan,Wolves,5.6,0.1,73,111,0.8,642,a,2025-12-29
-643,André Trindade da Costa Neto,André,Wolves,5.3,0.1,54,225,2.7,1333,s,2025-12-29
-644,Jean-Ricner Bellegarde,Bellegarde,Wolves,5.2,0.0,3,43,1.8,685,i,2025-12-29
-645,Fer López González,Fer López,Wolves,5.2,0.0,13,24,0.7,226,a,2025-12-29
-646,João Victor Gomes da Silva,Gomes,Wolves,5.3,0.1,108,83,2.5,1369,a,2025-12-29
-647,Gonçalo Manuel Ganchinho Guedes,Guedes,Wolves,5.5,0.0,0,0,0.0,0,u,2025-12-29
-648,Marshall Munetsi,Munetsi,Wolves,5.3,0.0,2,81,0.2,872,i,2025-12-29
+608,Ollie Scarles,Scarles,West Ham,4.3,0.0,65,21,0.5,222,a,2025-12-29
+609,Jean-Clair Todibo,Todibo,West Ham,4.3,0.1,266,195,1.7,1116,a,2025-12-29
+610,Aaron Wan-Bissaka,Wan-Bissaka,West Ham,4.2,4.2,48,9351,1.5,1011,n,2025-12-29
+611,Kaelan Casey,Casey,West Ham,4.0,0.1,0,51,0.0,0,u,2025-12-29
+612,Lucas Tolentino Coelho de Lima,L.Paquetá,West Ham,5.9,1.5,3810,2780,1.5,1369,a,2025-12-29
+613,Tomáš Souček,Souček,West Ham,5.7,0.2,183,435,1.2,573,a,2025-12-29
+614,James Ward-Prowse,Ward-Prowse,West Ham,5.6,0.2,155,211,0.0,414,a,2025-12-29
+615,Crysencio Summerville,Summerville,West Ham,5.5,0.1,391,346,1.3,930,a,2025-12-29
+616,Edson Álvarez Velázquez,Álvarez,West Ham,4.9,0.0,0,8,0.0,0,u,2025-12-29
+617,Maxwel Cornet,Cornet,West Ham,4.9,0.0,0,3,0.0,0,u,2025-12-29
+618,Guido Rodríguez,G.Rodriguez,West Ham,4.8,0.0,24,59,0.7,164,a,2025-12-29
+619,Luis Guilherme Lira dos Santos,L.Guilherme,West Ham,4.9,0.0,10,21,0.2,121,a,2025-12-29
+620,George Earthy,Earthy,West Ham,4.5,0.0,58,55,0.2,8,a,2025-12-29
+621,Andy Irving,Irving,West Ham,4.3,0.3,592,485,0.2,156,a,2025-12-29
+622,Lewis Orford,Orford,West Ham,4.4,0.1,0,37,0.0,0,u,2025-12-29
+623,Freddie Potts,Potts,West Ham,4.4,0.8,2160,1317,2.2,822,a,2025-12-29
+624,Jarrod Bowen,Bowen,West Ham,7.6,7.2,19679,25198,4.5,1620,a,2025-12-29
+625,Niclas Füllkrug,Füllkrug,West Ham,5.6,0.6,280,455,0.2,407,a,2025-12-29
+626,Callum Marshall,Marshall,West Ham,4.3,0.6,516,797,0.0,58,a,2025-12-29
+659,Kyle Walker-Peters,Walker-Peters,West Ham,4.2,0.3,639,359,0.8,690,a,2025-12-29
+671,Callum Wilson,Wilson,West Ham,5.8,0.8,1157,5012,1.8,651,a,2025-12-29
+679,Mads Hermansen,Hermansen,West Ham,4.3,0.2,31,186,0.0,360,a,2025-12-29
+708,Mateus Gonçalo Espanha Fernandes,M.Fernandes,West Ham,5.5,0.2,1553,842,4.0,1234,a,2025-12-29
+718,Soungoutou Magassa,S.Magassa,West Ham,5.0,0.0,402,62,4.0,606,a,2025-12-29
+738,Lukasz Fabianski,Fabianski,West Ham,4.5,0.0,121,75,0.0,0,a,2025-12-29
+747,Ezra Mayers,Mayers,West Ham,4.0,0.0,52,62,0.3,33,a,2025-12-29
+752,Airidas Golambeckis,Golambeckis,West Ham,4.0,0.0,30,69,0.0,0,a,2025-12-29
+758,Mohamadou Kanté,Mohamadou Kanté,West Ham,4.5,0.0,42,51,0.4,9,a,2025-12-29
+627,Sam Johnstone,Johnstone,Wolves,4.4,0.1,67,169,0.8,1080,a,2025-12-29
+628,José Malheiro de Sá,José Sá,Wolves,4.2,1.0,381,866,0.5,540,a,2025-12-29
+629,Daniel Bentley,Bentley,Wolves,3.9,0.5,114,537,0.0,0,i,2025-12-29
+631,Emmanuel Agbadou,Agbadou,Wolves,4.3,0.1,3,219,1.0,1010,n,2025-12-29
+632,Matt Doherty,Doherty,Wolves,4.4,0.1,47,76,1.2,509,a,2025-12-29
+633,Hugo Bueno López,H.Bueno,Wolves,4.3,0.1,9,126,0.5,888,d,2025-12-29
+634,Yerson Mosquera Valdelamar,Mosquera,Wolves,4.3,0.0,61,39,0.7,596,a,2025-12-29
+635,Rodrigo Martins Gomes,R.Gomes,Wolves,4.4,0.1,2,44,0.0,331,i,2025-12-29
+636,Santiago Ignacio Bueno,S.Bueno,Wolves,4.4,0.1,135,84,1.7,844,a,2025-12-29
+637,Toti Gomes,Toti,Wolves,4.2,0.1,5,355,1.8,949,i,2025-12-29
+638,Ki-Jana Hoever,Hoever,Wolves,3.8,1.3,3590,3597,0.8,423,a,2025-12-29
+639,Bastien Meupiyou Menadjou,Meupiyou,Wolves,4.0,0.0,0,10,0.0,0,u,2025-12-29
+640,Pedro Cardoso de Lima,Pedro Lima,Wolves,4.0,0.4,0,360,0.0,0,u,2025-12-29
+641,Alfie Pond,Pond,Wolves,3.9,1.2,178,1338,0.0,0,a,2025-12-29
+642,Hwang Hee-chan,Hee Chan,Wolves,5.6,0.1,89,127,0.8,642,a,2025-12-29
+643,André Trindade da Costa Neto,André,Wolves,5.3,0.1,54,264,2.7,1333,s,2025-12-29
+644,Jean-Ricner Bellegarde,Bellegarde,Wolves,5.2,0.0,3,45,1.8,685,i,2025-12-29
+645,Fer López González,Fer López,Wolves,5.2,0.0,15,25,0.7,226,a,2025-12-29
+646,João Victor Gomes da Silva,Gomes,Wolves,5.3,0.1,129,95,2.5,1369,a,2025-12-29
+647,Gonçalo Manuel Ganchinho Guedes,Guedes,Wolves,5.5,0.0,0,1,0.0,0,u,2025-12-29
+648,Marshall Munetsi,Munetsi,Wolves,5.3,0.0,3,86,0.2,872,i,2025-12-29
 649,Boubacar Traoré,B.Traore,Wolves,5.0,0.0,0,0,0.0,0,u,2025-12-29
-650,Tawanda Chirewa,Chirewa,Wolves,4.3,0.2,39,440,0.2,21,n,2025-12-29
-651,Tom Edozie,Edozie,Wolves,4.3,0.4,507,615,0.0,0,a,2025-12-29
-652,Enso González Medina,Gonzalez,Wolves,4.3,1.4,2127,2317,0.0,0,a,2025-12-29
+650,Tawanda Chirewa,Chirewa,Wolves,4.3,0.2,44,497,0.2,21,n,2025-12-29
+651,Tom Edozie,Edozie,Wolves,4.3,0.4,577,701,0.0,0,a,2025-12-29
+652,Enso González Medina,Gonzalez,Wolves,4.3,1.4,2415,2610,0.0,0,a,2025-12-29
 653,Joe Hodge,Hodge,Wolves,4.5,0.0,0,25,0.0,0,u,2025-12-29
-654,Jørgen Strand Larsen,Strand Larsen,Wolves,6.1,0.9,277,1047,1.3,1231,a,2025-12-29
-655,Fábio Soares Silva,Fábio Silva,Wolves,4.9,0.2,0,52,0.0,0,u,2025-12-29
-656,Saša Kalajdžić,Kalajdžić,Wolves,4.9,0.1,0,14,0.0,14,u,2025-12-29
-657,Leon Chiwome,Chiwome,Wolves,4.4,0.0,21,38,0.0,0,i,2025-12-29
-658,Nathan Fraser,Fraser,Wolves,4.3,1.7,1250,2073,0.0,0,a,2025-12-29
-663,Jhon Arias,J.Arias,Wolves,4.9,0.1,34,130,1.3,818,a,2025-12-29
-682,David Møller Wolfe,Møller Wolfe,Wolves,4.3,0.1,30,60,1.5,700,a,2025-12-29
-695,Jackson Tchatchoua,Tchatchoua,Wolves,4.5,0.0,21,43,1.2,831,a,2025-12-29
-709,Ladislav Krejcí,Krejčí,Wolves,4.5,0.0,43,93,0.8,1143,a,2025-12-29
-720,Tolu Arokodare,Tolu,Wolves,5.4,0.1,480,177,2.7,425,a,2025-12-29
-749,Mateus Mané,Mané,Wolves,4.5,0.1,1579,631,1.7,181,a,2025-12-29
-766,Saheed Olagunju,Olagunju,Wolves,4.0,0.0,41,25,0.0,0,a,2025-12-29
-767,Luke Rawlings,Rawlings,Wolves,4.5,0.0,59,23,0.0,0,a,2025-12-29
+654,Jørgen Strand Larsen,Strand Larsen,Wolves,6.1,0.9,310,1195,1.3,1231,a,2025-12-29
+655,Fábio Soares Silva,Fábio Silva,Wolves,4.9,0.2,0,55,0.0,0,u,2025-12-29
+656,Saša Kalajdžić,Kalajdžić,Wolves,4.9,0.1,0,15,0.0,14,u,2025-12-29
+657,Leon Chiwome,Chiwome,Wolves,4.4,0.0,23,42,0.0,0,i,2025-12-29
+658,Nathan Fraser,Fraser,Wolves,4.3,1.7,1410,2351,0.0,0,a,2025-12-29
+663,Jhon Arias,J.Arias,Wolves,4.9,0.1,41,146,1.3,818,a,2025-12-29
+682,David Møller Wolfe,Møller Wolfe,Wolves,4.3,0.1,33,70,1.5,700,a,2025-12-29
+695,Jackson Tchatchoua,Tchatchoua,Wolves,4.5,0.0,28,51,1.2,831,a,2025-12-29
+709,Ladislav Krejcí,Krejčí,Wolves,4.5,0.0,51,109,0.8,1143,a,2025-12-29
+720,Tolu Arokodare,Tolu,Wolves,5.4,0.1,551,201,2.7,425,a,2025-12-29
+749,Mateus Mané,Mané,Wolves,4.5,0.1,1792,738,1.7,181,a,2025-12-29
+766,Saheed Olagunju,Olagunju,Wolves,4.0,0.0,45,31,0.0,0,a,2025-12-29
+767,Luke Rawlings,Rawlings,Wolves,4.5,0.0,64,29,0.0,0,a,2025-12-29
