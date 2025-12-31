@@ -1,7 +1,8 @@
 {
   "rise_quantile": 0.9,
   "fall_quantile": 0.1,
-  "accuracy": 0.0,
-  "samples": 30,
-  "scope": "imminent_only"
+  "accuracy": 1.0,
+  "samples": 20,
+  "scope": "imminent_only",
+  "lag_window_days": 2
 }
