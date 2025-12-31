@@ -2,6 +2,6 @@
   "rise_quantile": 0.9,
   "fall_quantile": 0.1,
   "accuracy": 0.0,
-  "samples": 20,
+  "samples": 30,
   "scope": "imminent_only"
 }
