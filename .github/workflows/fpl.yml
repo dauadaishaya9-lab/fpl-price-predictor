@@ -1,0 +1,104 @@
+name: FPL Price Predictor
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout repository
+      # -------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # -------------------------
+      # 🔑 SYNC WITH REMOTE FIRST
+      # -------------------------
+      - name: Sync with main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git pull origin main
+
+      # -------------------------
+      # Setup Python
+      # -------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -------------------------
+      # Install dependencies
+      # -------------------------
+      - name: Install dependencies
+        run: pip install pandas numpy requests
+
+      # =========================
+      # 🧠 TELEGRAM COMMAND BRAIN
+      # =========================
+      - name: Read Telegram commands
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/update_telegram.py
+
+      # =========================
+      # DATA PIPELINE
+      # =========================
+
+      - name: Snapshot data
+        run: python scripts/snapshot.py
+
+      - name: Record actual price changes
+        run: python scripts/record_price_changes.py
+
+      - name: Tune thresholds
+        run: python scripts/tune_threshold.py
+
+      - name: Update protection status
+        run: python scripts/update_protection.py
+
+      - name: Compute deltas
+        run: python scripts/compute_deltas.py
+
+      - name: Compute velocity
+        run: python scripts/compute_velocity.py
+
+      - name: Compute trends
+        run: python scripts/compute_trends.py
+
+      - name: Compute predictions
+        run: python scripts/compute_prediction.py
+
+      # -------------------------
+      # Alerts
+      # -------------------------
+      - name: Send alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_alerts.py
+
+      # -------------------------
+      # Commit & Push
+      # -------------------------
+      - name: Commit generated data
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add data
+            git commit -m "Automated predictor update"
+            git push origin main
+          else
+            echo "No data changes"
+          fi
