@@ -1,0 +1,79 @@
+name: Accuracy Report
+
+on:
+  schedule:
+    - cron: "30 4 * * *"   # 04:30 UTC
+  workflow_dispatch:
+
+jobs:
+  accuracy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # -------------------------
+      # Checkout
+      # -------------------------
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # -------------------------
+      # Python
+      # -------------------------
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # -------------------------
+      # Dependencies
+      # -------------------------
+      - name: Install dependencies
+        run: |
+          pip install pandas requests
+
+      # -------------------------
+      # Compute accuracy
+      # -------------------------
+      - name: Compute accuracy
+        run: python scripts/compute_accuracy.py
+
+      # -------------------------
+      # Send Telegram report
+      # -------------------------
+      - name: Send accuracy report to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/send_accuracy_report.py
+
+      # -------------------------
+      # Commit & push (CI-safe)
+      # -------------------------
+      - name: Commit accuracy report
+        run: |
+          if [[ ! -f data/accuracy.csv ]]; then
+            echo "No accuracy file to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # Stash generated file temporarily
+          git stash push -u -m "ci-stash-accuracy" || true
+
+          # Sync with remote main
+          git fetch origin
+          git checkout main
+          git pull --rebase origin main
+
+          # Restore generated file
+          git stash pop || true
+
+          git add data/accuracy.csv
+          git commit -m "Update accuracy report" || echo "No changes to commit"
+
+          # Safe force push (prevents race-condition failures)
+          git push --force-with-lease origin main
