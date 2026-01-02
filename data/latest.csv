@@ -1,781 +1,781 @@
 player_id,name,web_name,team,price,ownership,transfers_in_event,transfers_out_event,form,minutes,status,snapshot_date
-1,David Raya Martín,Raya,Arsenal,6.0,35.5,21303,67657,3.5,1710,a,2026-01-02
-2,Kepa Arrizabalaga Revuelta,Arrizabalaga,Arsenal,4.1,0.4,168,334,0.0,0,a,2026-01-02
-3,Karl Hein,Hein,Arsenal,4.0,0.2,0,105,0.0,0,u,2026-01-02
-4,Tommy Setford,Setford,Arsenal,3.9,0.3,677,586,0.0,0,a,2026-01-02
-5,Gabriel dos Santos Magalhães,Gabriel,Arsenal,6.4,19.0,526140,5009,2.7,1085,a,2026-01-02
-6,William Saliba,Saliba,Arsenal,5.9,11.7,25093,22241,2.0,1174,a,2026-01-02
-7,Riccardo Calafiori,Calafiori,Arsenal,5.7,8.8,1237,68388,2.3,1256,i,2026-01-02
-8,Jurriën Timber,J.Timber,Arsenal,6.4,28.5,66314,84360,3.5,1459,a,2026-01-02
-9,Jakub Kiwior,Kiwior,Arsenal,5.4,0.0,0,6,0.0,0,u,2026-01-02
-10,Myles Lewis-Skelly,Lewis-Skelly,Arsenal,5.1,1.6,639,3034,0.7,278,a,2026-01-02
-11,Benjamin White,White,Arsenal,5.1,0.6,438,3427,2.8,287,a,2026-01-02
-13,Brayden Clarke,Clarke,Arsenal,3.8,0.5,437,817,0.0,0,a,2026-01-02
-14,Maldini Kacurri,Kacurri,Arsenal,3.9,0.1,0,39,0.0,0,u,2026-01-02
-15,Josh Nichols,Nichols,Arsenal,3.8,0.2,86,203,0.0,0,a,2026-01-02
-16,Bukayo Saka,Saka,Arsenal,10.3,21.5,58839,41730,6.2,1320,a,2026-01-02
-17,Martin Ødegaard,Ødegaard,Arsenal,7.8,2.1,37085,4153,4.0,714,a,2026-01-02
-18,Noni Madueke,Madueke,Arsenal,6.8,0.7,573,1990,0.8,427,a,2026-01-02
-19,Gabriel Martinelli Silva,Martinelli,Arsenal,6.8,0.9,1186,1644,1.0,408,a,2026-01-02
-20,Leandro Trossard,Trossard,Arsenal,6.9,1.6,74221,6201,4.2,1042,a,2026-01-02
-21,Declan Rice,Rice,Arsenal,7.2,22.6,15082,328945,4.5,1515,d,2026-01-02
-22,Mikel Merino Zazón,Merino,Arsenal,5.8,2.6,4428,22911,3.3,921,a,2026-01-02
-23,Fábio Ferreira Vieira,Fábio Vieira,Arsenal,5.4,0.0,0,2,0.0,0,u,2026-01-02
-24,Christian Nørgaard,Nørgaard,Arsenal,5.1,0.1,104,118,0.2,31,a,2026-01-02
-25,Ethan Nwaneri,Nwaneri,Arsenal,5.0,0.1,118,143,0.0,165,a,2026-01-02
-26,Martín Zubimendi Ibáñez,Zubimendi,Arsenal,5.2,2.2,12069,3208,3.2,1590,a,2026-01-02
-28,Ismeal Kabia,Kabia,Arsenal,4.5,0.1,0,32,0.0,0,u,2026-01-02
-29,Albert Sambi Lokonga,Sambi,Arsenal,4.5,0.1,0,18,0.0,0,u,2026-01-02
-30,Kai Havertz,Havertz,Arsenal,7.3,0.3,450,120,0.0,30,a,2026-01-02
-31,Gabriel Fernando de Jesus,G.Jesus,Arsenal,6.4,0.2,6978,1253,1.2,66,a,2026-01-02
-266,Eberechi Eze,Eze,Arsenal,7.5,11.5,4602,86983,0.5,991,a,2026-01-02
-662,Cristhian Mosquera,Mosquera,Arsenal,5.3,0.1,17,155,0.2,429,i,2026-01-02
-666,Viktor Gyökeres,Gyökeres,Arsenal,8.8,9.7,4009,15957,2.2,1161,a,2026-01-02
-700,Max Dowman,Dowman,Arsenal,4.3,0.3,598,1335,0.0,27,i,2026-01-02
-711,Andre Harriman-Annous,Harriman-Annous,Arsenal,4.5,0.0,17,23,0.0,0,a,2026-01-02
-725,Piero Hincapié,Hincapie,Arsenal,5.4,2.1,5069,26548,4.7,743,a,2026-01-02
-759,Marli Salmon,Salmon,Arsenal,4.0,0.0,36,47,0.0,0,a,2026-01-02
-32,Emiliano Martínez Romero,Martinez,Aston Villa,5.0,3.3,22793,8596,1.7,1350,a,2026-01-02
-33,Marco Bizot,M.Bizot,Aston Villa,4.2,0.4,97,382,0.3,360,a,2026-01-02
-34,Joe Gauci,Gauci,Aston Villa,4.0,0.1,0,68,0.0,0,u,2026-01-02
+1,David Raya Martín,Raya,Arsenal,6.0,35.4,25611,82967,3.5,1710,a,2026-01-02
+2,Kepa Arrizabalaga Revuelta,Arrizabalaga,Arsenal,4.1,0.4,207,386,0.0,0,a,2026-01-02
+3,Karl Hein,Hein,Arsenal,4.0,0.2,0,127,0.0,0,u,2026-01-02
+4,Tommy Setford,Setford,Arsenal,3.9,0.3,803,701,0.0,0,a,2026-01-02
+5,Gabriel dos Santos Magalhães,Gabriel,Arsenal,6.4,19.9,632030,5813,2.7,1085,a,2026-01-02
+6,William Saliba,Saliba,Arsenal,5.9,11.8,30416,26168,2.0,1174,a,2026-01-02
+7,Riccardo Calafiori,Calafiori,Arsenal,5.7,8.6,1264,92689,2.3,1256,i,2026-01-02
+8,Jurriën Timber,J.Timber,Arsenal,6.4,28.5,81588,97437,3.5,1459,a,2026-01-02
+9,Jakub Kiwior,Kiwior,Arsenal,5.4,0.0,0,7,0.0,0,u,2026-01-02
+10,Myles Lewis-Skelly,Lewis-Skelly,Arsenal,5.1,1.6,763,3795,0.7,278,a,2026-01-02
+11,Benjamin White,White,Arsenal,5.1,0.6,555,4197,2.8,287,a,2026-01-02
+13,Brayden Clarke,Clarke,Arsenal,3.8,0.5,491,970,0.0,0,a,2026-01-02
+14,Maldini Kacurri,Kacurri,Arsenal,3.9,0.1,0,45,0.0,0,u,2026-01-02
+15,Josh Nichols,Nichols,Arsenal,3.8,0.2,97,245,0.0,0,a,2026-01-02
+16,Bukayo Saka,Saka,Arsenal,10.3,21.6,73954,50907,6.2,1320,a,2026-01-02
+17,Martin Ødegaard,Ødegaard,Arsenal,7.8,2.2,45142,5159,4.0,714,a,2026-01-02
+18,Noni Madueke,Madueke,Arsenal,6.8,0.7,667,2389,0.8,427,a,2026-01-02
+19,Gabriel Martinelli Silva,Martinelli,Arsenal,6.8,0.9,1417,1988,1.0,408,a,2026-01-02
+20,Leandro Trossard,Trossard,Arsenal,6.9,1.7,91655,7860,4.2,1042,a,2026-01-02
+21,Declan Rice,Rice,Arsenal,7.2,22.0,18247,402890,4.5,1515,d,2026-01-02
+22,Mikel Merino Zazón,Merino,Arsenal,5.8,2.5,5378,27997,3.3,921,a,2026-01-02
+23,Fábio Ferreira Vieira,Fábio Vieira,Arsenal,5.4,0.0,0,3,0.0,0,u,2026-01-02
+24,Christian Nørgaard,Nørgaard,Arsenal,5.1,0.1,120,141,0.2,31,a,2026-01-02
+25,Ethan Nwaneri,Nwaneri,Arsenal,5.0,0.1,138,168,0.0,165,a,2026-01-02
+26,Martín Zubimendi Ibáñez,Zubimendi,Arsenal,5.2,2.2,14677,4004,3.2,1590,a,2026-01-02
+28,Ismeal Kabia,Kabia,Arsenal,4.5,0.1,0,37,0.0,0,u,2026-01-02
+29,Albert Sambi Lokonga,Sambi,Arsenal,4.5,0.1,0,20,0.0,0,u,2026-01-02
+30,Kai Havertz,Havertz,Arsenal,7.3,0.3,565,145,0.0,30,a,2026-01-02
+31,Gabriel Fernando de Jesus,G.Jesus,Arsenal,6.4,0.2,8346,1580,1.2,66,a,2026-01-02
+266,Eberechi Eze,Eze,Arsenal,7.5,11.4,5452,104583,0.5,991,a,2026-01-02
+662,Cristhian Mosquera,Mosquera,Arsenal,5.3,0.1,18,179,0.2,429,i,2026-01-02
+666,Viktor Gyökeres,Gyökeres,Arsenal,8.8,9.7,4942,19064,2.2,1161,a,2026-01-02
+700,Max Dowman,Dowman,Arsenal,4.3,0.3,703,1558,0.0,27,i,2026-01-02
+711,Andre Harriman-Annous,Harriman-Annous,Arsenal,4.5,0.0,19,25,0.0,0,a,2026-01-02
+725,Piero Hincapié,Hincapie,Arsenal,5.4,2.1,6398,32499,4.7,743,a,2026-01-02
+759,Marli Salmon,Salmon,Arsenal,4.0,0.0,43,58,0.0,0,a,2026-01-02
+32,Emiliano Martínez Romero,Martinez,Aston Villa,5.0,3.4,29315,10385,1.7,1350,a,2026-01-02
+33,Marco Bizot,M.Bizot,Aston Villa,4.2,0.4,117,459,0.3,360,a,2026-01-02
+34,Joe Gauci,Gauci,Aston Villa,4.0,0.1,0,83,0.0,0,u,2026-01-02
 35,Filip Marschall,Marschall,Aston Villa,4.0,0.0,0,5,0.0,0,u,2026-01-02
-36,Matty Cash,Cash,Aston Villa,4.8,9.6,29445,69280,2.7,1592,a,2026-01-02
-37,Lucas Digne,Digne,Aston Villa,4.5,1.6,6740,4288,0.7,1099,a,2026-01-02
-38,Ezri Konsa Ngoyo,Konsa,Aston Villa,4.4,7.5,20104,10437,1.7,1595,a,2026-01-02
-39,Ian Maatsen,Maatsen,Aston Villa,4.2,0.5,1692,1178,1.3,603,a,2026-01-02
-40,Tyrone Mings,Mings,Aston Villa,4.3,0.6,25,442,0.0,497,d,2026-01-02
-41,Pau Torres,Pau,Aston Villa,4.3,0.3,28,1539,0.7,952,d,2026-01-02
-42,Andrés García,A.García,Aston Villa,3.9,0.2,202,313,0.0,29,a,2026-01-02
-43,Álex Moreno Lopera,Alex Moreno,Aston Villa,4.0,1.7,0,1028,0.0,0,u,2026-01-02
-44,Lamare Bogarde,Bogarde,Aston Villa,4.0,0.5,885,956,0.3,417,a,2026-01-02
-45,Lino da Cruz Sousa,Sousa,Aston Villa,3.9,0.3,103,200,0.0,0,a,2026-01-02
-46,Yasin Özcan,Yasin,Aston Villa,4.0,0.1,0,59,0.0,0,u,2026-01-02
-47,Morgan Rogers,Rogers,Aston Villa,7.5,26.3,326493,33731,6.7,1687,a,2026-01-02
-48,Youri Tielemans,Tielemans,Aston Villa,5.9,0.9,8663,2047,3.3,952,a,2026-01-02
-49,Leon Bailey,Bailey,Aston Villa,5.5,0.1,0,15,0.0,0,u,2026-01-02
-50,Emiliano Buendía Stati,Buendía,Aston Villa,5.3,0.4,2530,2273,2.3,679,a,2026-01-02
-51,Samuel Iling-Junior,Iling Jr,Aston Villa,5.5,0.0,0,1,0.0,0,u,2026-01-02
-53,Donyell Malen,Malen,Aston Villa,5.1,0.7,2203,2476,2.3,616,a,2026-01-02
-54,John McGinn,McGinn,Aston Villa,5.4,0.7,3442,2486,2.0,1420,a,2026-01-02
-55,Ross Barkley,Barkley,Aston Villa,4.8,0.0,14,41,0.0,114,i,2026-01-02
+36,Matty Cash,Cash,Aston Villa,4.8,9.7,43677,75144,2.7,1592,a,2026-01-02
+37,Lucas Digne,Digne,Aston Villa,4.5,1.6,7608,5269,0.7,1099,a,2026-01-02
+38,Ezri Konsa Ngoyo,Konsa,Aston Villa,4.4,7.5,23782,12941,1.7,1595,a,2026-01-02
+39,Ian Maatsen,Maatsen,Aston Villa,4.2,0.5,1998,1419,1.3,603,a,2026-01-02
+40,Tyrone Mings,Mings,Aston Villa,4.3,0.6,29,521,0.0,497,d,2026-01-02
+41,Pau Torres,Pau,Aston Villa,4.3,0.3,30,1855,0.7,952,d,2026-01-02
+42,Andrés García,A.García,Aston Villa,3.9,0.2,240,368,0.0,29,a,2026-01-02
+43,Álex Moreno Lopera,Alex Moreno,Aston Villa,4.0,1.7,0,1227,0.0,0,u,2026-01-02
+44,Lamare Bogarde,Bogarde,Aston Villa,4.0,0.5,1033,1192,0.3,417,a,2026-01-02
+45,Lino da Cruz Sousa,Sousa,Aston Villa,3.9,0.3,118,236,0.0,0,a,2026-01-02
+46,Yasin Özcan,Yasin,Aston Villa,4.0,0.1,0,64,0.0,0,u,2026-01-02
+47,Morgan Rogers,Rogers,Aston Villa,7.5,26.9,408449,39517,6.7,1687,a,2026-01-02
+48,Youri Tielemans,Tielemans,Aston Villa,5.9,0.9,10729,2550,3.3,952,a,2026-01-02
+49,Leon Bailey,Bailey,Aston Villa,5.5,0.1,0,20,0.0,0,u,2026-01-02
+50,Emiliano Buendía Stati,Buendía,Aston Villa,5.3,0.4,3144,2769,2.3,679,a,2026-01-02
+51,Samuel Iling-Junior,Iling Jr,Aston Villa,5.5,0.0,0,3,0.0,0,u,2026-01-02
+53,Donyell Malen,Malen,Aston Villa,5.1,0.7,2717,3089,2.3,616,a,2026-01-02
+54,John McGinn,McGinn,Aston Villa,5.4,0.8,4217,3075,2.0,1420,a,2026-01-02
+55,Ross Barkley,Barkley,Aston Villa,4.8,0.0,16,54,0.0,114,i,2026-01-02
 56,Enzo Barrenechea,Barrenechea,Aston Villa,5.0,0.0,0,0,0.0,0,u,2026-01-02
 57,Lewis Dobbin,Dobbin,Aston Villa,5.0,0.0,0,1,0.0,0,u,2026-01-02
-58,Boubacar Kamara,Kamara,Aston Villa,4.9,0.5,887,4212,2.7,1239,a,2026-01-02
-59,Amadou Onana,Onana,Aston Villa,4.8,0.8,1767,3620,3.5,886,d,2026-01-02
-60,Ben Broggio,Broggio,Aston Villa,4.5,0.3,294,405,0.0,0,a,2026-01-02
-61,Leander Dendoncker,Dendoncker,Aston Villa,4.5,0.1,0,33,0.0,0,u,2026-01-02
-62,Jamaldeen Jimoh-Aloba,Jimoh-Aloba,Aston Villa,4.5,0.1,100,94,0.2,8,a,2026-01-02
-63,Kadan Young,Young,Aston Villa,4.3,0.6,1879,1430,0.0,0,a,2026-01-02
-64,Ollie Watkins,Watkins,Aston Villa,8.6,8.3,103199,9753,7.0,1389,a,2026-01-02
-65,Zépiqueno Redmond,Redmond,Aston Villa,4.5,0.3,0,115,0.0,0,u,2026-01-02
-389,Harvey Elliott,Elliott,Aston Villa,5.2,0.2,22,207,0.0,97,d,2026-01-02
-456,Jadon Sancho,Sancho,Aston Villa,5.8,0.2,756,271,0.7,217,a,2026-01-02
-677,Evann Guessand,Guessand,Aston Villa,6.2,0.0,15,93,1.5,511,n,2026-01-02
-688,James Wright,Wright,Aston Villa,3.9,0.6,616,876,0.0,0,a,2026-01-02
-701,Triston Rowe,Rowe,Aston Villa,4.0,0.1,0,48,0.0,0,u,2026-01-02
-702,Bradley Burrowes,Burrowes,Aston Villa,4.4,0.1,45,78,0.0,16,a,2026-01-02
-703,Sam Proctor,Proctor,Aston Villa,3.9,0.6,3698,1864,0.0,0,a,2026-01-02
-710,Travis Patterson,Patterson,Aston Villa,3.9,0.2,65,280,0.0,0,a,2026-01-02
-719,Victor Lindelöf,Lindelöf,Aston Villa,4.5,0.1,1461,390,1.5,385,a,2026-01-02
-754,George Hemmings,George Hemmings,Aston Villa,4.5,0.0,35,22,0.2,8,a,2026-01-02
-757,Ronnie Hollingshead,Hollingshead,Aston Villa,4.0,0.0,31,26,0.0,0,a,2026-01-02
-768,Leon Routh,Leon Routh,Aston Villa,4.0,0.0,25,25,0.0,0,a,2026-01-02
-183,Max Weiß,Weiss,Burnley,4.3,0.1,95,121,0.0,0,a,2026-01-02
-184,Etienne Green,Green,Burnley,4.0,0.2,0,94,0.0,0,u,2026-01-02
-185,Václav Hladký,Hladký,Burnley,3.9,0.2,215,256,0.0,0,a,2026-01-02
-186,Connor Roberts,Roberts,Burnley,4.4,0.0,27,14,0.0,0,i,2026-01-02
-187,Kyle Walker,Walker,Burnley,4.4,1.2,1598,1736,1.7,1606,a,2026-01-02
-188,Hannes Delcroix,Delcroix,Burnley,3.8,0.3,213,447,0.0,0,a,2026-01-02
-189,Owen Dodgson,Dodgson,Burnley,4.0,0.0,0,2,0.0,0,u,2026-01-02
-190,Hjalmar Ekdal,Ekdal,Burnley,3.9,0.9,4622,2032,3.7,1073,a,2026-01-02
-191,Maxime Estève,Estève,Burnley,3.9,9.6,1444,26450,1.3,1446,d,2026-01-02
-192,Quilindschy Hartman,Hartman,Burnley,4.0,0.9,1576,3763,1.0,1337,a,2026-01-02
-193,Bashir Humphreys,Humphreys,Burnley,3.9,0.1,191,94,1.7,167,a,2026-01-02
-194,Jordan Beyer,Jordan,Burnley,3.9,0.1,22,25,0.0,0,i,2026-01-02
-195,Lucas Pires Silva,Lucas Pires,Burnley,3.8,0.2,607,425,1.0,321,a,2026-01-02
-196,Shurandy Sambo,Sambo,Burnley,4.0,0.0,0,13,0.0,0,u,2026-01-02
-197,Oliver Sonne,Sonne,Burnley,3.8,0.3,566,808,1.3,128,a,2026-01-02
-198,Axel Tuanzebe,Tuanzebe,Burnley,3.9,1.1,48,1709,0.2,706,n,2026-01-02
-199,Joe Worrall,Worrall,Burnley,3.8,0.2,23,337,0.5,154,d,2026-01-02
-200,Jaidon Anthony,Anthony,Burnley,5.1,2.1,954,6241,1.0,1139,a,2026-01-02
+58,Boubacar Kamara,Kamara,Aston Villa,4.9,0.5,1396,4767,2.7,1239,a,2026-01-02
+59,Amadou Onana,Onana,Aston Villa,4.8,0.8,1938,4669,3.5,886,i,2026-01-02
+60,Ben Broggio,Broggio,Aston Villa,4.5,0.3,367,484,0.0,0,a,2026-01-02
+61,Leander Dendoncker,Dendoncker,Aston Villa,4.5,0.1,0,42,0.0,0,u,2026-01-02
+62,Jamaldeen Jimoh-Aloba,Jimoh-Aloba,Aston Villa,4.5,0.1,123,125,0.2,8,a,2026-01-02
+63,Kadan Young,Young,Aston Villa,4.3,0.6,2240,1751,0.0,0,a,2026-01-02
+64,Ollie Watkins,Watkins,Aston Villa,8.6,8.5,128460,12262,7.0,1389,a,2026-01-02
+65,Zépiqueno Redmond,Redmond,Aston Villa,4.5,0.3,0,129,0.0,0,u,2026-01-02
+389,Harvey Elliott,Elliott,Aston Villa,5.2,0.2,31,239,0.0,97,a,2026-01-02
+456,Jadon Sancho,Sancho,Aston Villa,5.8,0.2,883,315,0.7,217,a,2026-01-02
+677,Evann Guessand,Guessand,Aston Villa,6.2,0.0,16,101,1.5,511,n,2026-01-02
+688,James Wright,Wright,Aston Villa,3.9,0.6,749,1082,0.0,0,a,2026-01-02
+701,Triston Rowe,Rowe,Aston Villa,4.0,0.1,0,52,0.0,0,u,2026-01-02
+702,Bradley Burrowes,Burrowes,Aston Villa,4.4,0.1,53,93,0.0,16,a,2026-01-02
+703,Sam Proctor,Proctor,Aston Villa,3.9,0.6,4373,2300,0.0,0,a,2026-01-02
+710,Travis Patterson,Patterson,Aston Villa,3.9,0.2,75,332,0.0,0,a,2026-01-02
+719,Victor Lindelöf,Lindelöf,Aston Villa,4.5,0.1,1719,488,1.5,385,a,2026-01-02
+754,George Hemmings,George Hemmings,Aston Villa,4.5,0.0,43,27,0.2,8,a,2026-01-02
+757,Ronnie Hollingshead,Hollingshead,Aston Villa,4.0,0.0,39,34,0.0,0,a,2026-01-02
+768,Leon Routh,Leon Routh,Aston Villa,4.0,0.0,32,32,0.0,0,a,2026-01-02
+183,Max Weiß,Weiss,Burnley,4.3,0.1,109,152,0.0,0,a,2026-01-02
+184,Etienne Green,Green,Burnley,4.0,0.2,0,116,0.0,0,u,2026-01-02
+185,Václav Hladký,Hladký,Burnley,3.9,0.2,253,304,0.0,0,a,2026-01-02
+186,Connor Roberts,Roberts,Burnley,4.4,0.0,30,15,0.0,0,i,2026-01-02
+187,Kyle Walker,Walker,Burnley,4.4,1.2,1993,2188,1.7,1606,a,2026-01-02
+188,Hannes Delcroix,Delcroix,Burnley,3.8,0.3,242,559,0.0,0,a,2026-01-02
+189,Owen Dodgson,Dodgson,Burnley,4.0,0.0,0,3,0.0,0,u,2026-01-02
+190,Hjalmar Ekdal,Ekdal,Burnley,3.9,0.9,5307,2504,3.7,1073,a,2026-01-02
+191,Maxime Estève,Estève,Burnley,3.9,9.5,1624,33901,1.3,1446,i,2026-01-02
+192,Quilindschy Hartman,Hartman,Burnley,4.0,0.9,1864,4619,1.0,1337,a,2026-01-02
+193,Bashir Humphreys,Humphreys,Burnley,3.9,0.1,231,125,1.7,167,a,2026-01-02
+194,Jordan Beyer,Jordan,Burnley,3.9,0.1,26,31,0.0,0,i,2026-01-02
+195,Lucas Pires Silva,Lucas Pires,Burnley,3.8,0.2,734,541,1.0,321,a,2026-01-02
+196,Shurandy Sambo,Sambo,Burnley,4.0,0.0,0,15,0.0,0,u,2026-01-02
+197,Oliver Sonne,Sonne,Burnley,3.8,0.3,662,1011,1.3,128,a,2026-01-02
+198,Axel Tuanzebe,Tuanzebe,Burnley,3.9,1.1,67,2072,0.2,706,n,2026-01-02
+199,Joe Worrall,Worrall,Burnley,3.8,0.2,25,412,0.5,154,d,2026-01-02
+200,Jaidon Anthony,Anthony,Burnley,5.1,2.1,1168,7600,1.0,1139,a,2026-01-02
 201,Manuel Benson Hedilazio,Benson,Burnley,5.4,0.0,0,5,0.0,0,u,2026-01-02
-202,Jacob Bruun Larsen,Bruun Larsen,Burnley,5.3,0.0,92,154,2.0,799,a,2026-01-02
-203,Enock Agyei,Boateng,Burnley,4.7,0.0,79,57,0.0,0,a,2026-01-02
-204,Darko Churlinov,Churlinov,Burnley,4.9,0.0,0,4,0.0,0,u,2026-01-02
-205,Josh Cullen,Cullen,Burnley,5.0,1.5,98,17051,2.2,1513,i,2026-01-02
-206,Marcus Edwards,Edwards,Burnley,4.7,0.1,478,153,2.0,273,a,2026-01-02
-207,Hannibal Mejbri,Hannibal,Burnley,4.7,0.1,22,88,0.2,395,n,2026-01-02
-208,Luca Koleosho,Koleosho,Burnley,5.0,0.0,0,1,0.0,0,u,2026-01-02
-209,Josh Laurent,Laurent,Burnley,4.8,0.0,700,142,3.2,873,a,2026-01-02
-210,Loum Tchaouna,Tchaouna,Burnley,4.9,0.0,64,56,0.7,726,a,2026-01-02
-211,Aaron Ramsey,A.Ramsey,Burnley,4.4,1.5,0,753,0.0,0,u,2026-01-02
+202,Jacob Bruun Larsen,Bruun Larsen,Burnley,5.3,0.0,112,204,2.0,799,a,2026-01-02
+203,Enock Agyei,Boateng,Burnley,4.7,0.0,101,73,0.0,0,a,2026-01-02
+204,Darko Churlinov,Churlinov,Burnley,4.9,0.0,0,5,0.0,0,u,2026-01-02
+205,Josh Cullen,Cullen,Burnley,5.0,1.5,136,20631,2.2,1513,i,2026-01-02
+206,Marcus Edwards,Edwards,Burnley,4.7,0.1,580,204,2.0,273,a,2026-01-02
+207,Hannibal Mejbri,Hannibal,Burnley,4.7,0.1,26,101,0.2,395,n,2026-01-02
+208,Luca Koleosho,Koleosho,Burnley,5.0,0.0,0,2,0.0,0,u,2026-01-02
+209,Josh Laurent,Laurent,Burnley,4.8,0.0,872,179,3.2,873,a,2026-01-02
+210,Loum Tchaouna,Tchaouna,Burnley,4.9,0.0,77,76,0.7,726,a,2026-01-02
+211,Aaron Ramsey,A.Ramsey,Burnley,4.4,1.5,0,903,0.0,0,u,2026-01-02
 212,Oluwaseun Adewumi,Adewumi,Burnley,4.5,0.0,0,3,0.0,0,u,2026-01-02
-213,Jaydon Banel,Banel,Burnley,4.5,0.0,91,101,0.0,0,a,2026-01-02
-214,Mike Trésor Ndayishimiye,Trésor,Burnley,4.4,0.1,202,193,0.7,19,a,2026-01-02
-215,Zian Flemming,Flemming,Burnley,5.3,0.5,455,6220,1.5,660,d,2026-01-02
-216,Zeki Amdouni,Amdouni,Burnley,4.8,0.0,35,32,0.0,0,i,2026-01-02
-217,Lyle Foster,Foster,Burnley,4.9,0.8,112,2003,0.8,866,n,2026-01-02
-218,Ashley Barnes,Barnes,Burnley,4.2,1.2,6754,2687,0.2,9,a,2026-01-02
-219,Michael Obafemi,Obafemi,Burnley,4.4,0.1,0,45,0.0,0,u,2026-01-02
-470,Martin Dúbravka,Dúbravka,Burnley,4.0,33.5,22712,22278,3.5,1710,a,2026-01-02
-676,Lesley Ugochukwu,Ugochukwu,Burnley,5.0,0.1,776,704,3.5,1138,a,2026-01-02
-680,Armando Broja,Broja,Burnley,5.2,0.2,3693,1035,3.5,488,a,2026-01-02
-722,Florentino Ibrain Morris Luís,Florentino,Burnley,5.0,0.0,101,138,1.7,1133,a,2026-01-02
-776,Oliver Pimlott,Pimlott,Burnley,4.5,0.0,28,2,0.0,0,a,2026-01-02
-66,Norberto Murara Neto,Neto,Bournemouth,4.5,0.1,0,25,0.0,0,u,2026-01-02
-67,Đorđe Petrović,Petrović,Bournemouth,4.5,5.0,1425,17367,2.0,1710,a,2026-01-02
-68,Will Dennis,Dennis,Bournemouth,4.0,0.9,207,580,0.0,0,a,2026-01-02
-69,Callan McKenna,McKenna,Bournemouth,3.9,0.2,1077,377,0.0,0,a,2026-01-02
-70,Alex Paulsen,Paulsen,Bournemouth,4.0,0.1,0,40,0.0,0,u,2026-01-02
-71,Illia Zabarnyi,Zabarnyi,Bournemouth,5.0,0.0,0,2,0.0,0,u,2026-01-02
-72,Marcos Senesi Barón,Senesi,Bournemouth,4.9,15.3,14713,54974,3.6,1578,a,2026-01-02
-73,Adam Smith,Smith,Bournemouth,4.4,0.2,134,285,1.8,522,a,2026-01-02
-74,Adrien Truffert,Truffert,Bournemouth,4.5,2.1,2659,9379,3.0,1668,a,2026-01-02
-75,Matai Akinmboni,Akinmboni,Bournemouth,3.8,0.2,164,210,0.0,0,d,2026-01-02
-76,Owen Bevan,Bevan,Bournemouth,3.8,0.2,301,169,0.0,0,a,2026-01-02
-77,James Hill,Hill,Bournemouth,3.9,0.6,492,726,1.0,392,a,2026-01-02
-78,Julián Araujo Zúñiga,J.Araujo,Bournemouth,3.8,0.7,492,940,0.0,0,a,2026-01-02
-79,Chris Mepham,Mepham,Bournemouth,4.0,0.1,0,39,0.0,0,u,2026-01-02
-80,Julio Soler Barreto,Soler,Bournemouth,4.0,0.2,323,306,0.2,34,a,2026-01-02
-81,Justin Kluivert,Kluivert,Bournemouth,7.0,0.8,3692,1775,3.4,841,a,2026-01-02
-82,Antoine Semenyo,Semenyo,Bournemouth,7.7,46.3,70449,96472,6.6,1620,a,2026-01-02
-84,Marcus Tavernier,Tavernier,Bournemouth,5.6,2.7,5354,18702,4.6,1516,a,2026-01-02
-85,Tyler Adams,Adams,Bournemouth,5.0,0.3,23,773,0.2,1196,i,2026-01-02
-86,David Brooks,Brooks,Bournemouth,5.0,0.2,1327,350,3.0,840,a,2026-01-02
-87,Ryan Christie,Christie,Bournemouth,4.9,0.1,118,84,0.2,287,i,2026-01-02
-88,Lewis Cook,Cook,Bournemouth,4.9,0.0,42,182,1.6,394,d,2026-01-02
-89,Philip Billing,Philip,Bournemouth,4.9,0.0,0,3,0.0,0,u,2026-01-02
-90,Alex Scott,Scott,Bournemouth,5.0,0.2,462,665,3.0,1245,a,2026-01-02
-91,Luis Sinisterra Lucumí,Sinisterra,Bournemouth,5.0,0.0,0,3,0.0,0,u,2026-01-02
-92,Romain Faivre,Faivre,Bournemouth,4.5,0.1,0,28,0.0,0,u,2026-01-02
-93,Hamed Traorè,H.Traorè,Bournemouth,4.5,0.3,0,166,0.0,16,u,2026-01-02
-94,Dominic Sadi,Sadi,Bournemouth,4.5,0.0,0,13,0.0,0,u,2026-01-02
-95,Zain Silcott-Duberry,Silcott-Duberry,Bournemouth,4.4,0.1,0,57,0.0,0,u,2026-01-02
-96,Ben Winterburn,Winterburn,Bournemouth,4.5,0.0,0,20,0.0,6,u,2026-01-02
-97,Francisco Evanilson de Lima Barbosa,Evanilson,Bournemouth,7.0,1.5,1571,7125,2.6,1270,a,2026-01-02
-98,Enes Ünal,Enes Ünal,Bournemouth,5.4,0.0,177,194,0.6,69,a,2026-01-02
-99,Daniel Adu-Adjei,Adu-Adjei,Bournemouth,4.4,0.1,0,87,0.0,0,u,2026-01-02
-100,Junior Kroupi,Kroupi.Jr,Bournemouth,4.6,3.9,9436,16539,1.4,489,a,2026-01-02
-391,Ben Gannon-Doak,Gannon-Doak,Bournemouth,4.8,0.0,4,21,0.0,53,i,2026-01-02
-685,Bafodé Diakité,Diakité,Bournemouth,4.4,0.4,228,1279,1.6,1260,a,2026-01-02
-687,Remy Rees-Dottin,Rees-Dottin,Bournemouth,4.4,0.1,44,113,0.0,0,a,2026-01-02
-697,Amine Adli,Adli,Bournemouth,5.4,0.0,68,117,0.8,403,a,2026-01-02
-713,Álex Jiménez Sánchez,A.Jimenez,Bournemouth,4.5,0.1,337,406,3.4,977,a,2026-01-02
-721,Veljko Milosavljevic,Milosavljević,Bournemouth,4.4,0.0,85,40,0.0,365,i,2026-01-02
-756,Malcom DaCosta,DaCosta,Bournemouth,4.5,0.0,41,37,0.0,0,a,2026-01-02
-27,Reiss Nelson,Nelson,Brentford,4.8,0.1,123,72,0.3,42,a,2026-01-02
-83,Dango Ouattara,O.Dango,Brentford,5.8,0.4,22,3113,1.3,1061,n,2026-01-02
-101,Caoimhín Kelleher,Kelleher,Brentford,4.5,8.6,20504,10513,5.0,1710,a,2026-01-02
-102,Ellery Balcombe,Balcombe,Brentford,3.9,0.3,338,167,0.0,0,a,2026-01-02
-103,Matthew Cox,Cox,Brentford,3.9,0.2,171,198,0.0,0,a,2026-01-02
-104,Julian Eyestone,Eyestone,Brentford,3.9,0.1,84,186,0.0,0,a,2026-01-02
-105,Hákon Rafn Valdimarsson,Valdimarsson,Brentford,3.9,0.7,272,491,0.0,0,a,2026-01-02
-106,Nathan Collins,Collins,Brentford,4.9,1.5,4007,3459,4.8,1636,a,2026-01-02
-107,Keane Lewis-Potter,Lewis-Potter,Brentford,4.9,2.1,26233,8411,6.2,818,a,2026-01-02
-108,Kristoffer Ajer,Ajer,Brentford,4.4,0.2,429,201,2.3,791,a,2026-01-02
-109,Rico Henry,Henry,Brentford,4.3,0.1,498,206,3.3,608,a,2026-01-02
-110,Michael Kayode,Kayode,Brentford,4.5,0.7,2401,2052,3.3,1657,a,2026-01-02
-111,Ethan Pinnock,Pinnock,Brentford,4.2,0.1,145,169,0.7,228,a,2026-01-02
+213,Jaydon Banel,Banel,Burnley,4.5,0.0,111,115,0.0,0,a,2026-01-02
+214,Mike Trésor Ndayishimiye,Trésor,Burnley,4.4,0.1,243,237,0.7,19,a,2026-01-02
+215,Zian Flemming,Flemming,Burnley,5.3,0.5,499,7732,1.5,660,d,2026-01-02
+216,Zeki Amdouni,Amdouni,Burnley,4.8,0.0,36,37,0.0,0,i,2026-01-02
+217,Lyle Foster,Foster,Burnley,4.9,0.8,148,2434,0.8,866,n,2026-01-02
+218,Ashley Barnes,Barnes,Burnley,4.2,1.2,8582,3411,0.2,9,a,2026-01-02
+219,Michael Obafemi,Obafemi,Burnley,4.4,0.1,0,54,0.0,0,u,2026-01-02
+470,Martin Dúbravka,Dúbravka,Burnley,4.0,33.5,27649,27634,3.5,1710,a,2026-01-02
+676,Lesley Ugochukwu,Ugochukwu,Burnley,5.0,0.1,1014,906,3.5,1138,a,2026-01-02
+680,Armando Broja,Broja,Burnley,5.2,0.2,4618,1310,3.5,488,a,2026-01-02
+722,Florentino Ibrain Morris Luís,Florentino,Burnley,5.0,0.0,127,176,1.7,1133,a,2026-01-02
+776,Oliver Pimlott,Pimlott,Burnley,4.5,0.0,34,2,0.0,0,a,2026-01-02
+66,Norberto Murara Neto,Neto,Bournemouth,4.5,0.1,0,27,0.0,0,u,2026-01-02
+67,Đorđe Petrović,Petrović,Bournemouth,4.5,5.0,1743,21395,2.0,1710,a,2026-01-02
+68,Will Dennis,Dennis,Bournemouth,4.0,0.9,243,772,0.0,0,i,2026-01-02
+69,Callan McKenna,McKenna,Bournemouth,3.9,0.2,1254,445,0.0,0,a,2026-01-02
+70,Alex Paulsen,Paulsen,Bournemouth,4.0,0.1,0,43,0.0,0,u,2026-01-02
+71,Illia Zabarnyi,Zabarnyi,Bournemouth,5.0,0.0,0,3,0.0,0,u,2026-01-02
+72,Marcos Senesi Barón,Senesi,Bournemouth,4.9,15.2,17031,69557,3.6,1578,a,2026-01-02
+73,Adam Smith,Smith,Bournemouth,4.4,0.2,168,341,1.8,522,a,2026-01-02
+74,Adrien Truffert,Truffert,Bournemouth,4.5,2.0,3097,11763,3.0,1668,a,2026-01-02
+75,Matai Akinmboni,Akinmboni,Bournemouth,3.8,0.2,187,242,0.0,0,d,2026-01-02
+76,Owen Bevan,Bevan,Bournemouth,3.8,0.2,372,201,0.0,0,a,2026-01-02
+77,James Hill,Hill,Bournemouth,3.9,0.6,586,900,1.0,392,a,2026-01-02
+78,Julián Araujo Zúñiga,J.Araujo,Bournemouth,3.8,0.7,566,1158,0.0,0,u,2026-01-02
+79,Chris Mepham,Mepham,Bournemouth,4.0,0.1,0,48,0.0,0,u,2026-01-02
+80,Julio Soler Barreto,Soler,Bournemouth,4.0,0.2,382,382,0.2,34,a,2026-01-02
+81,Justin Kluivert,Kluivert,Bournemouth,7.0,0.8,4343,2207,3.4,841,a,2026-01-02
+82,Antoine Semenyo,Semenyo,Bournemouth,7.7,46.1,82985,124904,6.6,1620,a,2026-01-02
+84,Marcus Tavernier,Tavernier,Bournemouth,5.6,2.7,6556,23734,4.6,1516,a,2026-01-02
+85,Tyler Adams,Adams,Bournemouth,5.0,0.3,29,923,0.2,1196,i,2026-01-02
+86,David Brooks,Brooks,Bournemouth,5.0,0.2,1598,442,3.0,840,a,2026-01-02
+87,Ryan Christie,Christie,Bournemouth,4.9,0.1,119,125,0.2,287,i,2026-01-02
+88,Lewis Cook,Cook,Bournemouth,4.9,0.0,46,211,1.6,394,d,2026-01-02
+89,Philip Billing,Philip,Bournemouth,4.9,0.0,0,4,0.0,0,u,2026-01-02
+90,Alex Scott,Scott,Bournemouth,5.0,0.2,555,804,3.0,1245,a,2026-01-02
+91,Luis Sinisterra Lucumí,Sinisterra,Bournemouth,5.0,0.0,0,4,0.0,0,u,2026-01-02
+92,Romain Faivre,Faivre,Bournemouth,4.5,0.1,0,31,0.0,0,u,2026-01-02
+93,Hamed Traorè,H.Traorè,Bournemouth,4.5,0.3,0,192,0.0,16,u,2026-01-02
+94,Dominic Sadi,Sadi,Bournemouth,4.5,0.0,0,17,0.0,0,u,2026-01-02
+95,Zain Silcott-Duberry,Silcott-Duberry,Bournemouth,4.4,0.1,0,77,0.0,0,u,2026-01-02
+96,Ben Winterburn,Winterburn,Bournemouth,4.5,0.0,0,22,0.0,6,u,2026-01-02
+97,Francisco Evanilson de Lima Barbosa,Evanilson,Bournemouth,7.0,1.5,1965,9151,2.6,1270,a,2026-01-02
+98,Enes Ünal,Enes Ünal,Bournemouth,5.4,0.0,227,248,0.6,69,a,2026-01-02
+99,Daniel Adu-Adjei,Adu-Adjei,Bournemouth,4.4,0.1,0,96,0.0,0,u,2026-01-02
+100,Junior Kroupi,Kroupi.Jr,Bournemouth,4.6,3.9,11602,20511,1.4,489,a,2026-01-02
+391,Ben Gannon-Doak,Gannon-Doak,Bournemouth,4.8,0.0,4,23,0.0,53,i,2026-01-02
+685,Bafodé Diakité,Diakité,Bournemouth,4.4,0.4,269,1593,1.6,1260,a,2026-01-02
+687,Remy Rees-Dottin,Rees-Dottin,Bournemouth,4.4,0.1,58,142,0.0,0,a,2026-01-02
+697,Amine Adli,Adli,Bournemouth,5.4,0.0,79,135,0.8,403,a,2026-01-02
+713,Álex Jiménez Sánchez,A.Jimenez,Bournemouth,4.5,0.1,403,525,3.4,977,a,2026-01-02
+721,Veljko Milosavljevic,Milosavljević,Bournemouth,4.4,0.0,115,46,0.0,365,i,2026-01-02
+756,Malcom DaCosta,DaCosta,Bournemouth,4.5,0.0,55,45,0.0,0,a,2026-01-02
+27,Reiss Nelson,Nelson,Brentford,4.8,0.1,146,89,0.3,42,a,2026-01-02
+83,Dango Ouattara,O.Dango,Brentford,5.8,0.4,29,3837,1.3,1061,n,2026-01-02
+101,Caoimhín Kelleher,Kelleher,Brentford,4.5,8.6,24921,12994,5.0,1710,a,2026-01-02
+102,Ellery Balcombe,Balcombe,Brentford,3.9,0.3,407,211,0.0,0,a,2026-01-02
+103,Matthew Cox,Cox,Brentford,3.9,0.2,197,242,0.0,0,a,2026-01-02
+104,Julian Eyestone,Eyestone,Brentford,3.9,0.1,96,221,0.0,0,a,2026-01-02
+105,Hákon Rafn Valdimarsson,Valdimarsson,Brentford,3.9,0.7,315,621,0.0,0,a,2026-01-02
+106,Nathan Collins,Collins,Brentford,4.9,1.5,5341,4265,4.8,1636,a,2026-01-02
+107,Keane Lewis-Potter,Lewis-Potter,Brentford,4.9,2.2,32856,10558,6.2,818,a,2026-01-02
+108,Kristoffer Ajer,Ajer,Brentford,4.4,0.2,538,255,2.3,791,a,2026-01-02
+109,Rico Henry,Henry,Brentford,4.3,0.1,635,248,3.3,608,a,2026-01-02
+110,Michael Kayode,Kayode,Brentford,4.5,0.7,2981,2515,3.3,1657,a,2026-01-02
+111,Ethan Pinnock,Pinnock,Brentford,4.2,0.1,162,203,0.7,228,a,2026-01-02
 112,Mads Roerslev Rasmussen,Roerslev,Brentford,4.5,0.0,0,6,0.0,0,u,2026-01-02
-113,Sepp van den Berg,Van den Berg,Brentford,4.5,1.0,436,5453,2.2,1530,a,2026-01-02
-114,Benjamin Arthur,Arthur,Brentford,3.9,0.2,72,181,0.0,0,a,2026-01-02
-115,Benjamin Fredrick,Fredrick,Brentford,4.0,0.1,0,36,0.0,0,u,2026-01-02
-116,Aaron Hickey,Hickey,Brentford,4.0,0.5,673,1348,1.3,423,a,2026-01-02
-117,Kim Ji-soo,Ji-soo,Brentford,3.9,0.1,0,32,0.0,0,u,2026-01-02
-118,Jayden Meghoma,Meghoma,Brentford,4.0,0.0,0,12,0.0,0,u,2026-01-02
-120,Kevin Schade,Schade,Brentford,7.0,1.9,34689,11119,4.7,1492,a,2026-01-02
-121,Mikkel Damsgaard,Damsgaard,Brentford,5.8,0.6,706,1920,2.0,1041,a,2026-01-02
-122,Antoni Milambo,Milambo,Brentford,5.2,0.0,7,12,0.0,45,i,2026-01-02
-123,Fábio Freitas Gouveia Carvalho,Carvalho,Brentford,4.7,0.1,11,117,0.0,100,i,2026-01-02
-124,Jordan Henderson,Henderson,Brentford,5.0,0.5,957,1745,2.8,1309,a,2026-01-02
-125,Vitaly Janelt,Janelt,Brentford,4.9,0.0,633,205,4.0,578,a,2026-01-02
-126,Mathias Jensen,Jensen,Brentford,4.9,0.1,124,166,1.8,626,a,2026-01-02
-127,Gustavo Nunes Fernandes Gomes,Nunes,Brentford,4.9,0.0,38,31,0.0,0,a,2026-01-02
-128,Frank Onyeka,Onyeka,Brentford,4.8,0.0,5,44,0.0,88,n,2026-01-02
-129,Yehor Yarmoliuk,Yarmoliuk,Brentford,5.0,0.1,211,112,3.0,1384,a,2026-01-02
-130,Romelle Donovan,Donovan,Brentford,4.4,0.1,169,163,0.0,0,a,2026-01-02
-131,Yunus Emre Konak,Konak,Brentford,4.3,0.2,550,548,0.0,0,a,2026-01-02
-132,Paris Maghoma,Maghoma,Brentford,4.5,0.0,128,79,0.0,0,a,2026-01-02
-133,Myles Peart-Harris,Peart-Harris,Brentford,4.4,0.0,52,66,0.0,0,a,2026-01-02
-134,Ryan Trevitt,Trevitt,Brentford,4.5,0.0,0,2,0.0,0,u,2026-01-02
-136,Igor Thiago Nascimento Rodrigues,Thiago,Brentford,7.0,27.3,27198,134493,2.3,1581,a,2026-01-02
-137,Iwan Morgan,Morgan,Brentford,4.4,0.4,427,593,0.0,0,a,2026-01-02
-748,Josh Dasilva,Dasilva,Brentford,4.9,0.0,1,3,0.0,0,i,2026-01-02
-138,Jason Steele,Steele,Brighton,4.2,0.2,87,186,0.0,0,a,2026-01-02
-139,Bart Verbruggen,Verbruggen,Brighton,4.5,5.8,18162,9548,3.0,1710,a,2026-01-02
-140,Tom McGill,McGill,Brighton,3.9,0.3,223,291,0.0,0,a,2026-01-02
+113,Sepp van den Berg,Van den Berg,Brentford,4.5,1.0,637,6588,2.2,1530,a,2026-01-02
+114,Benjamin Arthur,Arthur,Brentford,3.9,0.2,93,229,0.0,0,a,2026-01-02
+115,Benjamin Fredrick,Fredrick,Brentford,4.0,0.1,0,41,0.0,0,u,2026-01-02
+116,Aaron Hickey,Hickey,Brentford,4.0,0.5,774,1691,1.3,423,a,2026-01-02
+117,Kim Ji-soo,Ji-soo,Brentford,3.9,0.1,0,41,0.0,0,u,2026-01-02
+118,Jayden Meghoma,Meghoma,Brentford,4.0,0.0,0,14,0.0,0,u,2026-01-02
+120,Kevin Schade,Schade,Brentford,7.0,2.0,41835,14108,4.7,1492,a,2026-01-02
+121,Mikkel Damsgaard,Damsgaard,Brentford,5.8,0.6,829,2423,2.0,1041,a,2026-01-02
+122,Antoni Milambo,Milambo,Brentford,5.2,0.0,8,14,0.0,45,i,2026-01-02
+123,Fábio Freitas Gouveia Carvalho,Carvalho,Brentford,4.7,0.1,11,133,0.0,100,i,2026-01-02
+124,Jordan Henderson,Henderson,Brentford,5.0,0.5,1138,2176,2.8,1309,a,2026-01-02
+125,Vitaly Janelt,Janelt,Brentford,4.9,0.0,836,274,4.0,578,a,2026-01-02
+126,Mathias Jensen,Jensen,Brentford,4.9,0.1,150,214,1.8,626,a,2026-01-02
+127,Gustavo Nunes Fernandes Gomes,Nunes,Brentford,4.9,0.0,44,38,0.0,0,a,2026-01-02
+128,Frank Onyeka,Onyeka,Brentford,4.8,0.0,5,52,0.0,88,n,2026-01-02
+129,Yehor Yarmoliuk,Yarmoliuk,Brentford,5.0,0.1,288,143,3.0,1384,a,2026-01-02
+130,Romelle Donovan,Donovan,Brentford,4.4,0.1,198,191,0.0,0,a,2026-01-02
+131,Yunus Emre Konak,Konak,Brentford,4.3,0.2,685,676,0.0,0,a,2026-01-02
+132,Paris Maghoma,Maghoma,Brentford,4.5,0.0,161,100,0.0,0,a,2026-01-02
+133,Myles Peart-Harris,Peart-Harris,Brentford,4.4,0.0,63,75,0.0,0,a,2026-01-02
+134,Ryan Trevitt,Trevitt,Brentford,4.5,0.0,0,3,0.0,0,u,2026-01-02
+136,Igor Thiago Nascimento Rodrigues,Thiago,Brentford,7.0,27.0,32656,173583,2.3,1581,a,2026-01-02
+137,Iwan Morgan,Morgan,Brentford,4.4,0.4,525,739,0.0,0,u,2026-01-02
+748,Josh Dasilva,Dasilva,Brentford,4.9,0.0,2,3,0.0,0,i,2026-01-02
+138,Jason Steele,Steele,Brighton,4.2,0.2,120,235,0.0,0,a,2026-01-02
+139,Bart Verbruggen,Verbruggen,Brighton,4.5,5.8,24088,11782,3.0,1710,a,2026-01-02
+140,Tom McGill,McGill,Brighton,3.9,0.3,262,350,0.0,0,a,2026-01-02
 141,Carl Rushworth,Rushworth,Brighton,4.0,0.0,0,0,0.0,0,u,2026-01-02
 142,Kjell Scherpen,Scherpen,Brighton,4.0,0.0,0,0,0.0,0,u,2026-01-02
-143,Olivier Boscagli,Boscagli,Brighton,4.2,0.1,51,104,1.5,142,a,2026-01-02
-144,Diego Coppola,Coppola,Brighton,4.2,0.1,40,96,1.2,193,a,2026-01-02
-145,Maxim De Cuyper,De Cuyper,Brighton,4.3,2.4,4177,7136,2.5,865,a,2026-01-02
-146,Lewis Dunk,Dunk,Brighton,4.5,0.9,3839,1413,0.5,1575,a,2026-01-02
+143,Olivier Boscagli,Boscagli,Brighton,4.2,0.1,62,125,1.5,142,a,2026-01-02
+144,Diego Coppola,Coppola,Brighton,4.2,0.1,50,109,1.2,193,a,2026-01-02
+145,Maxim De Cuyper,De Cuyper,Brighton,4.3,2.4,5102,8717,2.5,865,a,2026-01-02
+146,Lewis Dunk,Dunk,Brighton,4.5,0.9,4872,1778,0.5,1575,a,2026-01-02
 147,Pervis Estupiñán Tenorio,Estupiñan,Brighton,4.5,0.0,0,1,0.0,0,u,2026-01-02
-148,Ferdi Kadıoğlu,F.Kadıoğlu,Brighton,4.4,0.3,3894,891,2.3,1422,a,2026-01-02
-150,Tariq Lamptey,Lamptey,Brighton,4.4,0.1,0,22,0.0,0,u,2026-01-02
-151,Jan Paul van Hecke,Van Hecke,Brighton,4.5,4.3,25770,18389,3.5,1620,a,2026-01-02
-152,Joël Veltman,Veltman,Brighton,4.3,0.1,2908,340,2.0,493,a,2026-01-02
-153,Adam Webster,Webster,Brighton,4.4,0.0,14,13,0.0,0,i,2026-01-02
+148,Ferdi Kadıoğlu,F.Kadıoğlu,Brighton,4.4,0.3,5063,1142,2.3,1422,a,2026-01-02
+150,Tariq Lamptey,Lamptey,Brighton,4.4,0.1,0,28,0.0,0,u,2026-01-02
+151,Jan Paul van Hecke,Van Hecke,Brighton,4.5,4.4,34715,22318,3.5,1620,a,2026-01-02
+152,Joël Veltman,Veltman,Brighton,4.3,0.1,3632,444,2.0,493,a,2026-01-02
+153,Adam Webster,Webster,Brighton,4.4,0.0,20,15,0.0,0,i,2026-01-02
 154,Eiran Cashin,Cashin,Brighton,4.0,0.0,0,1,0.0,0,u,2026-01-02
-155,Jacob Slater,Slater,Brighton,4.0,0.1,0,46,0.0,0,u,2026-01-02
-156,Charlie Tasker,Tasker,Brighton,3.8,0.1,209,140,0.0,0,a,2026-01-02
-157,Mitoma Kaoru,Mitoma,Brighton,6.1,1.8,5365,1729,0.5,592,a,2026-01-02
-158,Georginio Rutter,Georginio,Brighton,5.6,0.4,3837,2343,2.3,1190,a,2026-01-02
-159,Solly March,March,Brighton,5.8,0.0,11,12,0.0,0,d,2026-01-02
-160,Yankuba Minteh,Minteh,Brighton,6.0,6.0,9252,50193,2.5,1543,d,2026-01-02
+155,Jacob Slater,Slater,Brighton,4.0,0.1,0,52,0.0,0,u,2026-01-02
+156,Charlie Tasker,Tasker,Brighton,3.8,0.1,244,176,0.0,0,a,2026-01-02
+157,Mitoma Kaoru,Mitoma,Brighton,6.1,1.8,7583,2300,0.5,592,a,2026-01-02
+158,Georginio Rutter,Georginio,Brighton,5.6,0.5,6865,3036,2.3,1190,a,2026-01-02
+159,Solly March,March,Brighton,5.8,0.0,12,13,0.0,0,d,2026-01-02
+160,Yankuba Minteh,Minteh,Brighton,6.0,5.9,10707,63111,2.5,1543,d,2026-01-02
 161,Julio Enciso Espínola,Enciso,Brighton,5.4,0.0,0,1,0.0,0,u,2026-01-02
-162,Brajan Gruda,Gruda,Brighton,5.4,0.1,245,170,1.5,544,a,2026-01-02
-163,Jack Hinshelwood,Hinshelwood,Brighton,5.1,0.1,328,279,2.8,500,a,2026-01-02
-164,Matt O'Riley,O'Riley,Brighton,5.5,0.3,0,75,0.0,177,u,2026-01-02
+162,Brajan Gruda,Gruda,Brighton,5.4,0.1,332,214,1.5,544,a,2026-01-02
+163,Jack Hinshelwood,Hinshelwood,Brighton,5.1,0.1,430,353,2.8,500,a,2026-01-02
+164,Matt O'Riley,O'Riley,Brighton,5.5,0.3,0,89,0.0,177,u,2026-01-02
 165,Abdallah Sima,Sima,Brighton,5.4,0.0,0,4,0.0,0,u,2026-01-02
-166,Yasin Ayari,Ayari,Brighton,4.8,0.2,2322,602,2.2,1347,a,2026-01-02
-167,Carlos Baleba,Baleba,Brighton,4.6,1.4,156,1813,1.2,894,n,2026-01-02
-169,Diego Gómez Amarilla,Gomez,Brighton,4.9,0.2,3246,1161,2.5,1113,a,2026-01-02
-170,James Milner,Milner,Brighton,4.9,0.1,169,85,0.5,280,a,2026-01-02
+166,Yasin Ayari,Ayari,Brighton,4.8,0.2,2988,773,2.2,1347,a,2026-01-02
+167,Carlos Baleba,Baleba,Brighton,4.6,1.4,185,2189,1.2,894,n,2026-01-02
+169,Diego Gómez Amarilla,Gomez,Brighton,4.9,0.2,4264,1505,2.5,1113,a,2026-01-02
+170,James Milner,Milner,Brighton,4.9,0.1,198,114,0.5,280,a,2026-01-02
 171,Jeremy Sarmiento Morante,Sarmiento,Brighton,4.9,0.0,0,1,0.0,0,u,2026-01-02
-172,Tom Watson,Watson,Brighton,4.8,0.0,38,43,0.3,47,a,2026-01-02
-173,Mats Wieffer,Wieffer,Brighton,4.9,0.3,167,2733,2.3,1179,i,2026-01-02
+172,Tom Watson,Watson,Brighton,4.8,0.0,59,59,0.3,47,a,2026-01-02
+173,Mats Wieffer,Wieffer,Brighton,4.9,0.3,170,3964,2.3,1179,i,2026-01-02
 174,Malick Yalcouyé,Yalcouye,Brighton,5.0,0.0,0,0,0.0,0,u,2026-01-02
-175,Joe Knight,Knight,Brighton,4.4,0.1,84,120,0.0,1,a,2026-01-02
-176,Adrian Mazilu,Mazilu,Brighton,4.5,0.0,0,5,0.0,0,u,2026-01-02
-177,Andrew Moran,Moran,Brighton,4.5,0.0,0,6,0.0,0,u,2026-01-02
-178,Danny Welbeck,Welbeck,Brighton,6.3,4.8,27897,14636,1.3,1081,a,2026-01-02
+175,Joe Knight,Knight,Brighton,4.4,0.1,102,158,0.0,1,a,2026-01-02
+176,Adrian Mazilu,Mazilu,Brighton,4.5,0.0,0,6,0.0,0,u,2026-01-02
+177,Andrew Moran,Moran,Brighton,4.5,0.0,0,7,0.0,0,u,2026-01-02
+178,Danny Welbeck,Welbeck,Brighton,6.3,4.8,36112,18095,1.3,1081,a,2026-01-02
 179,Evan Ferguson,Ferguson,Brighton,5.5,0.0,0,0,0.0,0,u,2026-01-02
-180,Stefanos Tzimas,Tzimas,Brighton,5.2,0.1,16,80,0.2,132,i,2026-01-02
-181,Charalampos Kostoulas,Kostoulas,Brighton,4.8,0.3,347,685,0.8,97,a,2026-01-02
-744,Nehemiah Oriola,Oriola,Brighton,4.5,0.0,47,41,0.0,1,a,2026-01-02
-761,Freddie Simmonds,Simmonds,Brighton,4.0,0.0,47,49,0.0,0,a,2026-01-02
-168,Facundo Buonanotte,Buonanotte,Chelsea,4.6,0.1,178,126,0.0,45,a,2026-01-02
-220,Robert Lynch Sánchez,Sánchez,Chelsea,4.9,14.7,11795,36674,4.3,1624,a,2026-01-02
-221,Filip Jörgensen,Jörgensen,Chelsea,4.3,0.2,66,138,0.0,84,a,2026-01-02
+180,Stefanos Tzimas,Tzimas,Brighton,5.2,0.1,19,100,0.2,132,i,2026-01-02
+181,Charalampos Kostoulas,Kostoulas,Brighton,4.8,0.3,440,836,0.8,97,a,2026-01-02
+744,Nehemiah Oriola,Oriola,Brighton,4.5,0.0,64,45,0.0,1,a,2026-01-02
+761,Freddie Simmonds,Simmonds,Brighton,4.0,0.0,51,56,0.0,0,a,2026-01-02
+168,Facundo Buonanotte,Buonanotte,Chelsea,4.6,0.1,211,145,0.0,45,a,2026-01-02
+220,Robert Lynch Sánchez,Sánchez,Chelsea,4.9,14.7,13531,45923,4.3,1624,a,2026-01-02
+221,Filip Jörgensen,Jörgensen,Chelsea,4.3,0.2,79,158,0.0,84,a,2026-01-02
 222,Mike Penders,Penders,Chelsea,4.0,0.0,0,0,0.0,0,u,2026-01-02
-223,Gabriel Słonina,Slonina,Chelsea,3.9,0.1,93,110,0.0,0,a,2026-01-02
-224,Marc Cucurella Saseta,Cucurella,Chelsea,6.1,18.9,863,143728,2.7,1504,d,2026-01-02
-225,Reece James,James,Chelsea,5.7,11.2,27772,50751,4.3,1246,a,2026-01-02
-226,Trevoh Chalobah,Chalobah,Chelsea,5.6,18.7,22398,131446,4.2,1560,a,2026-01-02
-227,Levi Samuels Colwill,Colwill,Chelsea,4.8,0.1,12,24,0.0,0,i,2026-01-02
-228,Malo Gusto,Gusto,Chelsea,5.0,2.5,4903,17878,4.5,1051,a,2026-01-02
-229,Benoît Badiashile Mukinayi,B.Badiashile,Chelsea,4.4,0.0,45,74,0.2,245,a,2026-01-02
-230,Wesley Fofana,Fofana,Chelsea,4.4,0.5,2706,3555,3.7,757,a,2026-01-02
+223,Gabriel Słonina,Slonina,Chelsea,3.9,0.1,108,127,0.0,0,a,2026-01-02
+224,Marc Cucurella Saseta,Cucurella,Chelsea,6.1,18.7,970,170643,2.7,1504,d,2026-01-02
+225,Reece James,James,Chelsea,5.7,11.1,31856,62207,4.3,1246,a,2026-01-02
+226,Trevoh Chalobah,Chalobah,Chelsea,5.6,18.5,25494,160434,4.2,1560,a,2026-01-02
+227,Levi Samuels Colwill,Colwill,Chelsea,4.8,0.1,13,31,0.0,0,i,2026-01-02
+228,Malo Gusto,Gusto,Chelsea,5.0,2.4,5498,21525,4.5,1051,a,2026-01-02
+229,Benoît Badiashile Mukinayi,B.Badiashile,Chelsea,4.4,0.0,52,85,0.2,245,a,2026-01-02
+230,Wesley Fofana,Fofana,Chelsea,4.4,0.5,2989,4236,3.7,757,a,2026-01-02
 231,Mamadou Sarr,M.Sarr,Chelsea,4.5,0.0,0,0,0.0,0,u,2026-01-02
-232,Tosin Adarabioyo,Tosin,Chelsea,4.1,0.3,502,687,0.5,557,a,2026-01-02
-233,Josh Acheampong,Acheampong,Chelsea,3.8,1.3,1646,2528,0.0,393,a,2026-01-02
-234,Aarón Anselmino,Anselmino,Chelsea,4.0,0.1,0,13,0.0,0,u,2026-01-02
-235,Cole Palmer,Palmer,Chelsea,10.4,12.0,34236,19739,3.7,499,a,2026-01-02
-236,Pedro Lomba Neto,Neto,Chelsea,7.3,8.1,6348,79297,3.2,1459,a,2026-01-02
-237,Enzo Fernández,Enzo,Chelsea,6.4,9.2,24162,19369,3.2,1546,a,2026-01-02
-238,Estêvão Almeida de Oliveira Gonçalves,Estêvão,Chelsea,6.4,1.9,5415,2802,1.3,557,a,2026-01-02
-239,Jamie Bynoe-Gittens,Gittens,Chelsea,6.0,0.1,165,205,1.3,445,a,2026-01-02
-240,Christopher Nkunku,Nkunku,Chelsea,5.9,0.1,0,8,0.0,0,u,2026-01-02
-241,Moisés Caicedo Corozo,Caicedo,Chelsea,5.7,8.4,1799,46339,1.2,1252,s,2026-01-02
-243,Tyrique George,George,Chelsea,4.8,0.1,64,71,0.0,142,a,2026-01-02
-244,Roméo Lavia,Lavia,Chelsea,4.9,0.0,3,7,0.0,105,i,2026-01-02
-245,Mykhailo Mudryk,Mudryk,Chelsea,4.9,0.0,10,13,0.0,0,s,2026-01-02
-246,Andrey Nascimento dos Santos,Andrey Santos,Chelsea,4.5,0.3,512,659,0.7,439,a,2026-01-02
-247,Dário Luís Essugo,D.Essugo,Chelsea,4.3,0.1,43,73,0.0,0,i,2026-01-02
+232,Tosin Adarabioyo,Tosin,Chelsea,4.1,0.3,582,835,0.5,557,a,2026-01-02
+233,Josh Acheampong,Acheampong,Chelsea,3.8,1.3,1897,3092,0.0,393,a,2026-01-02
+234,Aarón Anselmino,Anselmino,Chelsea,4.0,0.1,0,15,0.0,0,u,2026-01-02
+235,Cole Palmer,Palmer,Chelsea,10.4,12.0,40020,24780,3.7,499,a,2026-01-02
+236,Pedro Lomba Neto,Neto,Chelsea,7.3,7.9,7383,96377,3.2,1459,a,2026-01-02
+237,Enzo Fernández,Enzo,Chelsea,6.4,9.2,27937,24939,3.2,1546,a,2026-01-02
+238,Estêvão Almeida de Oliveira Gonçalves,Estêvão,Chelsea,6.4,1.9,6348,3430,1.3,557,a,2026-01-02
+239,Jamie Bynoe-Gittens,Gittens,Chelsea,6.0,0.1,194,241,1.3,445,a,2026-01-02
+240,Christopher Nkunku,Nkunku,Chelsea,5.9,0.1,0,9,0.0,0,u,2026-01-02
+241,Moisés Caicedo Corozo,Caicedo,Chelsea,5.7,8.3,1899,55481,1.2,1252,s,2026-01-02
+243,Tyrique George,George,Chelsea,4.8,0.1,77,80,0.0,142,a,2026-01-02
+244,Roméo Lavia,Lavia,Chelsea,4.9,0.0,3,10,0.0,105,i,2026-01-02
+245,Mykhailo Mudryk,Mudryk,Chelsea,4.9,0.0,12,14,0.0,0,s,2026-01-02
+246,Andrey Nascimento dos Santos,Andrey Santos,Chelsea,4.5,0.3,625,803,0.7,439,a,2026-01-02
+247,Dário Luís Essugo,D.Essugo,Chelsea,4.3,0.1,50,88,0.0,0,i,2026-01-02
 248,Kendry Páez Andrade,Paez,Chelsea,4.5,0.0,0,1,0.0,0,u,2026-01-02
-249,João Pedro Junqueira de Jesus,João Pedro,Chelsea,7.2,28.2,7463,61780,3.3,1445,a,2026-01-02
-250,Liam Delap,Delap,Chelsea,6.2,0.9,520,482,0.8,453,a,2026-01-02
-251,Nicolas Jackson,N.Jackson,Chelsea,6.5,0.1,0,13,0.0,0,u,2026-01-02
-252,Marc Guiu Paz,Marc Guiu,Chelsea,4.3,7.2,7017,14226,0.2,247,a,2026-01-02
-453,Alejandro Garnacho Ferreyra,Garnacho,Chelsea,6.4,0.6,1246,2369,2.3,759,a,2026-01-02
-672,Jorrel Hato,Hato,Chelsea,4.6,0.2,5,263,0.0,166,d,2026-01-02
-743,Landon Emenalo,Emenalo,Chelsea,4.5,0.0,22,26,0.0,0,a,2026-01-02
-253,Dean Henderson,Henderson,Crystal Palace,5.1,8.4,2358,18370,2.8,1710,a,2026-01-02
-254,Walter Benítez,Benitez,Crystal Palace,4.0,0.3,172,226,0.0,0,a,2026-01-02
-255,Remi Matthews,Matthews,Crystal Palace,3.9,0.1,66,65,0.0,0,a,2026-01-02
-256,Daniel Muñoz Mejía,Muñoz,Crystal Palace,5.8,6.9,602,36899,2.3,1260,i,2026-01-02
-257,Maxence Lacroix,Lacroix,Crystal Palace,5.2,6.5,6213,36450,2.8,1710,a,2026-01-02
-258,Tyrick Mitchell,Mitchell,Crystal Palace,5.0,2.3,2577,6740,2.5,1704,a,2026-01-02
-259,Borna Sosa,Sosa,Crystal Palace,4.8,0.1,204,97,0.3,27,a,2026-01-02
-260,Marc Guéhi,Guéhi,Crystal Palace,5.3,41.3,33961,86476,4.7,1620,a,2026-01-02
-261,Chris Richards,Richards,Crystal Palace,4.5,2.6,848,26007,2.7,1522,d,2026-01-02
-262,Chadi Riad Dnanou,Chadi Riad,Crystal Palace,4.0,0.0,12,34,0.0,0,d,2026-01-02
-263,Nathaniel Clyne,Clyne,Crystal Palace,3.8,0.7,2574,1796,2.0,367,a,2026-01-02
-264,Rob Holding,Holding,Crystal Palace,4.0,0.0,0,1,0.0,0,u,2026-01-02
+249,João Pedro Junqueira de Jesus,João Pedro,Chelsea,7.2,28.1,8743,76791,3.3,1445,a,2026-01-02
+250,Liam Delap,Delap,Chelsea,6.2,0.9,594,553,0.8,453,a,2026-01-02
+251,Nicolas Jackson,N.Jackson,Chelsea,6.5,0.1,0,14,0.0,0,u,2026-01-02
+252,Marc Guiu Paz,Marc Guiu,Chelsea,4.3,7.2,8848,17478,0.2,247,a,2026-01-02
+453,Alejandro Garnacho Ferreyra,Garnacho,Chelsea,6.4,0.6,1408,2974,2.3,759,a,2026-01-02
+672,Jorrel Hato,Hato,Chelsea,4.6,0.2,7,296,0.0,166,d,2026-01-02
+743,Landon Emenalo,Emenalo,Chelsea,4.5,0.0,25,30,0.0,0,a,2026-01-02
+253,Dean Henderson,Henderson,Crystal Palace,5.1,8.3,2758,22726,2.8,1710,a,2026-01-02
+254,Walter Benítez,Benitez,Crystal Palace,4.0,0.3,205,278,0.0,0,a,2026-01-02
+255,Remi Matthews,Matthews,Crystal Palace,3.9,0.1,78,78,0.0,0,a,2026-01-02
+256,Daniel Muñoz Mejía,Muñoz,Crystal Palace,5.8,6.8,684,42361,2.3,1260,i,2026-01-02
+257,Maxence Lacroix,Lacroix,Crystal Palace,5.2,6.4,7130,44276,2.8,1710,a,2026-01-02
+258,Tyrick Mitchell,Mitchell,Crystal Palace,5.0,2.3,3062,8263,2.5,1704,a,2026-01-02
+259,Borna Sosa,Sosa,Crystal Palace,4.8,0.1,220,121,0.3,27,a,2026-01-02
+260,Marc Guéhi,Guéhi,Crystal Palace,5.3,41.2,39988,108154,4.7,1620,a,2026-01-02
+261,Chris Richards,Richards,Crystal Palace,4.5,2.5,972,32922,2.7,1522,d,2026-01-02
+262,Chadi Riad Dnanou,Chadi Riad,Crystal Palace,4.0,0.0,12,38,0.0,0,d,2026-01-02
+263,Nathaniel Clyne,Clyne,Crystal Palace,3.8,0.7,3434,2246,2.0,367,a,2026-01-02
+264,Rob Holding,Holding,Crystal Palace,4.0,0.0,0,3,0.0,0,u,2026-01-02
 265,Caleb Kporha,Kporha,Crystal Palace,4.0,0.0,6,10,0.0,0,i,2026-01-02
-267,Ismaïla Sarr,Sarr,Crystal Palace,6.4,2.1,53,3284,0.3,1009,n,2026-01-02
-268,Cheick Doucouré,Doucouré,Crystal Palace,4.9,0.0,3,4,0.0,0,i,2026-01-02
-269,Romain Esse,Esse,Crystal Palace,4.7,0.1,126,134,0.3,37,a,2026-01-02
-270,Will Hughes,Hughes,Crystal Palace,4.7,0.1,200,303,0.8,687,d,2026-01-02
-271,Daichi Kamada,Kamada,Crystal Palace,5.0,0.1,3,264,1.0,1166,i,2026-01-02
-272,Jefferson Lerma Solís,Lerma,Crystal Palace,4.9,0.1,129,104,1.7,714,a,2026-01-02
-273,Adam Wharton,Wharton,Crystal Palace,5.0,0.9,1982,3566,3.8,1388,a,2026-01-02
-274,Asher Agbinone,Agbinone,Crystal Palace,4.3,0.1,131,99,0.0,0,a,2026-01-02
-275,Naouirou Ahamada,Ahamada,Crystal Palace,4.3,0.0,113,89,0.0,0,a,2026-01-02
-276,Justin Devenny,Devenny,Crystal Palace,4.3,1.5,8478,3506,2.0,376,a,2026-01-02
+267,Ismaïla Sarr,Sarr,Crystal Palace,6.4,2.1,64,3990,0.3,1009,n,2026-01-02
+268,Cheick Doucouré,Doucouré,Crystal Palace,4.9,0.0,4,5,0.0,0,i,2026-01-02
+269,Romain Esse,Esse,Crystal Palace,4.7,0.1,159,162,0.3,37,a,2026-01-02
+270,Will Hughes,Hughes,Crystal Palace,4.7,0.1,206,401,0.8,687,d,2026-01-02
+271,Daichi Kamada,Kamada,Crystal Palace,5.0,0.1,5,313,1.0,1166,i,2026-01-02
+272,Jefferson Lerma Solís,Lerma,Crystal Palace,4.9,0.1,147,129,1.7,714,a,2026-01-02
+273,Adam Wharton,Wharton,Crystal Palace,5.0,0.9,2367,4476,3.8,1388,a,2026-01-02
+274,Asher Agbinone,Agbinone,Crystal Palace,4.3,0.1,161,108,0.0,0,a,2026-01-02
+275,Naouirou Ahamada,Ahamada,Crystal Palace,4.3,0.0,140,108,0.0,0,a,2026-01-02
+276,Justin Devenny,Devenny,Crystal Palace,4.3,1.5,10525,4368,2.0,376,a,2026-01-02
 277,Malcolm Ebiowei,Ebiowei,Crystal Palace,4.5,0.0,0,2,0.0,0,u,2026-01-02
-278,Jesurun Rak-Sakyi,J.Rak-Sakyi,Crystal Palace,4.4,0.0,0,23,0.0,0,u,2026-01-02
+278,Jesurun Rak-Sakyi,J.Rak-Sakyi,Crystal Palace,4.4,0.0,0,25,0.0,0,u,2026-01-02
 279,Matheus França de Oliveira,M.França,Crystal Palace,4.5,0.0,0,3,0.0,0,u,2026-01-02
 280,David Ozoh,Ozoh,Crystal Palace,4.5,0.0,0,0,0.0,0,u,2026-01-02
-281,Kaden Rodney,Rodney,Crystal Palace,4.4,0.0,64,66,0.0,0,a,2026-01-02
-282,Franco Umeh-Chibueze,Umeh,Crystal Palace,4.5,0.0,0,8,0.0,0,u,2026-01-02
-283,Jean-Philippe Mateta,Mateta,Crystal Palace,7.6,11.9,10812,34477,3.2,1554,a,2026-01-02
-284,Eddie Nketiah,Nketiah,Crystal Palace,5.4,0.5,928,3535,2.3,414,d,2026-01-02
-285,Odsonne Édouard,Édouard,Crystal Palace,5.0,0.2,0,65,0.0,2,u,2026-01-02
-286,Zach Marsh,Marsh,Crystal Palace,4.5,0.3,326,475,0.0,0,a,2026-01-02
-690,Rio Cardines,Cardines,Crystal Palace,4.4,0.3,7,320,0.0,0,i,2026-01-02
-712,Yéremy Pino Santos,Yeremy,Crystal Palace,5.8,0.3,773,2666,3.0,1171,a,2026-01-02
-723,Jaydee Canvot,Canvot,Crystal Palace,4.5,0.0,31,41,0.5,146,a,2026-01-02
-732,Christantus Uche,Uche,Crystal Palace,5.5,0.0,201,194,1.3,91,a,2026-01-02
-762,Joél Drakes-Thomas,Drakes-Thomas,Crystal Palace,4.5,0.0,19,17,0.3,4,a,2026-01-02
-773,Dean Benamar,Benamar,Crystal Palace,4.0,0.0,40,26,0.0,0,a,2026-01-02
-780,Ben Casey,Casey,Crystal Palace,4.5,0.0,32,4,0.0,0,a,2026-01-02
-242,Kiernan Dewsbury-Hall,Dewsbury-Hall,Everton,5.0,3.8,1414,39234,3.4,1257,d,2026-01-02
-287,Jordan Pickford,Pickford,Everton,5.5,11.8,79944,12776,5.2,1710,a,2026-01-02
-288,Mark Travers,Travers,Everton,4.3,0.1,49,76,0.0,0,a,2026-01-02
-289,Harry Tyrer,Tyrer,Everton,3.9,0.1,50,86,0.0,0,a,2026-01-02
-290,Jarrad Branthwaite,Branthwaite,Everton,5.3,0.1,51,70,0.0,0,d,2026-01-02
-291,James Tarkowski,Tarkowski,Everton,5.6,9.6,143091,13126,6.0,1710,a,2026-01-02
-292,Vitalii Mykolenko,Mykolenko,Everton,4.9,0.6,11407,2328,4.2,1435,a,2026-01-02
-293,Jake O'Brien,O'Brien,Everton,4.9,0.6,17687,2966,5.0,1578,a,2026-01-02
-294,Séamus Coleman,Coleman,Everton,4.2,0.1,3,78,0.0,11,d,2026-01-02
-295,Michael Keane,Keane,Everton,4.8,7.3,25858,68213,4.8,1504,d,2026-01-02
-296,Nathan Patterson,Patterson,Everton,4.4,0.0,485,115,1.8,73,a,2026-01-02
-297,Roman Dixon,Dixon,Everton,3.8,0.2,99,182,0.0,0,a,2026-01-02
-298,Reece Welch,Welch,Everton,3.8,0.1,66,124,0.0,0,a,2026-01-02
-299,Iliman Ndiaye,Ndiaye,Everton,6.2,3.5,197,10160,2.0,1343,n,2026-01-02
-300,Dwight McNeil,McNeil,Everton,5.5,0.2,2527,963,2.8,345,a,2026-01-02
-301,Carlos Alcaraz Durán,Alcaraz,Everton,5.2,0.1,200,900,2.0,656,a,2026-01-02
-302,Idrissa Gana Gueye,Gana,Everton,5.4,0.1,6,130,0.8,1051,n,2026-01-02
-303,James Garner,Garner,Everton,5.0,1.6,109681,6825,6.4,1703,a,2026-01-02
-304,Tim Iroegbunam,Iroegbunam,Everton,4.8,0.0,299,157,2.8,757,a,2026-01-02
-305,Harrison Armstrong,Armstrong,Everton,4.5,0.0,0,18,0.0,1,u,2026-01-02
-306,Callum Bates,Bates,Everton,4.3,0.1,189,150,0.0,0,a,2026-01-02
-307,Coby Ebere,Ebere,Everton,4.4,0.0,46,53,0.0,0,a,2026-01-02
-308,Isaac Heath,Heath,Everton,4.5,0.0,0,7,0.0,0,u,2026-01-02
+281,Kaden Rodney,Rodney,Crystal Palace,4.4,0.0,76,81,0.0,0,a,2026-01-02
+282,Franco Umeh-Chibueze,Umeh,Crystal Palace,4.5,0.0,0,10,0.0,0,u,2026-01-02
+283,Jean-Philippe Mateta,Mateta,Crystal Palace,7.6,11.9,13912,40597,3.2,1554,a,2026-01-02
+284,Eddie Nketiah,Nketiah,Crystal Palace,5.4,0.5,948,4603,2.3,414,d,2026-01-02
+285,Odsonne Édouard,Édouard,Crystal Palace,5.0,0.2,0,78,0.0,2,u,2026-01-02
+286,Zach Marsh,Marsh,Crystal Palace,4.5,0.3,399,581,0.0,0,a,2026-01-02
+580,Brennan Johnson,Johnson,Crystal Palace,6.5,2.4,4440,2041,0.6,602,a,2026-01-02
+690,Rio Cardines,Cardines,Crystal Palace,4.4,0.3,10,388,0.0,0,i,2026-01-02
+712,Yéremy Pino Santos,Yeremy,Crystal Palace,5.8,0.3,947,3379,3.0,1171,a,2026-01-02
+723,Jaydee Canvot,Canvot,Crystal Palace,4.5,0.0,39,52,0.5,146,a,2026-01-02
+732,Christantus Uche,Uche,Crystal Palace,5.5,0.0,252,241,1.3,91,a,2026-01-02
+762,Joél Drakes-Thomas,Drakes-Thomas,Crystal Palace,4.5,0.0,23,21,0.3,4,a,2026-01-02
+773,Dean Benamar,Benamar,Crystal Palace,4.0,0.0,46,26,0.0,0,a,2026-01-02
+780,Ben Casey,Casey,Crystal Palace,4.5,0.0,50,5,0.0,0,a,2026-01-02
+242,Kiernan Dewsbury-Hall,Dewsbury-Hall,Everton,5.0,3.7,1592,48465,3.4,1257,i,2026-01-02
+287,Jordan Pickford,Pickford,Everton,5.5,11.9,95372,16210,5.2,1710,a,2026-01-02
+288,Mark Travers,Travers,Everton,4.3,0.1,65,99,0.0,0,a,2026-01-02
+289,Harry Tyrer,Tyrer,Everton,3.9,0.1,57,107,0.0,0,a,2026-01-02
+290,Jarrad Branthwaite,Branthwaite,Everton,5.3,0.1,60,91,0.0,0,i,2026-01-02
+291,James Tarkowski,Tarkowski,Everton,5.6,9.9,178415,16307,6.0,1710,a,2026-01-02
+292,Vitalii Mykolenko,Mykolenko,Everton,4.9,0.7,13917,2918,4.2,1435,a,2026-01-02
+293,Jake O'Brien,O'Brien,Everton,4.9,0.6,21208,3776,5.0,1578,a,2026-01-02
+294,Séamus Coleman,Coleman,Everton,4.2,0.1,3,87,0.0,11,i,2026-01-02
+295,Michael Keane,Keane,Everton,4.8,7.2,29177,83907,4.8,1504,d,2026-01-02
+296,Nathan Patterson,Patterson,Everton,4.4,0.0,594,144,1.8,73,a,2026-01-02
+297,Roman Dixon,Dixon,Everton,3.8,0.2,123,217,0.0,0,a,2026-01-02
+298,Reece Welch,Welch,Everton,3.8,0.1,76,153,0.0,0,a,2026-01-02
+299,Iliman Ndiaye,Ndiaye,Everton,6.2,3.5,227,12230,2.0,1343,n,2026-01-02
+300,Dwight McNeil,McNeil,Everton,5.5,0.2,3115,1290,2.8,345,a,2026-01-02
+301,Carlos Alcaraz Durán,Alcaraz,Everton,5.2,0.1,231,1260,2.0,656,i,2026-01-02
+302,Idrissa Gana Gueye,Gana,Everton,5.4,0.1,8,145,0.8,1051,n,2026-01-02
+303,James Garner,Garner,Everton,5.0,1.8,137818,8813,6.4,1703,a,2026-01-02
+304,Tim Iroegbunam,Iroegbunam,Everton,4.8,0.0,351,181,2.8,757,a,2026-01-02
+305,Harrison Armstrong,Armstrong,Everton,4.5,0.0,0,21,0.0,1,a,2026-01-02
+306,Callum Bates,Bates,Everton,4.3,0.1,225,184,0.0,0,a,2026-01-02
+307,Coby Ebere,Ebere,Everton,4.4,0.0,54,68,0.0,0,a,2026-01-02
+308,Isaac Heath,Heath,Everton,4.5,0.0,0,8,0.0,0,u,2026-01-02
 309,Jenson Metcalfe,Metcalfe,Everton,4.5,0.0,0,0,0.0,0,u,2026-01-02
-310,Thierno Barry,Barry,Everton,5.7,0.4,4671,1858,3.2,922,a,2026-01-02
-311,Norberto Bercique Gomes Betuncal,Beto,Everton,5.0,2.5,2500,3858,1.2,776,a,2026-01-02
-312,Youssef Ramalho Chermiti,Y.Chermiti,Everton,4.9,0.1,0,13,0.0,0,u,2026-01-02
-313,Martin Sherif,Sherif,Everton,4.4,0.1,0,33,0.0,0,u,2026-01-02
-419,Jack Grealish,Grealish,Everton,6.5,9.5,11372,27111,1.6,1358,a,2026-01-02
-630,Tom King,King,Everton,3.9,1.3,921,1178,0.0,0,a,2026-01-02
-667,Adam Aznou,Aznou,Everton,4.2,0.1,29,47,0.0,0,a,2026-01-02
-704,Tyler Onyango,Onyango,Everton,4.5,0.1,0,19,0.0,0,u,2026-01-02
-705,Elijah Campbell,Campbell,Everton,3.9,0.2,65,180,0.0,0,a,2026-01-02
-707,Tyler Dibling,Dibling,Everton,5.3,0.0,335,104,2.0,274,a,2026-01-02
-728,Merlin Röhl,Röhl,Everton,5.0,0.0,65,34,1.4,217,a,2026-01-02
-779,Braiden Graham,Graham,Everton,4.5,0.0,118,12,0.0,0,a,2026-01-02
-314,Bernd Leno,Leno,Fulham,4.9,1.7,666,5396,4.0,1710,a,2026-01-02
-315,Steven Benda,Benda,Fulham,4.0,0.0,0,1,0.0,0,u,2026-01-02
-316,Antonee Robinson,Robinson,Fulham,4.9,0.7,2974,2260,4.6,421,a,2026-01-02
-317,Joachim Andersen,Andersen,Fulham,4.6,6.2,6820,31332,3.6,1571,a,2026-01-02
-318,Calvin Bassey,Bassey,Fulham,4.4,0.4,52,1290,2.4,1358,n,2026-01-02
-319,Timothy Castagne,Castagne,Fulham,4.3,0.1,104,277,0.6,584,a,2026-01-02
-320,Issa Diop,Diop,Fulham,4.3,0.1,64,94,0.4,230,a,2026-01-02
-321,Jorge Cuenca Barreno,J.Cuenca,Fulham,4.3,0.0,147,110,3.4,438,a,2026-01-02
-322,Kenny Tete,Tete,Fulham,4.5,0.8,758,13338,4.2,1346,d,2026-01-02
-323,Samuel Amissah,Amissah,Fulham,3.8,0.1,73,143,0.0,0,a,2026-01-02
-324,Alex Iwobi,Iwobi,Fulham,6.3,0.8,28,1799,0.8,1329,n,2026-01-02
-325,Emile Smith Rowe,Smith Rowe,Fulham,5.6,0.9,1692,5987,3.4,747,a,2026-01-02
-326,Adama Traoré Diarra,Adama,Fulham,5.1,0.1,93,168,0.8,255,a,2026-01-02
-327,Andreas Hoelgebaum Pereira,Andreas,Fulham,5.3,0.1,0,14,0.0,0,u,2026-01-02
-328,Ryan Sessegnon,Sessegnon,Fulham,5.4,0.2,6,871,0.0,1106,i,2026-01-02
-329,Harry Wilson,Wilson,Fulham,5.8,18.6,48319,92368,6.6,1323,a,2026-01-02
-330,Sander Berge,Berge,Fulham,4.9,0.1,99,141,2.2,1615,a,2026-01-02
-331,Tom Cairney,Cairney,Fulham,4.8,0.0,75,41,1.8,252,a,2026-01-02
-332,Saša Lukić,Lukić,Fulham,4.9,0.1,194,92,3.2,1036,a,2026-01-02
-333,Martial Godo,Godo,Fulham,4.5,0.0,0,8,0.0,0,u,2026-01-02
+310,Thierno Barry,Barry,Everton,5.7,0.4,5771,2333,3.2,922,a,2026-01-02
+311,Norberto Bercique Gomes Betuncal,Beto,Everton,5.0,2.5,3091,4734,1.2,776,a,2026-01-02
+312,Youssef Ramalho Chermiti,Y.Chermiti,Everton,4.9,0.1,0,15,0.0,0,u,2026-01-02
+313,Martin Sherif,Sherif,Everton,4.4,0.1,0,40,0.0,0,u,2026-01-02
+419,Jack Grealish,Grealish,Everton,6.5,9.4,14694,32220,1.6,1358,a,2026-01-02
+630,Tom King,King,Everton,3.9,1.3,1089,1463,0.0,0,a,2026-01-02
+667,Adam Aznou,Aznou,Everton,4.2,0.1,36,60,0.0,0,a,2026-01-02
+704,Tyler Onyango,Onyango,Everton,4.5,0.1,0,22,0.0,0,u,2026-01-02
+705,Elijah Campbell,Campbell,Everton,3.9,0.2,72,207,0.0,0,a,2026-01-02
+707,Tyler Dibling,Dibling,Everton,5.3,0.0,458,146,2.0,274,a,2026-01-02
+728,Merlin Röhl,Röhl,Everton,5.0,0.0,82,38,1.4,217,a,2026-01-02
+779,Braiden Graham,Graham,Everton,4.5,0.0,143,20,0.0,0,a,2026-01-02
+314,Bernd Leno,Leno,Fulham,4.9,1.7,777,6767,4.0,1710,a,2026-01-02
+315,Steven Benda,Benda,Fulham,4.0,0.0,0,2,0.0,0,u,2026-01-02
+316,Antonee Robinson,Robinson,Fulham,4.9,0.7,3468,2783,4.6,421,a,2026-01-02
+317,Joachim Andersen,Andersen,Fulham,4.6,6.1,8122,39911,3.6,1571,a,2026-01-02
+318,Calvin Bassey,Bassey,Fulham,4.4,0.4,56,1546,2.4,1358,n,2026-01-02
+319,Timothy Castagne,Castagne,Fulham,4.3,0.1,130,355,0.6,584,a,2026-01-02
+320,Issa Diop,Diop,Fulham,4.3,0.1,76,123,0.4,230,a,2026-01-02
+321,Jorge Cuenca Barreno,J.Cuenca,Fulham,4.3,0.0,186,139,3.4,438,a,2026-01-02
+322,Kenny Tete,Tete,Fulham,4.5,0.8,761,17593,4.2,1346,d,2026-01-02
+323,Samuel Amissah,Amissah,Fulham,3.8,0.1,83,173,0.0,0,a,2026-01-02
+324,Alex Iwobi,Iwobi,Fulham,6.3,0.7,29,2184,0.8,1329,n,2026-01-02
+325,Emile Smith Rowe,Smith Rowe,Fulham,5.6,0.9,2030,7460,3.4,747,a,2026-01-02
+326,Adama Traoré Diarra,Adama,Fulham,5.1,0.1,116,202,0.8,255,a,2026-01-02
+327,Andreas Hoelgebaum Pereira,Andreas,Fulham,5.3,0.1,0,17,0.0,0,u,2026-01-02
+328,Ryan Sessegnon,Sessegnon,Fulham,5.4,0.2,7,989,0.0,1106,i,2026-01-02
+329,Harry Wilson,Wilson,Fulham,5.8,18.5,57111,117385,6.6,1323,a,2026-01-02
+330,Sander Berge,Berge,Fulham,4.9,0.1,122,177,2.2,1615,a,2026-01-02
+331,Tom Cairney,Cairney,Fulham,4.8,0.0,108,54,1.8,252,a,2026-01-02
+332,Saša Lukić,Lukić,Fulham,4.9,0.1,259,124,3.2,1036,a,2026-01-02
+333,Martial Godo,Godo,Fulham,4.5,0.0,0,9,0.0,0,u,2026-01-02
 334,Luke Harris,Harris,Fulham,4.5,0.0,0,0,0.0,0,u,2026-01-02
-335,Josh King,King,Fulham,4.5,2.6,1257,9529,0.6,863,d,2026-01-02
-336,Harrison Reed,Reed,Fulham,4.3,0.3,380,534,0.2,6,a,2026-01-02
-337,Raúl Jiménez Rodríguez,Raúl,Fulham,6.2,2.2,4003,17607,4.6,1134,a,2026-01-02
-338,Rodrigo Muniz Carvalho,Muniz,Fulham,5.3,0.7,52,415,0.0,348,i,2026-01-02
-664,Benjamin Lecomte,Lecomte,Fulham,3.9,0.7,980,683,0.0,0,a,2026-01-02
-727,Samuel Chukwueze,Chukwueze,Fulham,5.3,0.1,32,1395,1.4,393,n,2026-01-02
-731,Kevin Santos Lopes de Macedo,Kevin,Fulham,5.8,0.1,133,315,2.4,645,a,2026-01-02
-737,Jonah Kusi-Asare,Kusi-Asare,Fulham,4.5,0.1,125,203,0.2,23,a,2026-01-02
-770,Seth Ridgeon,Ridgeon,Fulham,4.5,0.0,25,12,0.0,0,a,2026-01-02
-339,Illan Meslier,Meslier,Leeds,4.2,0.3,103,271,0.0,0,a,2026-01-02
-340,Alex Cairns,Cairns,Leeds,3.9,0.2,86,131,0.0,0,a,2026-01-02
-341,Karl Darlow,Darlow,Leeds,3.9,2.0,2434,2325,0.0,450,a,2026-01-02
-342,Jayden Bogle,Bogle,Leeds,4.4,0.2,600,411,2.7,1580,a,2026-01-02
-343,Pascal Struijk,Struijk,Leeds,4.3,0.3,1315,387,3.3,1448,a,2026-01-02
-344,Jaka Bijol,Bijol,Leeds,3.9,0.5,5102,1604,4.8,802,a,2026-01-02
-345,Sebastiaan Bornauw,Bornauw,Leeds,3.8,0.1,208,210,1.3,84,a,2026-01-02
-346,Sam Byram,Byram,Leeds,3.8,0.2,81,198,0.0,7,a,2026-01-02
-347,Gabriel Gudmundsson,Gudmundsson,Leeds,3.8,3.8,16136,7395,3.0,1560,a,2026-01-02
-348,Joe Rodon,Rodon,Leeds,4.0,4.0,293,36540,1.3,1560,i,2026-01-02
-349,Isaac Schmidt,Schmidt,Leeds,4.0,0.1,0,25,0.0,0,u,2026-01-02
-350,Brenden Aaronson,Aaronson,Leeds,5.4,0.1,1250,491,3.2,1066,a,2026-01-02
-351,Wilfried Gnonto,Gnonto,Leeds,5.2,0.1,76,127,1.7,306,a,2026-01-02
-352,Jack Harrison,Harrison,Leeds,5.1,0.1,84,78,0.2,262,a,2026-01-02
-353,Daniel James,James,Leeds,5.2,0.1,6,79,0.0,348,i,2026-01-02
-354,Ethan Ampadu,Ampadu,Leeds,4.9,0.1,899,1305,4.7,1499,s,2026-01-02
-355,Sam Greenwood,Greenwood,Leeds,4.9,0.0,0,5,0.0,0,u,2026-01-02
-356,Ilia Gruev,Gruev,Leeds,4.7,0.0,175,90,1.7,481,a,2026-01-02
+335,Josh King,King,Fulham,4.5,2.5,1360,12735,0.6,863,d,2026-01-02
+336,Harrison Reed,Reed,Fulham,4.3,0.3,464,659,0.2,6,a,2026-01-02
+337,Raúl Jiménez Rodríguez,Raúl,Fulham,6.2,2.2,4889,23009,4.6,1134,a,2026-01-02
+338,Rodrigo Muniz Carvalho,Muniz,Fulham,5.3,0.7,57,496,0.0,348,i,2026-01-02
+664,Benjamin Lecomte,Lecomte,Fulham,3.9,0.7,1211,822,0.0,0,a,2026-01-02
+727,Samuel Chukwueze,Chukwueze,Fulham,5.3,0.1,41,1656,1.4,393,n,2026-01-02
+731,Kevin Santos Lopes de Macedo,Kevin,Fulham,5.8,0.1,176,397,2.4,645,a,2026-01-02
+737,Jonah Kusi-Asare,Kusi-Asare,Fulham,4.5,0.1,151,250,0.2,23,a,2026-01-02
+770,Seth Ridgeon,Ridgeon,Fulham,4.5,0.0,28,15,0.0,0,a,2026-01-02
+339,Illan Meslier,Meslier,Leeds,4.2,0.3,120,313,0.0,0,a,2026-01-02
+340,Alex Cairns,Cairns,Leeds,3.9,0.2,104,160,0.0,0,a,2026-01-02
+341,Karl Darlow,Darlow,Leeds,3.9,2.0,2929,2895,0.0,450,a,2026-01-02
+342,Jayden Bogle,Bogle,Leeds,4.4,0.2,682,526,2.7,1580,a,2026-01-02
+343,Pascal Struijk,Struijk,Leeds,4.3,0.3,1682,496,3.3,1448,a,2026-01-02
+344,Jaka Bijol,Bijol,Leeds,3.9,0.5,6341,1937,4.8,802,a,2026-01-02
+345,Sebastiaan Bornauw,Bornauw,Leeds,3.8,0.1,270,249,1.3,84,a,2026-01-02
+346,Sam Byram,Byram,Leeds,3.8,0.2,98,245,0.0,7,a,2026-01-02
+347,Gabriel Gudmundsson,Gudmundsson,Leeds,3.8,3.9,20797,9108,3.0,1560,a,2026-01-02
+348,Joe Rodon,Rodon,Leeds,4.0,4.0,337,44392,1.3,1560,i,2026-01-02
+349,Isaac Schmidt,Schmidt,Leeds,4.0,0.1,0,34,0.0,0,u,2026-01-02
+350,Brenden Aaronson,Aaronson,Leeds,5.4,0.1,1591,607,3.2,1066,a,2026-01-02
+351,Wilfried Gnonto,Gnonto,Leeds,5.2,0.1,94,160,1.7,306,a,2026-01-02
+352,Jack Harrison,Harrison,Leeds,5.1,0.1,109,103,0.2,262,a,2026-01-02
+353,Daniel James,James,Leeds,5.2,0.1,8,95,0.0,348,i,2026-01-02
+354,Ethan Ampadu,Ampadu,Leeds,4.9,0.1,909,1698,4.7,1499,s,2026-01-02
+355,Sam Greenwood,Greenwood,Leeds,4.9,0.0,0,6,0.0,0,u,2026-01-02
+356,Ilia Gruev,Gruev,Leeds,4.7,0.0,228,111,1.7,481,a,2026-01-02
 357,Largie Ramazani,Ramazani,Leeds,4.9,0.0,0,3,0.0,0,u,2026-01-02
-358,Tanaka Ao,Tanaka,Leeds,4.8,0.3,1041,1616,3.3,693,a,2026-01-02
+358,Tanaka Ao,Tanaka,Leeds,4.8,0.3,1283,1923,3.3,693,a,2026-01-02
 359,Charlie Crew,Crew,Leeds,4.5,0.0,0,1,0.0,0,u,2026-01-02
 360,Joe Gelhardt,Gelhardt,Leeds,4.5,0.0,0,2,0.0,0,u,2026-01-02
-361,Darko Gyabi,Gyabi,Leeds,4.5,0.0,0,7,0.0,0,u,2026-01-02
-362,Joël Piroe,Piroe,Leeds,4.9,0.4,277,449,0.5,198,a,2026-01-02
-363,Patrick Bamford,Bamford,Leeds,4.9,0.3,0,125,0.0,0,u,2026-01-02
-364,Mateo Joseph Fernández-Regatillo,Mateo Joseph,Leeds,5.0,0.0,0,3,0.0,0,u,2026-01-02
-365,Lukas Nmecha,Nmecha,Leeds,5.0,0.5,1635,1001,0.8,575,a,2026-01-02
-493,Sean Longstaff,Longstaff,Leeds,4.8,0.3,13,492,0.0,877,i,2026-01-02
-660,Anton Stach,Stach,Leeds,4.9,3.1,22878,8564,6.2,1360,a,2026-01-02
-665,Lucas Estella Perri,Perri,Leeds,4.5,0.2,887,358,3.2,1260,a,2026-01-02
-691,Dominic Calvert-Lewin,Calvert-Lewin,Leeds,5.9,10.2,111042,27890,7.7,1133,a,2026-01-02
-698,Noah Okafor,Okafor,Leeds,5.5,0.1,578,562,2.3,947,a,2026-01-02
-706,James Justin,Justin,Leeds,3.9,0.2,374,287,1.5,249,a,2026-01-02
-741,Harry Gray,Gray,Leeds,4.5,0.1,415,441,0.0,0,a,2026-01-02
-366,Alisson Becker,A.Becker,Liverpool,5.4,6.0,4379,6735,3.8,1260,a,2026-01-02
-367,Giorgi Mamardashvili,Mamardashvili,Liverpool,4.2,0.6,265,1149,0.0,450,a,2026-01-02
-368,Ármin Pécsi,Pécsi,Liverpool,3.9,0.3,44,323,0.0,0,a,2026-01-02
-369,Freddie Woodman,Woodman,Liverpool,3.9,0.2,80,195,0.0,0,a,2026-01-02
-370,Jeremie Frimpong,Frimpong,Liverpool,5.7,5.5,17049,6419,2.5,286,a,2026-01-02
-371,Milos Kerkez,Kerkez,Liverpool,5.6,3.0,1188,4143,2.3,1233,a,2026-01-02
-372,Andrew Robertson,Robertson,Liverpool,5.8,1.0,742,618,1.7,481,a,2026-01-02
-373,Virgil van Dijk,Virgil,Liverpool,5.9,24.2,15394,60523,3.7,1710,a,2026-01-02
-374,Ibrahima Konaté,Konaté,Liverpool,5.4,3.6,5509,9852,4.0,1606,a,2026-01-02
-375,Conor Bradley,Bradley,Liverpool,5.0,0.2,1079,531,2.2,748,a,2026-01-02
-376,Joe Gomez,Gomez,Liverpool,4.9,0.1,7,284,1.3,244,d,2026-01-02
-377,Konstantinos Tsimikas,Tsimikas,Liverpool,4.8,0.0,0,14,0.0,0,u,2026-01-02
-378,Amara Nallo,Nallo,Liverpool,3.7,0.6,14116,3707,0.0,0,a,2026-01-02
-379,Rhys Williams,R.Williams,Liverpool,3.8,0.2,67,240,0.0,0,a,2026-01-02
-380,Calvin Ramsay,Ramsay,Liverpool,3.8,0.2,68,274,0.0,0,a,2026-01-02
-381,Mohamed Salah,M.Salah,Liverpool,14.0,14.6,80,10833,1.3,1183,n,2026-01-02
-382,Florian Wirtz,Wirtz,Liverpool,8.2,11.0,29077,36078,6.0,1239,a,2026-01-02
-383,Luis Díaz Marulanda,Luis Díaz,Liverpool,8.0,0.0,0,6,0.0,0,u,2026-01-02
-384,Cody Gakpo,Gakpo,Liverpool,7.3,5.3,5991,5881,0.8,1164,a,2026-01-02
-385,Federico Chiesa,Chiesa,Liverpool,6.3,0.3,302,1519,1.0,222,a,2026-01-02
-386,Alexis Mac Allister,Mac Allister,Liverpool,6.2,1.4,1549,4591,1.7,1206,a,2026-01-02
-387,Dominik Szoboszlai,Szoboszlai,Liverpool,6.6,4.8,20995,12424,2.8,1612,a,2026-01-02
-388,Curtis Jones,C.Jones,Liverpool,5.4,0.2,562,962,2.7,880,a,2026-01-02
-390,Ryan Gravenberch,Gravenberch,Liverpool,5.7,6.8,48286,14695,5.5,1501,a,2026-01-02
-392,Endo Wataru,Endo,Liverpool,4.9,0.1,6,49,0.2,43,d,2026-01-02
-393,Stefan Bajčetić Maquieira,Bajcetic,Liverpool,4.3,0.0,24,40,0.0,0,i,2026-01-02
-394,James McConnell,McConnell,Liverpool,4.4,0.0,0,5,0.0,0,u,2026-01-02
+361,Darko Gyabi,Gyabi,Leeds,4.5,0.0,0,8,0.0,0,u,2026-01-02
+362,Joël Piroe,Piroe,Leeds,4.9,0.4,340,523,0.5,198,a,2026-01-02
+363,Patrick Bamford,Bamford,Leeds,4.9,0.3,0,146,0.0,0,u,2026-01-02
+364,Mateo Joseph Fernández-Regatillo,Mateo Joseph,Leeds,5.0,0.0,0,4,0.0,0,u,2026-01-02
+365,Lukas Nmecha,Nmecha,Leeds,5.0,0.5,2067,1222,0.8,575,a,2026-01-02
+493,Sean Longstaff,Longstaff,Leeds,4.8,0.3,17,612,0.0,877,i,2026-01-02
+660,Anton Stach,Stach,Leeds,4.9,3.1,29363,10624,6.2,1360,a,2026-01-02
+665,Lucas Estella Perri,Perri,Leeds,4.5,0.2,1169,454,3.2,1260,a,2026-01-02
+691,Dominic Calvert-Lewin,Calvert-Lewin,Leeds,5.9,10.3,137122,35133,7.7,1133,a,2026-01-02
+698,Noah Okafor,Okafor,Leeds,5.5,0.1,727,689,2.3,947,a,2026-01-02
+706,James Justin,Justin,Leeds,3.9,0.2,522,350,1.5,249,a,2026-01-02
+741,Harry Gray,Gray,Leeds,4.5,0.1,504,556,0.0,0,a,2026-01-02
+366,Alisson Becker,A.Becker,Liverpool,5.4,6.0,5257,8329,3.8,1260,a,2026-01-02
+367,Giorgi Mamardashvili,Mamardashvili,Liverpool,4.2,0.6,316,1374,0.0,450,a,2026-01-02
+368,Ármin Pécsi,Pécsi,Liverpool,3.9,0.3,54,402,0.0,0,a,2026-01-02
+369,Freddie Woodman,Woodman,Liverpool,3.9,0.2,88,230,0.0,0,a,2026-01-02
+370,Jeremie Frimpong,Frimpong,Liverpool,5.7,5.5,21026,8073,2.5,286,a,2026-01-02
+371,Milos Kerkez,Kerkez,Liverpool,5.6,3.0,1347,5130,2.3,1233,a,2026-01-02
+372,Andrew Robertson,Robertson,Liverpool,5.8,1.0,896,753,1.7,481,a,2026-01-02
+373,Virgil van Dijk,Virgil,Liverpool,5.9,24.1,18724,74646,3.7,1710,a,2026-01-02
+374,Ibrahima Konaté,Konaté,Liverpool,5.4,3.5,6918,11885,4.0,1606,a,2026-01-02
+375,Conor Bradley,Bradley,Liverpool,5.0,0.2,1353,643,2.2,748,a,2026-01-02
+376,Joe Gomez,Gomez,Liverpool,4.9,0.1,8,339,1.3,244,d,2026-01-02
+377,Konstantinos Tsimikas,Tsimikas,Liverpool,4.8,0.0,0,17,0.0,0,u,2026-01-02
+378,Amara Nallo,Nallo,Liverpool,3.7,0.6,16970,4490,0.0,0,a,2026-01-02
+379,Rhys Williams,R.Williams,Liverpool,3.8,0.2,77,293,0.0,0,a,2026-01-02
+380,Calvin Ramsay,Ramsay,Liverpool,3.8,0.2,82,323,0.0,0,a,2026-01-02
+381,Mohamed Salah,M.Salah,Liverpool,14.0,14.6,88,12543,1.3,1183,n,2026-01-02
+382,Florian Wirtz,Wirtz,Liverpool,8.2,11.0,32878,47721,6.0,1239,a,2026-01-02
+383,Luis Díaz Marulanda,Luis Díaz,Liverpool,8.0,0.0,0,7,0.0,0,u,2026-01-02
+384,Cody Gakpo,Gakpo,Liverpool,7.3,5.3,7273,7245,0.8,1164,a,2026-01-02
+385,Federico Chiesa,Chiesa,Liverpool,6.3,0.3,356,1907,1.0,222,a,2026-01-02
+386,Alexis Mac Allister,Mac Allister,Liverpool,6.2,1.4,1804,5779,1.7,1206,a,2026-01-02
+387,Dominik Szoboszlai,Szoboszlai,Liverpool,6.6,4.8,25921,15855,2.8,1612,a,2026-01-02
+388,Curtis Jones,C.Jones,Liverpool,5.4,0.2,650,1226,2.7,880,a,2026-01-02
+390,Ryan Gravenberch,Gravenberch,Liverpool,5.7,6.9,59710,18539,5.5,1501,a,2026-01-02
+392,Endo Wataru,Endo,Liverpool,4.9,0.1,6,57,0.2,43,i,2026-01-02
+393,Stefan Bajčetić Maquieira,Bajcetic,Liverpool,4.3,0.0,26,47,0.0,0,i,2026-01-02
+394,James McConnell,McConnell,Liverpool,4.4,0.0,0,6,0.0,0,u,2026-01-02
 395,Tyler Morton,Morton,Liverpool,4.5,0.0,0,1,0.0,0,u,2026-01-02
-396,Trey Nyoni,Nyoni,Liverpool,4.3,0.4,169,578,0.3,2,a,2026-01-02
-397,Darwin Núñez Ribeiro,Darwin,Liverpool,6.5,0.1,0,6,0.0,0,u,2026-01-02
-398,Jayden Danns,Danns,Liverpool,4.3,0.1,36,55,0.0,0,i,2026-01-02
-499,Alexander Isak,Isak,Liverpool,10.3,3.8,76,3745,1.7,501,i,2026-01-02
-661,Hugo Ekitiké,Ekitiké,Liverpool,9.1,36.0,68846,63368,7.2,1128,a,2026-01-02
-686,Rio Ngumoha,Ngumoha,Liverpool,4.3,0.7,5081,3161,0.2,48,a,2026-01-02
-692,Giovanni Leoni,Leoni,Liverpool,4.9,0.0,11,15,0.0,0,i,2026-01-02
-746,Kieran Morrison,Morrison,Liverpool,4.5,0.0,19,25,0.0,0,a,2026-01-02
-760,Wellity Lucky,Lucky,Liverpool,4.0,0.0,44,43,0.0,0,a,2026-01-02
-182,James Trafford,Trafford,Man City,4.5,1.0,37,441,0.0,270,a,2026-01-02
-399,Ederson Santana de Moraes,Ederson M.,Man City,5.3,0.8,0,170,0.0,0,u,2026-01-02
-400,Stefan Ortega Moreno,Ortega Moreno,Man City,4.7,0.2,25,73,0.0,0,a,2026-01-02
-401,Marcus Bettinelli,Bettinelli,Man City,3.9,0.1,48,99,0.0,0,a,2026-01-02
-402,Rayan Aït-Nouri,Aït-Nouri,Man City,5.7,3.8,21,1935,0.2,204,n,2026-01-02
-403,Joško Gvardiol,Gvardiol,Man City,6.1,10.0,28986,29036,7.0,1251,a,2026-01-02
-404,Manuel Akanji,Akanji,Man City,5.4,0.3,0,61,0.0,0,u,2026-01-02
-405,Nathan Aké,Aké,Man City,5.3,0.6,341,304,2.0,313,a,2026-01-02
-406,Abdukodir Khusanov,Khusanov,Man City,5.4,0.3,125,201,0.2,250,a,2026-01-02
-407,Matheus Nunes,Matheus N.,Man City,5.4,2.7,35948,8423,8.0,1413,a,2026-01-02
-408,Rúben dos Santos Gato Alves Dias,Rúben,Man City,5.7,7.4,14909,16372,7.4,1625,a,2026-01-02
-409,John Stones,Stones,Man City,5.4,0.6,16,447,0.0,351,d,2026-01-02
-410,Rico Lewis,Lewis,Man City,4.7,1.3,398,977,0.6,204,a,2026-01-02
-411,Nico O'Reilly,O'Reilly,Man City,5.3,10.9,14198,61169,4.0,1369,a,2026-01-02
+396,Trey Nyoni,Nyoni,Liverpool,4.3,0.4,199,707,0.3,2,a,2026-01-02
+397,Darwin Núñez Ribeiro,Darwin,Liverpool,6.5,0.1,0,10,0.0,0,u,2026-01-02
+398,Jayden Danns,Danns,Liverpool,4.3,0.1,40,69,0.0,0,i,2026-01-02
+499,Alexander Isak,Isak,Liverpool,10.3,3.8,86,4252,1.7,501,i,2026-01-02
+661,Hugo Ekitiké,Ekitiké,Liverpool,9.1,36.0,82396,82026,7.2,1128,a,2026-01-02
+686,Rio Ngumoha,Ngumoha,Liverpool,4.3,0.7,6255,3856,0.2,48,a,2026-01-02
+692,Giovanni Leoni,Leoni,Liverpool,4.9,0.0,11,16,0.0,0,i,2026-01-02
+746,Kieran Morrison,Morrison,Liverpool,4.5,0.0,22,29,0.0,0,a,2026-01-02
+760,Wellity Lucky,Lucky,Liverpool,4.0,0.0,52,50,0.0,0,a,2026-01-02
+182,James Trafford,Trafford,Man City,4.5,1.0,43,511,0.0,270,a,2026-01-02
+399,Ederson Santana de Moraes,Ederson M.,Man City,5.3,0.8,0,204,0.0,0,u,2026-01-02
+400,Stefan Ortega Moreno,Ortega Moreno,Man City,4.7,0.2,29,87,0.0,0,a,2026-01-02
+401,Marcus Bettinelli,Bettinelli,Man City,3.9,0.1,57,117,0.0,0,a,2026-01-02
+402,Rayan Aït-Nouri,Aït-Nouri,Man City,5.7,3.8,23,2286,0.2,204,n,2026-01-02
+403,Joško Gvardiol,Gvardiol,Man City,6.1,10.0,33733,36308,7.0,1251,a,2026-01-02
+404,Manuel Akanji,Akanji,Man City,5.4,0.3,0,63,0.0,0,u,2026-01-02
+405,Nathan Aké,Aké,Man City,5.3,0.6,414,361,2.0,313,a,2026-01-02
+406,Abdukodir Khusanov,Khusanov,Man City,5.4,0.3,154,226,0.2,250,a,2026-01-02
+407,Matheus Nunes,Matheus N.,Man City,5.4,2.8,49417,10393,8.0,1413,a,2026-01-02
+408,Rúben dos Santos Gato Alves Dias,Rúben,Man City,5.7,7.4,17964,19682,7.4,1625,a,2026-01-02
+409,John Stones,Stones,Man City,5.4,0.6,19,522,0.0,351,d,2026-01-02
+410,Rico Lewis,Lewis,Man City,4.7,1.3,456,1177,0.6,204,a,2026-01-02
+411,Nico O'Reilly,O'Reilly,Man City,5.3,10.8,16404,79743,4.0,1369,a,2026-01-02
 412,Vitor de Oliveira Nunes dos Reis,Vitor Reis,Man City,5.0,0.0,0,1,0.0,0,u,2026-01-02
-413,Omar Marmoush,Marmoush,Man City,8.3,2.3,46,1004,0.4,204,n,2026-01-02
-414,Phil Foden,Foden,Man City,9.0,39.8,40116,126147,6.2,1405,a,2026-01-02
-415,Sávio Moreira de Oliveira,Savinho,Man City,6.9,0.4,255,546,1.6,531,d,2026-01-02
-416,Bernardo Mota Veiga de Carvalho e Silva,Bernardo,Man City,6.2,0.5,850,750,2.8,1313,a,2026-01-02
-417,Rayan Cherki,Cherki,Man City,6.7,14.1,146321,18982,8.0,727,a,2026-01-02
-418,Jérémy Doku,Doku,Man City,6.4,3.0,3977,11854,0.8,974,a,2026-01-02
-420,İlkay Gündoğan,Gündoğan,Man City,6.3,0.1,0,17,0.0,0,u,2026-01-02
-421,Rodrigo 'Rodri' Hernandez Cascante,Rodrigo,Man City,6.3,0.4,761,160,0.2,337,a,2026-01-02
-422,Mateo Kovačić,Kovačić,Man City,5.9,0.0,4,13,0.0,4,i,2026-01-02
-423,Nico González Iglesias,N.Gonzalez,Man City,5.9,0.1,244,660,3.0,1268,d,2026-01-02
-424,Oscar Bobb,Bobb,Man City,5.1,0.2,6,176,0.0,464,d,2026-01-02
+413,Omar Marmoush,Marmoush,Man City,8.3,2.3,54,1153,0.4,204,n,2026-01-02
+414,Phil Foden,Foden,Man City,9.0,39.5,47375,162057,6.2,1405,a,2026-01-02
+415,Sávio Moreira de Oliveira,Savinho,Man City,6.9,0.4,262,774,1.6,531,d,2026-01-02
+416,Bernardo Mota Veiga de Carvalho e Silva,Bernardo,Man City,6.2,0.5,1060,914,2.8,1313,a,2026-01-02
+417,Rayan Cherki,Cherki,Man City,6.7,14.3,182172,24209,8.0,727,a,2026-01-02
+418,Jérémy Doku,Doku,Man City,6.4,3.0,5689,13055,0.8,974,a,2026-01-02
+420,İlkay Gündoğan,Gündoğan,Man City,6.3,0.1,0,18,0.0,0,u,2026-01-02
+421,Rodrigo 'Rodri' Hernandez Cascante,Rodrigo,Man City,6.3,0.4,1004,201,0.2,337,a,2026-01-02
+422,Mateo Kovačić,Kovačić,Man City,5.9,0.0,7,14,0.0,4,i,2026-01-02
+423,Nico González Iglesias,N.Gonzalez,Man City,5.9,0.1,248,866,3.0,1268,d,2026-01-02
+424,Oscar Bobb,Bobb,Man City,5.1,0.2,7,207,0.0,464,d,2026-01-02
 425,Claudio Echeverri,Echeverri,Man City,5.4,0.0,0,3,0.0,0,u,2026-01-02
-427,Tijjani Reijnders,Reijnders,Man City,5.2,12.1,13895,15118,4.2,1173,a,2026-01-02
+427,Tijjani Reijnders,Reijnders,Man City,5.2,12.1,15991,19208,4.2,1173,a,2026-01-02
 428,Sverre Nypan,Nypan,Man City,5.0,0.0,0,1,0.0,0,u,2026-01-02
-429,Kalvin Phillips,Phillips,Man City,4.8,0.1,34,56,0.0,0,a,2026-01-02
-430,Erling Haaland,Haaland,Man City,15.1,74.2,12129,12836,7.0,1642,a,2026-01-02
-736,Gianluigi Donnarumma,Donnarumma,Man City,5.7,10.1,10967,20928,5.8,1440,a,2026-01-02
-739,Divine Mukasa,Mukasa,Man City,4.4,0.0,43,39,0.2,15,a,2026-01-02
-740,Stephen Mfuni,Mfuni,Man City,3.9,0.0,21,48,0.0,0,a,2026-01-02
-742,Ryan McAidoo,McAidoo,Man City,4.5,0.0,11,20,0.0,0,a,2026-01-02
-763,Charlie Gray,Gray,Man City,4.5,0.0,20,10,0.0,0,a,2026-01-02
-764,Reigan Heskey,Heskey,Man City,4.5,0.0,11,10,0.0,0,a,2026-01-02
-119,Bryan Mbeumo,Mbeumo,Man Utd,8.1,9.6,426,26950,2.0,1405,n,2026-01-02
-431,Altay Bayındır,Bayindir,Man Utd,4.8,0.3,100,291,0.0,540,a,2026-01-02
-432,André Onana,Onana,Man Utd,4.9,0.1,0,30,0.0,0,u,2026-01-02
+429,Kalvin Phillips,Phillips,Man City,4.8,0.1,42,63,0.0,0,a,2026-01-02
+430,Erling Haaland,Haaland,Man City,15.1,74.2,14350,16321,7.0,1642,a,2026-01-02
+736,Gianluigi Donnarumma,Donnarumma,Man City,5.7,10.1,13475,25209,5.8,1440,a,2026-01-02
+739,Divine Mukasa,Mukasa,Man City,4.4,0.0,53,47,0.2,15,a,2026-01-02
+740,Stephen Mfuni,Mfuni,Man City,3.9,0.0,26,58,0.0,0,a,2026-01-02
+742,Ryan McAidoo,McAidoo,Man City,4.5,0.0,12,23,0.0,0,a,2026-01-02
+763,Charlie Gray,Gray,Man City,4.5,0.0,24,14,0.0,0,a,2026-01-02
+764,Reigan Heskey,Heskey,Man City,4.5,0.0,12,11,0.0,0,a,2026-01-02
+119,Bryan Mbeumo,Mbeumo,Man Utd,8.1,9.5,464,31899,2.0,1405,n,2026-01-02
+431,Altay Bayındır,Bayindir,Man Utd,4.8,0.3,119,347,0.0,540,a,2026-01-02
+432,André Onana,Onana,Man Utd,4.9,0.1,0,38,0.0,0,u,2026-01-02
 433,Elyh Harrison,Harrison,Man Utd,4.0,0.0,0,0,0.0,0,u,2026-01-02
-434,Tom Heaton,Heaton,Man Utd,3.9,0.3,193,184,0.0,0,a,2026-01-02
-435,Dermot Mee,Mee,Man Utd,3.9,0.1,72,76,0.0,0,a,2026-01-02
-436,Matthijs de Ligt,De Ligt,Man Utd,4.9,2.1,82,3112,0.0,1170,i,2026-01-02
-437,Lisandro Martínez,Martinez,Man Utd,4.8,0.5,3829,3000,2.7,274,a,2026-01-02
-438,Noussair Mazraoui,Mazraoui,Man Utd,4.9,0.2,8,231,0.8,439,n,2026-01-02
-439,Diego León Blanco,D.Leon,Man Utd,4.2,0.1,39,59,0.0,0,a,2026-01-02
-440,Diogo Dalot Teixeira,Dalot,Man Utd,4.5,4.9,26412,24342,6.2,1224,a,2026-01-02
-441,Patrick Dorgu,Dorgu,Man Utd,4.2,7.0,47266,21835,4.5,979,a,2026-01-02
-442,Harry Maguire,Maguire,Man Utd,4.3,0.5,35,435,0.0,341,i,2026-01-02
-443,Luke Shaw,Shaw,Man Utd,4.5,0.7,1175,2508,2.2,1638,a,2026-01-02
-444,Leny Yoro,Yoro,Man Utd,4.2,1.4,521,2069,1.0,1042,a,2026-01-02
-445,Harry Amass,Amass,Man Utd,4.0,0.1,0,30,0.0,0,u,2026-01-02
-446,Tyler Fredricson,Fredricson,Man Utd,3.8,0.1,92,144,0.2,2,a,2026-01-02
-447,Ayden Heaven,Heaven,Man Utd,3.9,2.7,17298,7346,2.8,485,a,2026-01-02
-448,Tyrell Malacia,Malacia,Man Utd,3.8,0.4,347,666,0.2,2,a,2026-01-02
-449,Bruno Borges Fernandes,B.Fernandes,Man Utd,9.1,12.3,2564,83032,6.0,1475,i,2026-01-02
-450,Matheus Santos Carneiro da Cunha,Cunha,Man Utd,8.2,13.4,31262,61438,4.8,1209,a,2026-01-02
+434,Tom Heaton,Heaton,Man Utd,3.9,0.3,222,227,0.0,0,a,2026-01-02
+435,Dermot Mee,Mee,Man Utd,3.9,0.1,91,94,0.0,0,a,2026-01-02
+436,Matthijs de Ligt,De Ligt,Man Utd,4.9,2.1,88,3661,0.0,1170,d,2026-01-02
+437,Lisandro Martínez,Martinez,Man Utd,4.8,0.5,4455,3619,2.7,274,a,2026-01-02
+438,Noussair Mazraoui,Mazraoui,Man Utd,4.9,0.2,8,276,0.8,439,n,2026-01-02
+439,Diego León Blanco,D.Leon,Man Utd,4.2,0.1,47,65,0.0,0,a,2026-01-02
+440,Diogo Dalot Teixeira,Dalot,Man Utd,4.5,4.9,30336,30024,6.2,1224,a,2026-01-02
+441,Patrick Dorgu,Dorgu,Man Utd,4.2,7.1,56828,27248,4.5,979,a,2026-01-02
+442,Harry Maguire,Maguire,Man Utd,4.3,0.5,43,505,0.0,341,d,2026-01-02
+443,Luke Shaw,Shaw,Man Utd,4.5,0.7,1381,3096,2.2,1638,a,2026-01-02
+444,Leny Yoro,Yoro,Man Utd,4.2,1.4,606,2446,1.0,1042,a,2026-01-02
+445,Harry Amass,Amass,Man Utd,4.0,0.1,0,34,0.0,0,u,2026-01-02
+446,Tyler Fredricson,Fredricson,Man Utd,3.8,0.1,114,171,0.2,2,a,2026-01-02
+447,Ayden Heaven,Heaven,Man Utd,3.9,2.7,19721,8986,2.8,485,a,2026-01-02
+448,Tyrell Malacia,Malacia,Man Utd,3.8,0.4,420,816,0.2,2,a,2026-01-02
+449,Bruno Borges Fernandes,B.Fernandes,Man Utd,9.1,12.2,2940,97143,6.0,1475,d,2026-01-02
+450,Matheus Santos Carneiro da Cunha,Cunha,Man Utd,8.2,13.4,38870,77134,4.8,1209,a,2026-01-02
 451,Marcus Rashford,Rashford,Man Utd,7.0,0.0,0,3,0.0,0,u,2026-01-02
-452,Amad Diallo,Amad,Man Utd,6.3,1.0,149,1714,2.5,1203,n,2026-01-02
-454,Antony dos Santos,Antony,Man Utd,5.9,0.1,0,8,0.0,0,u,2026-01-02
-455,Mason Mount,Mount,Man Utd,5.9,0.7,183,12018,2.2,782,d,2026-01-02
-457,Carlos Henrique Casimiro,Casemiro,Man Utd,5.5,1.4,11039,5523,4.2,1141,a,2026-01-02
-458,Kobbie Mainoo,Mainoo,Man Utd,4.6,0.4,159,808,0.3,212,i,2026-01-02
-459,Manuel Ugarte Ribeiro,Ugarte,Man Utd,4.7,0.2,952,642,1.5,548,a,2026-01-02
-460,Toby Collyer,Collyer,Man Utd,4.5,0.0,0,7,0.0,0,u,2026-01-02
-461,Jayce Fitzgerald,Fitzgerald,Man Utd,4.4,0.0,36,38,0.0,0,a,2026-01-02
-462,Jack Fletcher,J.Fletcher,Man Utd,4.3,0.1,747,279,0.5,107,a,2026-01-02
-463,Sékou Koné,Kone,Man Utd,4.3,0.1,103,126,0.0,0,a,2026-01-02
-464,Jack Moorhouse,Moorhouse,Man Utd,4.5,0.0,0,2,0.0,0,u,2026-01-02
-465,Rasmus Højlund,Højlund,Man Utd,6.3,0.3,0,42,0.0,0,u,2026-01-02
-466,Joshua Zirkzee,Zirkzee,Man Utd,5.8,0.5,2470,1230,2.2,438,a,2026-01-02
-467,Chido Obi,Obi,Man Utd,4.2,1.8,8634,5664,0.0,0,a,2026-01-02
-468,Ethan Wheatley,Wheatley,Man Utd,4.5,0.1,0,21,0.0,0,u,2026-01-02
-681,Benjamin Sesko,Šeško,Man Utd,7.2,3.3,3884,6132,1.5,858,a,2026-01-02
-733,Senne Lammens,Lammens,Man Utd,5.0,2.1,3908,9495,3.0,1170,a,2026-01-02
-755,Shea Lacey,Lacey,Man Utd,4.5,0.0,44,52,0.2,6,a,2026-01-02
-769,Bendito Mantato,Bendito Mantato,Man Utd,4.5,0.0,33,14,0.3,15,a,2026-01-02
-771,Tyler Fletcher,Fletcher,Man Utd,4.5,0.0,100,51,0.0,0,a,2026-01-02
-52,Jacob Ramsey,J.Ramsey,Newcastle,5.3,0.2,254,280,1.2,464,a,2026-01-02
-135,Yoane Wissa,Wissa,Newcastle,7.3,0.7,14358,2017,1.8,149,a,2026-01-02
-469,Nick Pope,Pope,Newcastle,5.1,4.6,9665,5950,0.4,1156,a,2026-01-02
-471,Mark Gillespie,Gillespie,Newcastle,3.9,0.1,66,108,0.0,0,a,2026-01-02
-472,Odysseas Vlachodimos,Odysseas,Newcastle,4.0,0.0,0,6,0.0,0,u,2026-01-02
-473,Lewis Hall,Hall,Newcastle,5.3,2.5,32301,11188,2.6,788,d,2026-01-02
-474,Fabian Schär,Schär,Newcastle,5.3,1.8,4322,3694,1.8,924,a,2026-01-02
-475,Sven Botman,Botman,Newcastle,4.9,0.3,6,305,0.0,655,d,2026-01-02
-476,Dan Burn,Burn,Newcastle,5.1,3.9,95,21941,1.6,1255,i,2026-01-02
-477,Tino Livramento,Livramento,Newcastle,4.9,2.3,89,6800,0.6,976,d,2026-01-02
-478,Kieran Trippier,Trippier,Newcastle,4.9,1.3,22,1173,0.0,699,d,2026-01-02
-479,Emil Krafth,Krafth,Newcastle,4.3,0.0,4,16,0.0,45,i,2026-01-02
-480,Jamaal Lascelles,Lascelles,Newcastle,4.3,0.1,3,72,0.0,19,d,2026-01-02
-481,Alex Murphy,A.Murphy,Newcastle,3.8,0.7,676,1201,0.0,0,a,2026-01-02
-482,Harrison Ashby,Ashby,Newcastle,3.9,0.1,34,76,0.0,0,a,2026-01-02
-483,Miodrag Pivaš,Pivas,Newcastle,3.8,0.4,202,1069,0.0,0,a,2026-01-02
-484,Matt Targett,Targett,Newcastle,4.0,0.2,0,69,0.0,0,u,2026-01-02
-485,Anthony Gordon,Gordon,Newcastle,7.4,5.5,63625,18787,5.6,857,a,2026-01-02
-486,Anthony Elanga,Elanga,Newcastle,6.5,2.8,53,3411,0.8,675,d,2026-01-02
-487,Harvey Barnes,Barnes,Newcastle,6.1,1.1,2876,6518,1.0,825,a,2026-01-02
-488,Bruno Guimarães Rodriguez Moura,Bruno G.,Newcastle,7.0,15.0,174297,24867,5.0,1569,a,2026-01-02
-489,Jacob Murphy,J.Murphy,Newcastle,6.0,0.9,1833,2933,1.2,909,a,2026-01-02
-490,Joelinton Cássio Apolinário de Lira,Joelinton,Newcastle,5.9,0.3,2800,591,2.0,1047,a,2026-01-02
-491,Sandro Tonali,Tonali,Newcastle,5.3,1.0,2409,2048,1.6,1320,a,2026-01-02
+452,Amad Diallo,Amad,Man Utd,6.3,1.0,164,2046,2.5,1203,n,2026-01-02
+454,Antony dos Santos,Antony,Man Utd,5.9,0.1,0,9,0.0,0,u,2026-01-02
+455,Mason Mount,Mount,Man Utd,5.9,0.7,199,15110,2.2,782,d,2026-01-02
+457,Carlos Henrique Casimiro,Casemiro,Man Utd,5.5,1.4,13415,6782,4.2,1141,a,2026-01-02
+458,Kobbie Mainoo,Mainoo,Man Utd,4.6,0.4,186,948,0.3,212,d,2026-01-02
+459,Manuel Ugarte Ribeiro,Ugarte,Man Utd,4.7,0.2,1160,788,1.5,548,a,2026-01-02
+460,Toby Collyer,Collyer,Man Utd,4.5,0.0,0,8,0.0,0,u,2026-01-02
+461,Jayce Fitzgerald,Fitzgerald,Man Utd,4.4,0.0,45,46,0.0,0,a,2026-01-02
+462,Jack Fletcher,J.Fletcher,Man Utd,4.3,0.1,898,345,0.5,107,a,2026-01-02
+463,Sékou Koné,Kone,Man Utd,4.3,0.1,122,154,0.0,0,a,2026-01-02
+464,Jack Moorhouse,Moorhouse,Man Utd,4.5,0.0,0,4,0.0,0,u,2026-01-02
+465,Rasmus Højlund,Højlund,Man Utd,6.3,0.3,0,50,0.0,0,u,2026-01-02
+466,Joshua Zirkzee,Zirkzee,Man Utd,5.8,0.5,3027,1487,2.2,438,a,2026-01-02
+467,Chido Obi,Obi,Man Utd,4.2,1.8,10115,6772,0.0,0,a,2026-01-02
+468,Ethan Wheatley,Wheatley,Man Utd,4.5,0.1,0,28,0.0,0,u,2026-01-02
+681,Benjamin Sesko,Šeško,Man Utd,7.2,3.3,4771,7451,1.5,858,a,2026-01-02
+733,Senne Lammens,Lammens,Man Utd,5.0,2.1,4595,11763,3.0,1170,a,2026-01-02
+755,Shea Lacey,Lacey,Man Utd,4.5,0.0,48,64,0.2,6,a,2026-01-02
+769,Bendito Mantato,Bendito Mantato,Man Utd,4.5,0.0,39,14,0.3,15,a,2026-01-02
+771,Tyler Fletcher,Fletcher,Man Utd,4.5,0.0,119,59,0.0,0,a,2026-01-02
+52,Jacob Ramsey,J.Ramsey,Newcastle,5.3,0.2,306,342,1.2,464,a,2026-01-02
+135,Yoane Wissa,Wissa,Newcastle,7.3,0.7,17131,2526,1.8,149,a,2026-01-02
+469,Nick Pope,Pope,Newcastle,5.1,4.6,11897,7439,0.4,1156,a,2026-01-02
+471,Mark Gillespie,Gillespie,Newcastle,3.9,0.1,86,133,0.0,0,a,2026-01-02
+472,Odysseas Vlachodimos,Odysseas,Newcastle,4.0,0.0,0,9,0.0,0,u,2026-01-02
+473,Lewis Hall,Hall,Newcastle,5.3,2.5,36061,17989,2.6,788,d,2026-01-02
+474,Fabian Schär,Schär,Newcastle,5.3,1.8,6002,4672,1.8,924,a,2026-01-02
+475,Sven Botman,Botman,Newcastle,4.9,0.3,10,351,0.0,655,d,2026-01-02
+476,Dan Burn,Burn,Newcastle,5.1,3.9,105,25896,1.6,1255,i,2026-01-02
+477,Tino Livramento,Livramento,Newcastle,4.9,2.3,120,7954,0.6,976,d,2026-01-02
+478,Kieran Trippier,Trippier,Newcastle,4.9,1.3,28,1367,0.0,699,d,2026-01-02
+479,Emil Krafth,Krafth,Newcastle,4.3,0.0,5,21,0.0,45,i,2026-01-02
+480,Jamaal Lascelles,Lascelles,Newcastle,4.3,0.1,6,86,0.0,19,d,2026-01-02
+481,Alex Murphy,A.Murphy,Newcastle,3.8,0.7,816,1440,0.0,0,a,2026-01-02
+482,Harrison Ashby,Ashby,Newcastle,3.9,0.1,40,95,0.0,0,a,2026-01-02
+483,Miodrag Pivaš,Pivas,Newcastle,3.8,0.4,237,1309,0.0,0,a,2026-01-02
+484,Matt Targett,Targett,Newcastle,4.0,0.2,0,83,0.0,0,u,2026-01-02
+485,Anthony Gordon,Gordon,Newcastle,7.4,5.6,80766,23732,5.6,857,a,2026-01-02
+486,Anthony Elanga,Elanga,Newcastle,6.5,2.8,70,4046,0.8,675,d,2026-01-02
+487,Harvey Barnes,Barnes,Newcastle,6.1,1.1,3469,8103,1.0,825,a,2026-01-02
+488,Bruno Guimarães Rodriguez Moura,Bruno G.,Newcastle,7.0,15.3,218372,30525,5.0,1569,a,2026-01-02
+489,Jacob Murphy,J.Murphy,Newcastle,6.0,0.9,2253,3673,1.2,909,a,2026-01-02
+490,Joelinton Cássio Apolinário de Lira,Joelinton,Newcastle,5.9,0.3,3378,733,2.0,1047,a,2026-01-02
+491,Sandro Tonali,Tonali,Newcastle,5.3,1.0,2944,2519,1.6,1320,a,2026-01-02
 492,Antoñito Cordero Campillo,Antoñito C.,Newcastle,4.9,0.0,0,4,0.0,0,u,2026-01-02
-494,Joe Willock,Willock,Newcastle,5.0,0.1,132,126,1.2,231,a,2026-01-02
+494,Joe Willock,Willock,Newcastle,5.0,0.1,155,152,1.2,231,a,2026-01-02
 495,Isaac Hayden,Hayden,Newcastle,4.5,0.0,0,1,0.0,0,u,2026-01-02
 496,Garang Kuol,Kuol,Newcastle,4.4,0.0,0,18,0.0,0,u,2026-01-02
-497,Lewis Miley,L.Miley,Newcastle,4.5,3.4,16439,8063,2.6,840,a,2026-01-02
+497,Lewis Miley,L.Miley,Newcastle,4.5,3.4,20413,10032,2.6,840,a,2026-01-02
 498,Joe White,White,Newcastle,4.5,0.0,0,0,0.0,0,u,2026-01-02
-500,William Osula,Osula,Newcastle,5.4,0.2,14,111,0.0,213,i,2026-01-02
-501,Sean Neave,Neave,Newcastle,4.3,0.2,165,266,0.0,0,a,2026-01-02
-674,Aaron Ramsdale,Ramsdale,Newcastle,4.8,0.9,854,7271,1.6,553,a,2026-01-02
-684,Malick Thiaw,Thiaw,Newcastle,5.0,3.4,28049,15539,2.4,1352,a,2026-01-02
-689,Seung-Soo Park,Seung soo,Newcastle,4.4,0.2,44,150,0.0,0,a,2026-01-02
-714,Nick Woltemade,Woltemade,Newcastle,7.4,18.5,27755,112710,3.6,1172,a,2026-01-02
-753,John Ruddy,Ruddy,Newcastle,4.0,0.0,32,39,0.0,0,a,2026-01-02
-765,Leo Shahar,Shahar,Newcastle,4.0,0.0,176,112,0.0,0,a,2026-01-02
-772,Sam Alabi,Alabi,Newcastle,4.5,0.0,25,10,0.0,0,a,2026-01-02
-12,Oleksandr Zinchenko,Zinchenko,Nott'm Forest,4.9,0.2,343,170,0.3,352,a,2026-01-02
-426,James McAtee,McAtee,Nott'm Forest,5.0,0.1,76,100,0.2,148,a,2026-01-02
-502,Matz Sels,Sels,Nott'm Forest,4.6,5.8,925,9309,1.3,1350,a,2026-01-02
-503,Carlos Miguel dos Santos Pereira,C.Miguel,Nott'm Forest,4.0,0.1,0,26,0.0,0,u,2026-01-02
-504,Matt Turner,Turner,Nott'm Forest,4.0,0.1,0,47,0.0,0,u,2026-01-02
-505,Nikola Milenković,Milenković,Nott'm Forest,5.1,3.3,1355,6001,3.2,1710,a,2026-01-02
-506,Murillo Costa dos Santos,Murillo,Nott'm Forest,5.2,1.9,1538,3882,1.8,1099,a,2026-01-02
-507,Ola Aina,Aina,Nott'm Forest,4.7,1.9,63,851,0.0,270,a,2026-01-02
-508,Neco Williams,N.Williams,Nott'm Forest,4.7,3.5,2651,8051,3.3,1710,a,2026-01-02
+500,William Osula,Osula,Newcastle,5.4,0.2,17,132,0.0,213,i,2026-01-02
+501,Sean Neave,Neave,Newcastle,4.3,0.2,200,315,0.0,0,a,2026-01-02
+674,Aaron Ramsdale,Ramsdale,Newcastle,4.8,0.9,977,8903,1.6,553,a,2026-01-02
+684,Malick Thiaw,Thiaw,Newcastle,5.0,3.4,37111,19589,2.4,1352,a,2026-01-02
+689,Seung-Soo Park,Seung soo,Newcastle,4.4,0.2,55,179,0.0,0,a,2026-01-02
+714,Nick Woltemade,Woltemade,Newcastle,7.4,18.3,34449,135883,3.6,1172,a,2026-01-02
+753,John Ruddy,Ruddy,Newcastle,4.0,0.0,42,44,0.0,0,a,2026-01-02
+765,Leo Shahar,Shahar,Newcastle,4.0,0.0,208,135,0.0,0,a,2026-01-02
+772,Sam Alabi,Alabi,Newcastle,4.5,0.0,29,13,0.0,0,a,2026-01-02
+12,Oleksandr Zinchenko,Zinchenko,Nott'm Forest,4.9,0.2,402,199,0.3,352,a,2026-01-02
+426,James McAtee,McAtee,Nott'm Forest,5.0,0.1,90,117,0.2,148,a,2026-01-02
+502,Matz Sels,Sels,Nott'm Forest,4.6,5.8,1145,11380,1.3,1350,a,2026-01-02
+503,Carlos Miguel dos Santos Pereira,C.Miguel,Nott'm Forest,4.0,0.1,0,32,0.0,0,u,2026-01-02
+504,Matt Turner,Turner,Nott'm Forest,4.0,0.1,0,58,0.0,0,u,2026-01-02
+505,Nikola Milenković,Milenković,Nott'm Forest,5.1,3.3,1682,7392,3.2,1710,a,2026-01-02
+506,Murillo Costa dos Santos,Murillo,Nott'm Forest,5.2,1.9,1864,4816,1.8,1099,a,2026-01-02
+507,Ola Aina,Aina,Nott'm Forest,4.7,1.9,149,959,0.0,270,a,2026-01-02
+508,Neco Williams,N.Williams,Nott'm Forest,4.7,3.4,3143,10078,3.3,1710,a,2026-01-02
 509,David Mota Veiga Teixeira do Carmo,David Carmo,Nott'm Forest,4.5,0.0,0,7,0.0,0,u,2026-01-02
-510,Jair Paula da Cunha Filho,Jair Cunha,Nott'm Forest,4.3,0.1,57,49,0.0,90,a,2026-01-02
-511,Felipe Rodrigues da Silva,Morato,Nott'm Forest,4.3,0.1,75,162,1.5,708,a,2026-01-02
+510,Jair Paula da Cunha Filho,Jair Cunha,Nott'm Forest,4.3,0.1,66,59,0.0,90,a,2026-01-02
+511,Felipe Rodrigues da Silva,Morato,Nott'm Forest,4.3,0.1,82,189,1.5,708,a,2026-01-02
 512,Omar Richards,O.Richards,Nott'm Forest,4.5,0.0,0,2,0.0,0,u,2026-01-02
-513,Zach Abbott,Abbott,Nott'm Forest,3.8,0.3,372,649,0.2,45,a,2026-01-02
-514,Willy Boly,Boly,Nott'm Forest,3.8,0.4,122,633,0.0,0,n,2026-01-02
-515,Morgan Gibbs-White,Gibbs-White,Nott'm Forest,7.3,2.8,2364,7595,2.3,1602,a,2026-01-02
-516,Callum Hudson-Odoi,Hudson-Odoi,Nott'm Forest,5.7,1.0,2846,5214,4.5,1028,a,2026-01-02
-517,Elliot Anderson,Anderson,Nott'm Forest,5.3,4.7,9567,12338,3.3,1710,a,2026-01-02
+513,Zach Abbott,Abbott,Nott'm Forest,3.8,0.3,434,816,0.2,45,a,2026-01-02
+514,Willy Boly,Boly,Nott'm Forest,3.8,0.4,154,758,0.0,0,n,2026-01-02
+515,Morgan Gibbs-White,Gibbs-White,Nott'm Forest,7.3,2.8,2944,9367,2.3,1602,a,2026-01-02
+516,Callum Hudson-Odoi,Hudson-Odoi,Nott'm Forest,5.7,1.0,3359,6440,4.5,1028,a,2026-01-02
+517,Elliot Anderson,Anderson,Nott'm Forest,5.3,4.7,11819,15633,3.3,1710,a,2026-01-02
 518,João Pedro Ferreira da Silva,Jota,Nott'm Forest,5.4,0.0,0,9,0.0,11,u,2026-01-02
-519,Nicolás Domínguez,Dominguez,Nott'm Forest,5.0,0.0,42,36,0.8,392,a,2026-01-02
+519,Nicolás Domínguez,Dominguez,Nott'm Forest,5.0,0.0,48,40,0.8,392,a,2026-01-02
 520,Lewis O'Brien,O'Brien,Nott'm Forest,5.0,0.0,0,0,0.0,0,u,2026-01-02
-521,Ibrahim Sangaré,Sangaré,Nott'm Forest,4.9,0.1,18,88,3.7,864,n,2026-01-02
-522,Ryan Yates,Yates,Nott'm Forest,4.7,0.1,8,91,0.3,299,d,2026-01-02
-523,Eric da Silva Moreira,Da Silva Moreira,Nott'm Forest,4.5,0.1,0,19,0.0,0,u,2026-01-02
+521,Ibrahim Sangaré,Sangaré,Nott'm Forest,4.9,0.1,23,110,3.7,864,n,2026-01-02
+522,Ryan Yates,Yates,Nott'm Forest,4.7,0.1,8,110,0.3,299,d,2026-01-02
+523,Eric da Silva Moreira,Da Silva Moreira,Nott'm Forest,4.5,0.1,0,22,0.0,0,u,2026-01-02
 524,Marko Stamenić,Stamenic,Nott'm Forest,4.5,0.0,0,5,0.0,0,u,2026-01-02
-525,Chris Wood,Wood,Nott'm Forest,7.2,4.9,96,2195,0.0,538,i,2026-01-02
-526,Igor Jesus Maciel da Cruz,Igor Jesus,Nott'm Forest,5.8,1.2,3828,7611,3.7,971,a,2026-01-02
-527,Taiwo Awoniyi,Awoniyi,Nott'm Forest,5.2,0.3,325,203,0.5,182,a,2026-01-02
-669,Dan Ndoye,Ndoye,Nott'm Forest,5.5,0.8,13,1431,0.8,997,d,2026-01-02
-675,Angus Gunn,Gunn,Nott'm Forest,4.0,1.2,137,468,0.0,0,a,2026-01-02
-693,Omari Hutchinson,Hutchinson,Nott'm Forest,5.4,0.2,1617,1475,4.3,742,a,2026-01-02
-696,Arnaud Kalimuendo,Kalimuendo,Nott'm Forest,6.0,0.1,95,220,0.2,82,a,2026-01-02
-699,Douglas Luiz Soares de Paulo,Douglas Luiz,Nott'm Forest,4.9,0.0,115,127,0.5,307,a,2026-01-02
-715,John Victor Maciel Furtado,John,Nott'm Forest,4.0,0.4,4226,1742,1.7,360,a,2026-01-02
-716,Nicolò Savona,Savona,Nott'm Forest,4.5,0.2,203,1804,2.2,1004,a,2026-01-02
+525,Chris Wood,Wood,Nott'm Forest,7.2,4.9,127,2581,0.0,538,i,2026-01-02
+526,Igor Jesus Maciel da Cruz,Igor Jesus,Nott'm Forest,5.8,1.2,4600,9443,3.7,971,a,2026-01-02
+527,Taiwo Awoniyi,Awoniyi,Nott'm Forest,5.2,0.3,396,255,0.5,182,a,2026-01-02
+669,Dan Ndoye,Ndoye,Nott'm Forest,5.5,0.8,14,1668,0.8,997,d,2026-01-02
+675,Angus Gunn,Gunn,Nott'm Forest,4.0,1.2,174,586,0.0,0,a,2026-01-02
+693,Omari Hutchinson,Hutchinson,Nott'm Forest,5.4,0.2,1950,1831,4.3,742,a,2026-01-02
+696,Arnaud Kalimuendo,Kalimuendo,Nott'm Forest,6.0,0.1,123,260,0.2,82,a,2026-01-02
+699,Douglas Luiz Soares de Paulo,Douglas Luiz,Nott'm Forest,4.9,0.0,146,157,0.5,307,a,2026-01-02
+715,John Victor Maciel Furtado,John,Nott'm Forest,4.0,0.5,5112,2223,1.7,360,a,2026-01-02
+716,Nicolò Savona,Savona,Nott'm Forest,4.5,0.2,248,2226,2.2,1004,a,2026-01-02
 729,Luis Eduardo Soares da Silva,Cuiabano,Nott'm Forest,4.5,0.0,0,0,0.0,0,u,2026-01-02
-734,Dilane Bakwa,Bakwa,Nott'm Forest,5.9,0.0,66,40,0.3,188,a,2026-01-02
-528,Anthony Patterson,Patterson,Sunderland,4.2,0.2,105,151,0.0,0,a,2026-01-02
-529,Simon Moore,Moore,Sunderland,3.9,0.4,200,283,0.0,0,a,2026-01-02
-530,Blondy Nna Noukeu,Nna Noukeu,Sunderland,3.9,0.1,78,106,0.0,0,a,2026-01-02
-531,Daniel Ballard,Ballard,Sunderland,4.7,3.2,1235,29071,3.7,1119,d,2026-01-02
-532,Trai Hume,Hume,Sunderland,4.5,0.3,1432,611,3.5,1561,a,2026-01-02
-533,Aji Alese,Alese,Sunderland,4.0,0.0,4,5,0.0,0,i,2026-01-02
-534,Joe Anderson,Anderson,Sunderland,3.9,0.4,173,384,0.0,0,a,2026-01-02
-535,Dennis Cirkin,Cirkin,Sunderland,4.0,0.0,435,83,1.7,180,a,2026-01-02
-536,Leo Fuhr Hjelde,Hjelde,Sunderland,4.0,0.0,34,30,0.0,0,a,2026-01-02
-537,Niall Huggins,Huggins,Sunderland,4.0,0.1,0,18,0.0,0,u,2026-01-02
-538,Zak Johnson,Johnson,Sunderland,3.8,0.2,891,306,0.0,0,a,2026-01-02
-539,Luke O'Nien,O'Nien,Sunderland,4.0,0.0,167,92,-0.2,4,a,2026-01-02
-540,Timothée Pembélé,Pembele,Sunderland,3.9,0.4,134,306,0.0,0,a,2026-01-02
-541,Reinildo Mandava,Reinildo,Sunderland,3.8,2.7,1353,6049,2.3,1022,n,2026-01-02
-542,Jenson Seelt,Seelt,Sunderland,4.0,0.1,0,44,0.0,133,u,2026-01-02
-543,Simon Adingra,Adingra,Sunderland,4.9,0.4,1293,458,2.7,533,a,2026-01-02
-544,Habib Diarra,Diarra,Sunderland,5.3,0.0,2,16,0.2,371,i,2026-01-02
+734,Dilane Bakwa,Bakwa,Nott'm Forest,5.9,0.0,76,48,0.3,188,a,2026-01-02
+528,Anthony Patterson,Patterson,Sunderland,4.2,0.2,133,178,0.0,0,a,2026-01-02
+529,Simon Moore,Moore,Sunderland,3.9,0.4,241,331,0.0,0,a,2026-01-02
+530,Blondy Nna Noukeu,Nna Noukeu,Sunderland,3.9,0.1,94,145,0.0,0,a,2026-01-02
+531,Daniel Ballard,Ballard,Sunderland,4.7,3.2,1347,35303,3.7,1119,d,2026-01-02
+532,Trai Hume,Hume,Sunderland,4.5,0.3,1819,739,3.5,1561,a,2026-01-02
+533,Aji Alese,Alese,Sunderland,4.0,0.0,6,6,0.0,0,i,2026-01-02
+534,Joe Anderson,Anderson,Sunderland,3.9,0.4,211,483,0.0,0,a,2026-01-02
+535,Dennis Cirkin,Cirkin,Sunderland,4.0,0.0,595,110,1.7,180,a,2026-01-02
+536,Leo Fuhr Hjelde,Hjelde,Sunderland,4.0,0.0,48,36,0.0,0,a,2026-01-02
+537,Niall Huggins,Huggins,Sunderland,4.0,0.1,0,20,0.0,0,u,2026-01-02
+538,Zak Johnson,Johnson,Sunderland,3.8,0.2,1138,378,0.0,0,a,2026-01-02
+539,Luke O'Nien,O'Nien,Sunderland,4.0,0.0,197,110,-0.2,4,a,2026-01-02
+540,Timothée Pembélé,Pembele,Sunderland,3.9,0.3,164,402,0.0,0,a,2026-01-02
+541,Reinildo Mandava,Reinildo,Sunderland,3.8,2.6,1612,7291,2.3,1022,n,2026-01-02
+542,Jenson Seelt,Seelt,Sunderland,4.0,0.1,0,52,0.0,133,u,2026-01-02
+543,Simon Adingra,Adingra,Sunderland,4.9,0.4,1644,575,2.7,533,a,2026-01-02
+544,Habib Diarra,Diarra,Sunderland,5.3,0.0,2,21,0.2,371,i,2026-01-02
 545,Patrick Roberts,Roberts,Sunderland,5.4,0.0,0,3,0.0,27,u,2026-01-02
-546,Milan Aleksić,Aleksić,Sunderland,4.9,0.0,0,2,0.0,0,u,2026-01-02
-547,Enzo Le Fée,E.Le Fée,Sunderland,4.9,0.9,3157,3924,3.0,1395,a,2026-01-02
-548,Romaine Mundle,Mundle,Sunderland,4.9,0.0,16,17,0.8,101,a,2026-01-02
-549,Dan Neil,Neil,Sunderland,4.8,0.0,24,29,0.0,2,a,2026-01-02
-550,Ian Poveda-Ocampo,Poveda,Sunderland,4.8,0.0,9,21,0.0,0,a,2026-01-02
-551,Chris Rigg,Rigg,Sunderland,4.7,0.0,96,80,0.8,316,a,2026-01-02
-552,Noah Sadiki,Sadiki,Sunderland,5.0,0.0,7,75,1.2,1414,n,2026-01-02
-553,Chemsdine Talbi,Talbi,Sunderland,4.9,0.1,8,324,2.3,881,n,2026-01-02
-554,Abdoullah Ba,Ba,Sunderland,4.3,0.4,246,666,0.0,0,a,2026-01-02
-555,Alan Browne,Browne,Sunderland,4.5,0.0,0,8,0.0,0,u,2026-01-02
+546,Milan Aleksić,Aleksić,Sunderland,4.9,0.0,0,3,0.0,0,u,2026-01-02
+547,Enzo Le Fée,E.Le Fée,Sunderland,4.9,0.9,4253,4878,3.0,1395,a,2026-01-02
+548,Romaine Mundle,Mundle,Sunderland,4.9,0.0,22,23,0.8,101,a,2026-01-02
+549,Dan Neil,Neil,Sunderland,4.8,0.0,33,34,0.0,2,a,2026-01-02
+550,Ian Poveda-Ocampo,Poveda,Sunderland,4.8,0.0,15,23,0.0,0,a,2026-01-02
+551,Chris Rigg,Rigg,Sunderland,4.7,0.0,114,102,0.8,316,a,2026-01-02
+552,Noah Sadiki,Sadiki,Sunderland,5.0,0.0,7,84,1.2,1414,n,2026-01-02
+553,Chemsdine Talbi,Talbi,Sunderland,4.9,0.1,11,387,2.3,881,n,2026-01-02
+554,Abdoullah Ba,Ba,Sunderland,4.3,0.4,302,809,0.0,0,a,2026-01-02
+555,Alan Browne,Browne,Sunderland,4.5,0.0,0,13,0.0,0,u,2026-01-02
 556,Pierre Ekwah Elimby,Ekwah,Sunderland,4.5,0.0,0,1,0.0,0,u,2026-01-02
-557,Harrison Jones,H.Jones,Sunderland,4.3,0.1,98,74,0.0,0,a,2026-01-02
-558,Jay Matete,Matete,Sunderland,4.3,0.2,475,365,0.0,0,a,2026-01-02
+557,Harrison Jones,H.Jones,Sunderland,4.3,0.1,117,100,0.0,0,a,2026-01-02
+558,Jay Matete,Matete,Sunderland,4.3,0.2,579,462,0.0,0,a,2026-01-02
 559,Nectarios Triantis,Triantis,Sunderland,4.4,0.0,0,11,0.0,0,u,2026-01-02
-560,Wilson Isidor,Isidor,Sunderland,5.4,2.1,3480,8830,0.8,970,a,2026-01-02
-561,Eliezer Mayenda Dossou,Mayenda,Sunderland,5.2,0.5,362,464,0.5,373,a,2026-01-02
-562,Ahmed Abdullahi,Abdullahi,Sunderland,4.3,0.4,275,535,0.0,0,a,2026-01-02
-563,Luís Hemir Silva Semedo,Luís Hemir,Sunderland,4.4,0.1,0,21,0.0,0,u,2026-01-02
-564,Nazarii Rusyn,Rusyn,Sunderland,4.4,0.1,0,24,0.0,0,u,2026-01-02
-668,Granit Xhaka,Xhaka,Sunderland,5.2,6.8,29934,12299,3.8,1692,a,2026-01-02
-670,Robin Roefs,Roefs,Sunderland,4.8,10.1,46957,12352,5.0,1710,a,2026-01-02
-678,Arthur Masuaku,Masuaku,Sunderland,3.9,0.6,6,681,0.0,125,n,2026-01-02
-683,Omar Alderete,Alderete,Sunderland,4.0,5.7,41814,9868,5.0,1297,a,2026-01-02
-694,Nordi Mukiele,Mukiele,Sunderland,4.2,7.3,64711,11977,5.0,1530,a,2026-01-02
-724,Lutsharel Geertruida,Geertruida,Sunderland,4.5,0.0,303,110,2.7,802,a,2026-01-02
-730,Brian Brobbey,Brobbey,Sunderland,5.5,0.3,1343,2039,1.5,518,d,2026-01-02
-735,Bertrand Traoré,Traoré,Sunderland,5.5,0.0,8,118,0.7,607,n,2026-01-02
-774,Jenson Jones,Jenson Jones,Sunderland,4.0,0.0,53,11,0.0,0,a,2026-01-02
-775,Tymur Tutierov,Tutierov,Sunderland,4.5,0.0,34,8,0.0,0,a,2026-01-02
-565,Guglielmo Vicario,Vicario,Spurs,4.8,7.0,6469,9018,4.2,1710,a,2026-01-02
-566,Brandon Austin,Austin,Spurs,3.9,0.3,143,242,0.0,0,a,2026-01-02
-567,Antonín Kinský,Kinsky,Spurs,3.9,1.7,634,1389,0.0,0,a,2026-01-02
-568,Pedro Porro Sauceda,Pedro Porro,Spurs,5.2,12.6,15136,9813,4.4,1505,a,2026-01-02
-569,Cristian Romero,Romero,Spurs,5.0,3.7,8422,4294,3.2,1277,a,2026-01-02
-570,Kevin Danso,Danso,Spurs,4.2,0.1,167,210,1.6,581,a,2026-01-02
-571,Ben Davies,Davies,Spurs,4.3,0.1,71,51,0.2,31,a,2026-01-02
-572,Radu Drăgușin,Dragusin,Spurs,4.5,0.0,43,31,0.2,5,a,2026-01-02
-573,Djed Spence,Spence,Spurs,4.3,1.2,3334,1755,4.0,1253,a,2026-01-02
-574,Destiny Udogie,Udogie,Spurs,4.3,0.3,8,275,0.0,605,i,2026-01-02
-575,Micky van de Ven,Van de Ven,Spurs,4.5,26.8,58378,26904,4.8,1609,a,2026-01-02
+560,Wilson Isidor,Isidor,Sunderland,5.4,2.1,4340,11000,0.8,970,a,2026-01-02
+561,Eliezer Mayenda Dossou,Mayenda,Sunderland,5.2,0.5,486,582,0.5,373,a,2026-01-02
+562,Ahmed Abdullahi,Abdullahi,Sunderland,4.3,0.4,332,641,0.0,0,a,2026-01-02
+563,Luís Hemir Silva Semedo,Luís Hemir,Sunderland,4.4,0.1,0,25,0.0,0,u,2026-01-02
+564,Nazarii Rusyn,Rusyn,Sunderland,4.4,0.1,0,28,0.0,0,u,2026-01-02
+668,Granit Xhaka,Xhaka,Sunderland,5.2,6.9,38682,14899,3.8,1692,a,2026-01-02
+670,Robin Roefs,Roefs,Sunderland,4.8,10.2,61315,14841,5.0,1710,a,2026-01-02
+678,Arthur Masuaku,Masuaku,Sunderland,3.9,0.6,9,808,0.0,125,n,2026-01-02
+683,Omar Alderete,Alderete,Sunderland,4.0,5.8,53301,12059,5.0,1297,a,2026-01-02
+694,Nordi Mukiele,Mukiele,Sunderland,4.2,7.5,88642,14395,5.0,1530,a,2026-01-02
+724,Lutsharel Geertruida,Geertruida,Sunderland,4.5,0.0,403,136,2.7,802,a,2026-01-02
+730,Brian Brobbey,Brobbey,Sunderland,5.5,0.3,1453,2640,1.5,518,d,2026-01-02
+735,Bertrand Traoré,Traoré,Sunderland,5.5,0.0,8,141,0.7,607,n,2026-01-02
+774,Jenson Jones,Jenson Jones,Sunderland,4.0,0.0,63,19,0.0,0,a,2026-01-02
+775,Tymur Tutierov,Tutierov,Sunderland,4.5,0.0,36,11,0.0,0,a,2026-01-02
+565,Guglielmo Vicario,Vicario,Spurs,4.8,7.0,8170,10993,4.2,1710,a,2026-01-02
+566,Brandon Austin,Austin,Spurs,3.9,0.3,167,289,0.0,0,a,2026-01-02
+567,Antonín Kinský,Kinsky,Spurs,3.9,1.7,764,1693,0.0,0,a,2026-01-02
+568,Pedro Porro Sauceda,Pedro Porro,Spurs,5.2,12.6,20226,11659,4.4,1505,a,2026-01-02
+569,Cristian Romero,Romero,Spurs,5.0,3.7,10388,5099,3.2,1277,a,2026-01-02
+570,Kevin Danso,Danso,Spurs,4.2,0.1,182,258,1.6,581,a,2026-01-02
+571,Ben Davies,Davies,Spurs,4.3,0.1,78,63,0.2,31,a,2026-01-02
+572,Radu Drăgușin,Dragusin,Spurs,4.5,0.0,53,39,0.2,5,a,2026-01-02
+573,Djed Spence,Spence,Spurs,4.3,1.2,4210,2133,4.0,1253,a,2026-01-02
+574,Destiny Udogie,Udogie,Spurs,4.3,0.3,13,333,0.0,605,i,2026-01-02
+575,Micky van de Ven,Van de Ven,Spurs,4.5,26.8,72584,33050,4.8,1609,a,2026-01-02
 576,Ashley Phillips,Phillips,Spurs,4.0,0.0,0,3,0.0,0,u,2026-01-02
-577,Takai Kōta,Takai,Spurs,4.0,0.0,86,35,0.0,0,a,2026-01-02
-578,Luka Vušković,Vuskovic,Spurs,3.9,0.3,0,147,0.0,0,u,2026-01-02
-579,Son Heung-min,Son,Spurs,8.5,0.1,0,22,0.0,0,u,2026-01-02
-580,Brennan Johnson,Johnson,Spurs,6.5,2.4,2242,1640,0.6,602,a,2026-01-02
-581,James Maddison,Maddison,Spurs,6.8,0.1,19,43,0.0,0,i,2026-01-02
-582,Mohammed Kudus,Kudus,Spurs,6.4,14.1,20371,21536,2.4,1517,a,2026-01-02
-583,Dejan Kulusevski,Kulusevski,Spurs,6.4,0.0,15,10,0.0,0,i,2026-01-02
-584,Mathys Tel,Tel,Spurs,6.2,0.1,157,178,0.4,284,a,2026-01-02
-585,Rodrigo Bentancur,Bentancur,Spurs,5.3,0.2,641,361,3.8,1232,a,2026-01-02
-586,Lucas Bergvall,Bergvall,Spurs,5.3,0.2,54,470,1.0,724,d,2026-01-02
-587,Yves Bissouma,Bissouma,Spurs,5.2,0.0,10,18,0.0,0,n,2026-01-02
-588,Wilson Odobert,Odobert,Spurs,5.3,0.0,138,64,1.2,602,a,2026-01-02
+577,Takai Kōta,Takai,Spurs,4.0,0.0,99,43,0.0,0,u,2026-01-02
+578,Luka Vušković,Vuskovic,Spurs,3.9,0.3,0,187,0.0,0,u,2026-01-02
+579,Son Heung-min,Son,Spurs,8.5,0.1,0,25,0.0,0,u,2026-01-02
+581,James Maddison,Maddison,Spurs,6.8,0.1,22,50,0.0,0,i,2026-01-02
+582,Mohammed Kudus,Kudus,Spurs,6.4,14.1,25085,26840,2.4,1517,a,2026-01-02
+583,Dejan Kulusevski,Kulusevski,Spurs,6.4,0.0,17,16,0.0,0,i,2026-01-02
+584,Mathys Tel,Tel,Spurs,6.2,0.1,188,210,0.4,284,a,2026-01-02
+585,Rodrigo Bentancur,Bentancur,Spurs,5.3,0.2,852,455,3.8,1232,a,2026-01-02
+586,Lucas Bergvall,Bergvall,Spurs,5.3,0.2,65,552,1.0,724,d,2026-01-02
+587,Yves Bissouma,Bissouma,Spurs,5.2,0.0,12,22,0.0,0,n,2026-01-02
+588,Wilson Odobert,Odobert,Spurs,5.3,0.0,168,81,1.2,602,a,2026-01-02
 589,Manor Solomon,Solomon,Spurs,5.4,0.0,0,1,0.0,0,u,2026-01-02
-590,Bryan Gil Salvatierra,Bryan,Spurs,4.9,0.0,0,5,0.0,0,u,2026-01-02
-591,Archie Gray,Gray,Spurs,4.8,0.1,1048,281,3.4,525,a,2026-01-02
+590,Bryan Gil Salvatierra,Bryan,Spurs,4.9,0.0,0,8,0.0,0,u,2026-01-02
+591,Archie Gray,Gray,Spurs,4.8,0.1,1317,364,3.4,525,a,2026-01-02
 592,Mikey Moore,Moore,Spurs,5.0,0.0,0,1,0.0,0,u,2026-01-02
-593,Pape Matar Sarr,P.M.Sarr,Spurs,4.5,0.9,168,1610,0.2,703,n,2026-01-02
+593,Pape Matar Sarr,P.M.Sarr,Spurs,4.5,0.8,188,1937,0.2,703,n,2026-01-02
 594,Yang Min-hyeok,Min-hyeok,Spurs,4.5,0.0,0,2,0.0,0,u,2026-01-02
-595,Callum Olusesi,Olusesi,Spurs,4.3,0.2,287,282,0.0,0,a,2026-01-02
-596,Dominic Solanke-Mitchell,Solanke,Spurs,7.2,0.9,41,234,0.0,31,i,2026-01-02
-597,Richarlison de Andrade,Richarlison,Spurs,6.4,7.8,20219,14452,4.2,1163,a,2026-01-02
+595,Callum Olusesi,Olusesi,Spurs,4.3,0.2,350,345,0.0,0,a,2026-01-02
+596,Dominic Solanke-Mitchell,Solanke,Spurs,7.2,0.9,49,275,0.0,31,i,2026-01-02
+597,Richarlison de Andrade,Richarlison,Spurs,6.4,7.8,24803,18007,4.2,1163,a,2026-01-02
 598,Will Lankshear,Lankshear,Spurs,4.5,0.0,0,4,0.0,0,u,2026-01-02
-599,Dane Scarlett,Scarlett,Spurs,4.3,0.6,306,590,0.0,0,a,2026-01-02
-673,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,J.Palhinha,Spurs,5.5,1.0,1088,2462,1.8,1191,a,2026-01-02
-717,Xavi Simons,Xavi,Spurs,6.5,1.0,91,2968,3.2,830,s,2026-01-02
-726,Randal Kolo Muani,Kolo Muani,Spurs,6.9,0.3,621,1105,1.8,695,a,2026-01-02
-745,Jun'ai Byfield,Byfield,Spurs,4.0,0.0,26,41,0.0,0,a,2026-01-02
-750,James Rowswell,Rowswell,Spurs,4.0,0.0,32,35,0.0,0,a,2026-01-02
-751,Yusuf Akhamrich,Akhamrich,Spurs,4.5,0.0,27,24,0.0,0,a,2026-01-02
-149,Igor Julio dos Santos de Paulo,Igor,West Ham,4.5,0.1,315,158,0.0,103,a,2026-01-02
-600,Alphonse Areola,Areola,West Ham,4.3,2.2,7287,3225,2.3,1350,a,2026-01-02
-601,Wes Foderingham,Foderingham,West Ham,4.0,0.2,0,169,0.0,0,u,2026-01-02
-602,Krisztián Hegyi,Hegyi,West Ham,3.9,0.2,239,225,0.0,0,a,2026-01-02
-603,El Hadji Malick Diouf,Diouf,West Ham,4.0,1.4,134,3113,1.5,1387,n,2026-01-02
-604,Emerson Palmieri dos Santos,Emerson,West Ham,4.4,0.1,0,12,0.0,0,u,2026-01-02
-605,Maximilian Kilman,Kilman,West Ham,4.2,0.2,2223,720,1.7,1443,a,2026-01-02
-606,Konstantinos Mavropanos,Mavropanos,West Ham,4.4,0.1,694,235,1.8,911,a,2026-01-02
-607,Nayef Aguerd,N.Aguerd,West Ham,4.4,0.0,0,7,0.0,180,u,2026-01-02
-608,Ollie Scarles,Scarles,West Ham,4.3,0.0,891,116,1.0,312,a,2026-01-02
-609,Jean-Clair Todibo,Todibo,West Ham,4.3,0.1,126,550,1.7,1161,d,2026-01-02
-610,Aaron Wan-Bissaka,Wan-Bissaka,West Ham,4.2,4.1,44,4943,1.3,1011,n,2026-01-02
-611,Kaelan Casey,Casey,West Ham,4.0,0.1,0,29,0.0,0,u,2026-01-02
-612,Lucas Tolentino Coelho de Lima,L.Paquetá,West Ham,5.9,2.1,73448,5960,3.8,1451,a,2026-01-02
-613,Tomáš Souček,Souček,West Ham,5.7,0.2,399,395,1.2,581,a,2026-01-02
-614,James Ward-Prowse,Ward-Prowse,West Ham,5.6,0.2,252,178,0.0,414,a,2026-01-02
-615,Crysencio Summerville,Summerville,West Ham,5.5,0.1,569,496,1.5,957,a,2026-01-02
-616,Edson Álvarez Velázquez,Álvarez,West Ham,4.9,0.0,0,8,0.0,0,u,2026-01-02
-617,Maxwel Cornet,Cornet,West Ham,4.9,0.0,0,1,0.0,0,u,2026-01-02
-618,Guido Rodríguez,G.Rodriguez,West Ham,4.8,0.0,37,47,0.7,164,a,2026-01-02
-619,Luis Guilherme Lira dos Santos,L.Guilherme,West Ham,4.9,0.0,26,28,0.0,121,a,2026-01-02
-620,George Earthy,Earthy,West Ham,4.5,0.0,55,42,0.2,8,a,2026-01-02
-621,Andy Irving,Irving,West Ham,4.3,0.3,726,490,0.2,156,a,2026-01-02
-622,Lewis Orford,Orford,West Ham,4.4,0.1,0,16,0.0,0,u,2026-01-02
-623,Freddie Potts,Potts,West Ham,4.4,0.8,4112,1841,2.2,912,a,2026-01-02
-624,Jarrod Bowen,Bowen,West Ham,7.6,8.2,123762,12343,5.3,1710,a,2026-01-02
-625,Niclas Füllkrug,Füllkrug,West Ham,5.6,0.6,274,401,0.0,407,a,2026-01-02
-626,Callum Marshall,Marshall,West Ham,4.3,0.6,336,690,0.0,58,a,2026-01-02
-659,Kyle Walker-Peters,Walker-Peters,West Ham,4.2,0.3,1739,628,1.0,772,a,2026-01-02
-671,Callum Wilson,Wilson,West Ham,5.8,0.7,4610,2922,2.3,713,a,2026-01-02
-679,Mads Hermansen,Hermansen,West Ham,4.3,0.2,43,118,0.0,360,a,2026-01-02
-708,Mateus Gonçalo Espanha Fernandes,M.Fernandes,West Ham,5.5,0.2,3382,1398,4.2,1324,a,2026-01-02
-718,Soungoutou Magassa,S.Magassa,West Ham,5.0,0.0,646,221,4.2,687,a,2026-01-02
-738,Lukasz Fabianski,Fabianski,West Ham,4.5,0.0,298,109,0.0,0,a,2026-01-02
-747,Ezra Mayers,Mayers,West Ham,4.0,0.0,70,68,0.5,40,a,2026-01-02
-752,Airidas Golambeckis,Golambeckis,West Ham,4.0,0.0,43,46,0.0,0,a,2026-01-02
-758,Mohamadou Kanté,Mohamadou Kanté,West Ham,4.5,0.0,58,44,0.5,16,a,2026-01-02
-627,Sam Johnstone,Johnstone,Wolves,4.4,0.1,292,200,0.3,1080,a,2026-01-02
-628,José Malheiro de Sá,José Sá,Wolves,4.2,1.0,1364,726,1.2,630,a,2026-01-02
-629,Daniel Bentley,Bentley,Wolves,3.9,0.5,176,384,0.0,0,d,2026-01-02
-631,Emmanuel Agbadou,Agbadou,Wolves,4.3,0.1,12,142,0.7,1010,n,2026-01-02
-632,Matt Doherty,Doherty,Wolves,4.4,0.1,291,65,1.5,599,a,2026-01-02
-633,Hugo Bueno López,H.Bueno,Wolves,4.3,0.1,554,84,1.2,978,a,2026-01-02
-634,Yerson Mosquera Valdelamar,Mosquera,Wolves,4.3,0.0,234,58,1.2,686,a,2026-01-02
-635,Rodrigo Martins Gomes,R.Gomes,Wolves,4.4,0.1,7,45,0.0,331,i,2026-01-02
-636,Santiago Ignacio Bueno,S.Bueno,Wolves,4.4,0.1,57,198,1.7,844,d,2026-01-02
-637,Toti Gomes,Toti,Wolves,4.2,0.1,10,196,1.2,949,i,2026-01-02
-638,Ki-Jana Hoever,Hoever,Wolves,3.8,1.3,3953,3182,0.8,423,a,2026-01-02
+599,Dane Scarlett,Scarlett,Spurs,4.3,0.6,367,698,0.0,0,a,2026-01-02
+673,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,J.Palhinha,Spurs,5.5,1.0,1307,3032,1.8,1191,a,2026-01-02
+717,Xavi Simons,Xavi,Spurs,6.5,0.9,104,3533,3.2,830,s,2026-01-02
+726,Randal Kolo Muani,Kolo Muani,Spurs,6.9,0.3,792,1331,1.8,695,a,2026-01-02
+745,Jun'ai Byfield,Byfield,Spurs,4.0,0.0,31,45,0.0,0,a,2026-01-02
+750,James Rowswell,Rowswell,Spurs,4.0,0.0,39,42,0.0,0,a,2026-01-02
+751,Yusuf Akhamrich,Akhamrich,Spurs,4.5,0.0,30,27,0.0,0,a,2026-01-02
+149,Igor Julio dos Santos de Paulo,Igor,West Ham,4.5,0.1,415,184,0.0,103,a,2026-01-02
+600,Alphonse Areola,Areola,West Ham,4.3,2.2,9031,3970,2.3,1350,a,2026-01-02
+601,Wes Foderingham,Foderingham,West Ham,4.0,0.2,0,206,0.0,0,u,2026-01-02
+602,Krisztián Hegyi,Hegyi,West Ham,3.9,0.2,290,278,0.0,0,a,2026-01-02
+603,El Hadji Malick Diouf,Diouf,West Ham,4.0,1.4,166,3881,1.5,1387,n,2026-01-02
+604,Emerson Palmieri dos Santos,Emerson,West Ham,4.4,0.1,0,13,0.0,0,u,2026-01-02
+605,Maximilian Kilman,Kilman,West Ham,4.2,0.2,2841,904,1.7,1443,a,2026-01-02
+606,Konstantinos Mavropanos,Mavropanos,West Ham,4.4,0.1,882,284,1.8,911,a,2026-01-02
+607,Nayef Aguerd,N.Aguerd,West Ham,4.4,0.0,0,9,0.0,180,u,2026-01-02
+608,Ollie Scarles,Scarles,West Ham,4.3,0.0,1132,136,1.0,312,a,2026-01-02
+609,Jean-Clair Todibo,Todibo,West Ham,4.3,0.1,132,661,1.7,1161,d,2026-01-02
+610,Aaron Wan-Bissaka,Wan-Bissaka,West Ham,4.2,4.0,49,5995,1.3,1011,n,2026-01-02
+611,Kaelan Casey,Casey,West Ham,4.0,0.1,0,36,0.0,0,u,2026-01-02
+612,Lucas Tolentino Coelho de Lima,L.Paquetá,West Ham,5.9,2.3,93984,7946,3.8,1451,a,2026-01-02
+613,Tomáš Souček,Souček,West Ham,5.7,0.2,516,476,1.2,581,a,2026-01-02
+614,James Ward-Prowse,Ward-Prowse,West Ham,5.6,0.2,314,211,0.0,414,a,2026-01-02
+615,Crysencio Summerville,Summerville,West Ham,5.5,0.1,735,627,1.5,957,a,2026-01-02
+616,Edson Álvarez Velázquez,Álvarez,West Ham,4.9,0.0,0,9,0.0,0,u,2026-01-02
+617,Maxwel Cornet,Cornet,West Ham,4.9,0.0,0,2,0.0,0,u,2026-01-02
+618,Guido Rodríguez,G.Rodriguez,West Ham,4.8,0.0,45,57,0.7,164,a,2026-01-02
+619,Luis Guilherme Lira dos Santos,L.Guilherme,West Ham,4.9,0.0,34,34,0.0,121,a,2026-01-02
+620,George Earthy,Earthy,West Ham,4.5,0.0,64,58,0.2,8,a,2026-01-02
+621,Andy Irving,Irving,West Ham,4.3,0.3,887,594,0.2,156,a,2026-01-02
+622,Lewis Orford,Orford,West Ham,4.4,0.1,0,21,0.0,0,u,2026-01-02
+623,Freddie Potts,Potts,West Ham,4.4,0.8,5226,2322,2.2,912,a,2026-01-02
+624,Jarrod Bowen,Bowen,West Ham,7.6,8.5,164103,15399,5.3,1710,a,2026-01-02
+625,Niclas Füllkrug,Füllkrug,West Ham,5.6,0.6,347,495,0.0,407,u,2026-01-02
+626,Callum Marshall,Marshall,West Ham,4.3,0.6,404,818,0.0,58,a,2026-01-02
+659,Kyle Walker-Peters,Walker-Peters,West Ham,4.2,0.3,2310,805,1.0,772,a,2026-01-02
+671,Callum Wilson,Wilson,West Ham,5.8,0.8,5941,3648,2.3,713,a,2026-01-02
+679,Mads Hermansen,Hermansen,West Ham,4.3,0.2,48,155,0.0,360,a,2026-01-02
+708,Mateus Gonçalo Espanha Fernandes,M.Fernandes,West Ham,5.5,0.2,4310,1721,4.2,1324,a,2026-01-02
+718,Soungoutou Magassa,S.Magassa,West Ham,5.0,0.0,770,277,4.2,687,a,2026-01-02
+738,Lukasz Fabianski,Fabianski,West Ham,4.5,0.0,351,138,0.0,0,a,2026-01-02
+747,Ezra Mayers,Mayers,West Ham,4.0,0.0,78,79,0.5,40,a,2026-01-02
+752,Airidas Golambeckis,Golambeckis,West Ham,4.0,0.0,47,61,0.0,0,a,2026-01-02
+758,Mohamadou Kanté,Mohamadou Kanté,West Ham,4.5,0.0,70,55,0.5,16,a,2026-01-02
+627,Sam Johnstone,Johnstone,Wolves,4.4,0.1,370,259,0.3,1080,a,2026-01-02
+628,José Malheiro de Sá,José Sá,Wolves,4.2,1.0,1738,890,1.2,630,a,2026-01-02
+629,Daniel Bentley,Bentley,Wolves,3.9,0.5,215,469,0.0,0,d,2026-01-02
+631,Emmanuel Agbadou,Agbadou,Wolves,4.3,0.1,15,184,0.7,1010,n,2026-01-02
+632,Matt Doherty,Doherty,Wolves,4.4,0.1,364,83,1.5,599,a,2026-01-02
+633,Hugo Bueno López,H.Bueno,Wolves,4.3,0.1,752,105,1.2,978,a,2026-01-02
+634,Yerson Mosquera Valdelamar,Mosquera,Wolves,4.3,0.1,303,72,1.2,686,a,2026-01-02
+635,Rodrigo Martins Gomes,R.Gomes,Wolves,4.4,0.1,7,48,0.0,331,i,2026-01-02
+636,Santiago Ignacio Bueno,S.Bueno,Wolves,4.4,0.1,80,241,1.7,844,d,2026-01-02
+637,Toti Gomes,Toti,Wolves,4.2,0.1,13,232,1.2,949,i,2026-01-02
+638,Ki-Jana Hoever,Hoever,Wolves,3.8,1.3,4730,3965,0.8,423,a,2026-01-02
 639,Bastien Meupiyou Menadjou,Meupiyou,Wolves,4.0,0.0,0,0,0.0,0,u,2026-01-02
-640,Pedro Cardoso de Lima,Pedro Lima,Wolves,4.0,0.4,0,253,0.0,0,u,2026-01-02
-641,Alfie Pond,Pond,Wolves,3.9,1.2,181,1002,0.0,0,a,2026-01-02
-642,Hwang Hee-chan,Hee Chan,Wolves,5.6,0.1,744,164,1.2,729,a,2026-01-02
-643,André Trindade da Costa Neto,André,Wolves,5.3,0.1,171,135,2.2,1333,a,2026-01-02
-644,Jean-Ricner Bellegarde,Bellegarde,Wolves,5.2,0.0,8,37,1.5,685,i,2026-01-02
-645,Fer López González,Fer López,Wolves,5.2,0.0,29,27,0.8,228,a,2026-01-02
-646,João Victor Gomes da Silva,Gomes,Wolves,5.3,0.1,972,170,2.5,1459,a,2026-01-02
+640,Pedro Cardoso de Lima,Pedro Lima,Wolves,4.0,0.4,0,297,0.0,0,u,2026-01-02
+641,Alfie Pond,Pond,Wolves,3.9,1.2,223,1225,0.0,0,a,2026-01-02
+642,Hwang Hee-chan,Hee Chan,Wolves,5.6,0.1,945,201,1.2,729,a,2026-01-02
+643,André Trindade da Costa Neto,André,Wolves,5.3,0.1,270,151,2.2,1333,a,2026-01-02
+644,Jean-Ricner Bellegarde,Bellegarde,Wolves,5.2,0.0,14,42,1.5,685,i,2026-01-02
+645,Fer López González,Fer López,Wolves,5.2,0.0,43,31,0.8,228,a,2026-01-02
+646,João Victor Gomes da Silva,Gomes,Wolves,5.3,0.1,1300,219,2.5,1459,a,2026-01-02
 647,Gonçalo Manuel Ganchinho Guedes,Guedes,Wolves,5.5,0.0,0,0,0.0,0,u,2026-01-02
-648,Marshall Munetsi,Munetsi,Wolves,5.3,0.0,14,65,0.2,872,i,2026-01-02
+648,Marshall Munetsi,Munetsi,Wolves,5.3,0.0,19,82,0.2,872,i,2026-01-02
 649,Boubacar Traoré,B.Traore,Wolves,5.0,0.0,0,1,0.0,0,u,2026-01-02
-650,Tawanda Chirewa,Chirewa,Wolves,4.3,0.2,64,287,0.0,21,d,2026-01-02
-651,Tom Edozie,Edozie,Wolves,4.3,0.4,712,677,0.0,0,a,2026-01-02
-652,Enso González Medina,Gonzalez,Wolves,4.3,1.4,2980,2473,0.0,0,a,2026-01-02
-653,Joe Hodge,Hodge,Wolves,4.5,0.0,0,11,0.0,0,u,2026-01-02
-654,Jørgen Strand Larsen,Strand Larsen,Wolves,6.1,0.9,1023,1058,1.0,1257,a,2026-01-02
-655,Fábio Soares Silva,Fábio Silva,Wolves,4.9,0.2,0,41,0.0,0,u,2026-01-02
-656,Saša Kalajdžić,Kalajdžić,Wolves,4.9,0.1,0,11,0.0,14,u,2026-01-02
-657,Leon Chiwome,Chiwome,Wolves,4.4,0.0,22,42,0.0,0,i,2026-01-02
-658,Nathan Fraser,Fraser,Wolves,4.3,1.7,818,1966,0.0,0,a,2026-01-02
-663,Jhon Arias,J.Arias,Wolves,4.9,0.1,426,113,1.8,908,a,2026-01-02
-682,David Møller Wolfe,Møller Wolfe,Wolves,4.3,0.1,45,63,1.5,701,a,2026-01-02
-695,Jackson Tchatchoua,Tchatchoua,Wolves,4.4,0.0,128,45,1.0,921,a,2026-01-02
-709,Ladislav Krejcí,Krejčí,Wolves,4.5,0.1,1517,150,2.2,1233,a,2026-01-02
-720,Tolu Arokodare,Tolu,Wolves,5.4,0.1,950,275,2.8,488,a,2026-01-02
-749,Mateus Mané,Mané,Wolves,4.5,0.2,4769,1523,1.8,271,a,2026-01-02
-766,Saheed Olagunju,Olagunju,Wolves,4.0,0.0,47,27,0.0,0,a,2026-01-02
-767,Luke Rawlings,Rawlings,Wolves,4.5,0.0,44,27,0.0,0,a,2026-01-02
-777,Temple Ojinnaka,Ojinnaka,Wolves,4.5,0.0,17,5,0.0,0,a,2026-01-02
-778,Ethan Sutherland,Sutherland,Wolves,4.5,0.0,76,15,0.0,0,a,2026-01-02
+650,Tawanda Chirewa,Chirewa,Wolves,4.3,0.2,85,338,0.0,21,d,2026-01-02
+651,Tom Edozie,Edozie,Wolves,4.3,0.4,865,833,0.0,0,a,2026-01-02
+652,Enso González Medina,Gonzalez,Wolves,4.3,1.4,3585,2997,0.0,0,a,2026-01-02
+653,Joe Hodge,Hodge,Wolves,4.5,0.0,0,12,0.0,0,u,2026-01-02
+654,Jørgen Strand Larsen,Strand Larsen,Wolves,6.1,0.9,1345,1280,1.0,1257,a,2026-01-02
+655,Fábio Soares Silva,Fábio Silva,Wolves,4.9,0.2,0,51,0.0,0,u,2026-01-02
+656,Saša Kalajdžić,Kalajdžić,Wolves,4.9,0.1,0,13,0.0,14,u,2026-01-02
+657,Leon Chiwome,Chiwome,Wolves,4.4,0.0,32,59,0.0,0,i,2026-01-02
+658,Nathan Fraser,Fraser,Wolves,4.3,1.7,952,2369,0.0,0,a,2026-01-02
+663,Jhon Arias,J.Arias,Wolves,4.9,0.1,547,144,1.8,908,a,2026-01-02
+682,David Møller Wolfe,Møller Wolfe,Wolves,4.3,0.1,53,75,1.5,701,a,2026-01-02
+695,Jackson Tchatchoua,Tchatchoua,Wolves,4.4,0.0,173,56,1.0,921,a,2026-01-02
+709,Ladislav Krejcí,Krejčí,Wolves,4.5,0.1,1941,189,2.2,1233,a,2026-01-02
+720,Tolu Arokodare,Tolu,Wolves,5.4,0.1,1245,350,2.8,488,a,2026-01-02
+749,Mateus Mané,Mané,Wolves,4.5,0.2,5974,1903,1.8,271,a,2026-01-02
+766,Saheed Olagunju,Olagunju,Wolves,4.0,0.0,64,33,0.0,0,a,2026-01-02
+767,Luke Rawlings,Rawlings,Wolves,4.5,0.0,55,34,0.0,0,a,2026-01-02
+777,Temple Ojinnaka,Ojinnaka,Wolves,4.5,0.0,19,5,0.0,0,a,2026-01-02
+778,Ethan Sutherland,Sutherland,Wolves,4.5,0.0,96,19,0.0,0,a,2026-01-02
