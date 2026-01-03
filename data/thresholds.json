@@ -1,8 +1,8 @@
 {
   "rise_quantile": 0.9,
   "fall_quantile": 0.1,
-  "accuracy": 0.5,
-  "samples": 8,
+  "accuracy": 0.429,
+  "samples": 7,
   "scope": "imminent_only",
   "horizon": "D+1"
 }
